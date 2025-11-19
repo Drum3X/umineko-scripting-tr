@@ -57,7 +57,7 @@
 `İşaret parmağını kaldırdığında, altın bir kelebek usulca parmağına kondu ve form değiştirerek onun en sevdiği büyü asasına dönüştü.`
 `Bu bile {f:5:Beatrice}'in harika ve muazzam büyü gücüne dair küçük bir fikir edinmem için yeterliydi.`
 `Asasını kırık vazoya doğrulttu ve tıpkı bir çocuk ninnisinde söylendiği gibi büyülü sözcükleri söylemeye başladı...`
-`"Gel, gözlerini kapatmayı dene.`
+`"Hadi, gözlerini kapatmayı dene.`
 ` Ve hatırlamaya çalış.`
 ` Senin nasıl bir formun vardı?`
 ` Eminim çok, çok güzel bir formdu.`
@@ -216,7 +216,7 @@
 `Ve söyledim.`
 ` Şarkıyı söyledim.`
 ` Hatırlamasını sağladım.`
-`"......Gel, hatırlamaya çalış.`
+`"......Hadi, hatırlamaya çalış.`
 ` Senin nasıl bir formun vardı?`
 ` ...Sonuçta, şu anda bana kocaman bir et yığınından başka bir şey gibi görünmüyorsun."`
 `"Hangi parçaların kol, hangi parçaların bacak olduğu hakkında hiçbir fikrim yok.`
@@ -330,4 +330,4 @@
 ` Wahhahahahahahahahahahaha!!`
 ` Seni tekrar tekrar dirilteceğim, tekrar tekrar öldüreceğim!"`
 `"Pekâlâ, bir sonraki oyun tahtasında nasıl bir cinayet çılgınlığına imza atmalıyım?`
-` Gel, yeni oyun tahtasını getir. Neden bir sonraki oyuna başlamıyoruz, Ushiromiya Battler!!"`
+` Hadi, yeni oyun tahtasını getir. Neden bir sonraki oyuna başlamıyoruz, Ushiromiya Battler!!"`

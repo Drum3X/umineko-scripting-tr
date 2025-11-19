@@ -404,9 +404,9 @@
 `"......Uu."`
 `Maria gözlerini kapattı.`
 `{n}Ardından {f:5:Beatrice}'in şiir benzeri sözlerini tekrarladı...`
-`"Gel, hatırlamaya çalış.`
+`"Hadi, hatırlamaya çalış.`
 ` Gül, senin nasıl bir formun vardı?"`
-`"...Gel, hatırlamaya çalış.`
+`"...Hadi, hatırlamaya çalış.`
 ` Gül, senin nasıl bir formun vardı...?"`
 `"Bakma.`
 ` Duyma.`
