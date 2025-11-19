@@ -94,15 +94,15 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
       * [Chapter 3](../../tree/master/story/ep3/tr/umi3_3.txt) ✅
       * [Chapter 4](../../tree/master/story/ep3/tr/umi3_4.txt) ✅
       * [Chapter 5](../../tree/master/story/ep3/tr/umi3_5.txt) ✅
-      * [Chapter 6](../../tree/master/story/ep3/tr/umi3_6.txt) `<- Burdayız`
-      * [Chapter 7](../../tree/master/story/ep3/tr/umi3_7.txt) ❌
-      * [Chapter 8](../../tree/master/story/ep3/tr/umi3_8.txt) ❌
-      * [Chapter 9](../../tree/master/story/ep3/tr/umi3_9.txt) ❌
-      * [Chapter 10](../../tree/master/story/ep3/tr/umi3_10.txt) ❌
-      * [Chapter 11](../../tree/master/story/ep3/tr/umi3_11.txt) ❌
-      * [Chapter 12](../../tree/master/story/ep3/tr/umi3_12.txt) ❌
-      * [Chapter 13](../../tree/master/story/ep3/tr/umi3_13.txt) ❌
-      * [Chapter 14](../../tree/master/story/ep3/tr/umi3_14.txt) ❌
+      * [Chapter 6](../../tree/master/story/ep3/tr/umi3_6.txt) ✅
+      * [Chapter 7](../../tree/master/story/ep3/tr/umi3_7.txt) ✅
+      * [Chapter 8](../../tree/master/story/ep3/tr/umi3_8.txt) ✅
+      * [Chapter 9](../../tree/master/story/ep3/tr/umi3_9.txt) ✅
+      * [Chapter 10](../../tree/master/story/ep3/tr/umi3_10.txt) ✅
+      * [Chapter 11](../../tree/master/story/ep3/tr/umi3_11.txt) ✅
+      * [Chapter 12](../../tree/master/story/ep3/tr/umi3_12.txt) ✅
+      * [Chapter 13](../../tree/master/story/ep3/tr/umi3_13.txt) ✅
+      * [Chapter 14](../../tree/master/story/ep3/tr/umi3_14.txt) ✅
       * [Chapter 15](../../tree/master/story/ep3/tr/umi3_15.txt) ❌
       * [Chapter 16](../../tree/master/story/ep3/tr/umi3_16.txt) ❌
       * [Chapter 17](../../tree/master/story/ep3/tr/umi3_17.txt) ❌
