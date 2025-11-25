@@ -103,11 +103,11 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
       * [Chapter 12](../../tree/master/story/ep3/tr/umi3_12.txt) ✅
       * [Chapter 13](../../tree/master/story/ep3/tr/umi3_13.txt) ✅
       * [Chapter 14](../../tree/master/story/ep3/tr/umi3_14.txt) ✅
-      * [Chapter 15](../../tree/master/story/ep3/tr/umi3_15.txt) ❌
-      * [Chapter 16](../../tree/master/story/ep3/tr/umi3_16.txt) ❌
-      * [Chapter 17](../../tree/master/story/ep3/tr/umi3_17.txt) ❌
-      * [Chapter 18](../../tree/master/story/ep3/tr/umi3_18.txt) ❌
-      * [Chapter 19 (Tea Party)](../../tree/master/story/ep3/tr/umi3_19.txt) ❌
+      * [Chapter 15](../../tree/master/story/ep3/tr/umi3_15.txt) ✅
+      * [Chapter 16](../../tree/master/story/ep3/tr/umi3_16.txt) ✅
+      * [Chapter 17](../../tree/master/story/ep3/tr/umi3_17.txt) ✅
+      * [Chapter 18](../../tree/master/story/ep3/tr/umi3_18.txt) ✅
+      * [Chapter 19 (Tea Party)](../../tree/master/story/ep3/tr/umi3_19.txt) ✅
       * [Chapter 20 (Hidden Tea Party)](../../tree/master/story/ep3/tr/umi3_20.txt) ❌
          * [Song: activepain](../../../umineko-scripting-tr-files/tree/master/files/video/sub/83_tr.ass) ✅
    * Other
