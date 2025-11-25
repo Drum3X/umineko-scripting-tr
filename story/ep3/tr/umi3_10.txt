@@ -611,7 +611,7 @@
 `"......Eva.`
 ` Eğer uykun varsa, abartma.`
 ` Önce sen dinlen."`
-`"T-......teşekkür ederim.`
+`"T-......Teşekkür ederim.`
 ` Sadece yüzümü yıkamak için biraz lavaboya gidiyorum."`
 `"Ağır almalı ve dinlenmelisin.`
 ` ...Sağlığın yine kötüye gidecek, biliyorsun?"`

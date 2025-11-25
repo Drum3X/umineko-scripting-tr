@@ -477,7 +477,7 @@
 ` Eğer yaparsan, son anlarını mutluluk dolu, harika bir coşku içinde geçirebilirsin, ben de seni nazikçe, nazikçe bitiririm......"`
 `"Sessiz ol, cadının mobilyası.`
 ` ...Seninle konuşmaya niyetim yok."`
-`"Y-......yani benim hakkımda hiçbir şey düşünmediğini mi söylüyorsun...?"`
+`"Y-......Yani benim hakkımda hiçbir şey düşünmediğini mi söylüyorsun...?"`
 `"Hehhheh{0}eh{0}eh{0}eh{0}eh{0}eheheh, hoşuma gitmedi, o saygısız bakışın...`
 ` Gerçekten hoşlanmadııııım!!"`
 `"............Kanon‐kun..............."`
@@ -611,7 +611,7 @@
 ` *cackle*cackle*!`
 ` Artık senin hakkında daha iyi düşünüyorum.`
 ` Gerçekten senin hakkında daha iyi düşünüyorum!"`
-`"U-......umarım sözümüzü unutmamışsındır...`
+`"U-......Umarım sözümüzü unutmamışsındır...`
 ` {f:5:Beatrice}..."`
 `"Mhm.`
 ` Elbette unutmadım.`

@@ -442,7 +442,7 @@
 ` Tasdik edeceğim.`
 ` Şimdi, bu yığılı altının tamamı ve Ushiromiya ailesinin her şeyi, dilediğini yapman için senindir.`
 ` Zira şu andan itibaren, sen zaten Ushiromiya aile reisisin."`
-`"G-......gerçekten mi?`
+`"G-......Gerçekten mi?`
 ` Bu doğru, değil mi?`
 ` Değil mi?!"`
 `"Telaşlanma.`
@@ -484,7 +484,7 @@
 `"Kaç gece onu şimdi yaptığın gibi kendi parmağına takmayı hayal ettin?`
 ` ......O duyguların gücü senin büyün haline geldi ve bunu gerçeğe dönüştürdü.`
 ` Şimdi, kendini gerçek bir cadı olarak adlandırmaya layıksın."`
-`"............S-......sen kimsin?`
+`"............S-......Sen kimsin?`
 ` ...Gerçekten......{f:5:Beatrice} misin......"`
 `"*cackle*cackle*.`
 ` Ben Altın Cadı {f:5:Beatrice}'im!`
@@ -546,7 +546,7 @@
 `"Yeni {f:5:Beatrice}.`
 ` Altın Cadı'nın veraseti için tebrikler.`
 ` ...Umarım asil bir Altın Cadı ve Sonsuz Cadı olarak kendi ayaklarınızın üzerinde durabilirsiniz."`
-`"E-.........evet, ...elimden geleni yapacağım..."`
+`"E-.........Evet, ...elimden geleni yapacağım..."`
 `"Sizden, yaramaz selefinizin aksine, Sonsuz Cadı'ya yakışır bir soğukkanlılık bekliyorum.`
 ` Hoh-hohohohoho."`
 `"Ustaaa, ciddi bir törenin ortasındayız, o yüzden lütfen, yeter bu kadaaaar..."`
@@ -640,7 +640,7 @@
 ` Sadece "Altın Cadı" unvanını aldı ve gelecekte kendini böyle çağırabilir.`
 ` ......Bu veraset töreni, şüphesiz, o çocuğun "yorumuna" göre gerçekleştirilenden başka bir şey değil.`
 ` Aynı hamleye tekrar kanmayın."`
-`"Ö-......öyle değil mi...`
+`"Ö-......Öyle değil mi...`
 ` Bütün o görkemli törenin hepsi sahteydi.`
 ` Ama en azından Eva Teyze'nin kitabenin bilmecesini çözdüğü bir gerçek.`
 ` ......Aynı zamanda, bu onun Ushiromiya aile reisliğini miras aldığı anlamına geliyor."`

@@ -1,464 +1,464 @@
-`...Even though it was a pitch‐black world where nothing could be seen,`
-` ......for some reason, I felt Beato's presence right next to me.`
-`......So I tried calling out to her.`
-`{n}...You can exchange words with someone whether they're a human or a witch.`
-`......So even in a world where witches have been denied......I should be allowed to talk to her...`
+`"...Hiçbir şeyin görülemediği zifiri karanlık bir dünya olsa da,`
+` ......nedense, Beato'nun varlığını hemen yanımda hissettim.`
+`......Bu yüzden ona seslenmeyi denedim.`
+`{n}...İster insan ister cadı olsun, birbirimizle konuşabiliriz.`
+`......Yani cadıların reddedildiği bir dünyada bile......onunla konuşmama izin verilmeli...`
 `"...............Beato......"`
-`"......Battler, is it...`
-` ...............It is done.`
-` ......I...did it."`
-`"...Yeah.`
-` ......I didn't hear it,`
-` .........but I watched you...until the very end...`
-` I was watching......as you boldly stood up to that evil witch..."`
-`".........With this, ...I am no longer a witch.`
-` ............But, I will definitely...become a witch again...`
-` ......And...`
-`...I will make it so that I can be called the Golden Witch again,`
-` .........and then,`
-` ......when I am ready to be accepted as your opponent,`
-` .........I will return once more......"`
-`"No.`
-` .........You...were a witch."`
-`"...............Huh......?"`
-`"...I...was watching.`
-` .........When you took that evil witch,`
-` ......and blew her away with that awesome magic, exposing her true form,`
-` ...I was watching with my own eyes..."`
-`"Th‐...that wasn't magic,`
-` ......but the red—"`
-`"No, it was magic.`
-` .........You were definitely...the Golden Witch.`
-` .........Even if you deny it yourself,`
-` .........I'll accept it.`
-` ............‘You are definitely...`
-`the Golden Witch’."`
-`.........When Battler said those words...`
-`In the world that had been dark, ...there was suddenly a single grain.`
-`...A small grain of gold, like a wheat seed, shone brightly.`
-`{n}...Even though it was small, it had a strong, gold‐colored glow.`
-`And......it illuminated the two of them, sitting with their backs together...`
-`So they each became aware of their own form.`
-`...They did not exist only as consciousness.`
-`......They became aware that they had bodies, and definitely existed.`
-`...No, maybe we should say that they each had been given an existence called a body.`
-`When Battler looked at his own form, he wasn't that surprised.`
-`...But when Beato looked at her own form, she was a little startled.`
-`......From Battler's perspective, she looked just like normal,`
-` ......but for a short while, she was surprised by that form...`
-`".........What............`
-`......is going on.........?"`
-`"The glow from that grain of light......is getting stronger and stronger..."`
-`That grain of wheat was no longer simply gold‐colored, but was like the light of the sun.`
-`Then, it softly.........began to approach Beato's chest.`
-`When that grain of the sun......was sucked inside her chest...`
-`......the world became wrapped in a deep blue sky, and then a deep blue ocean spread out below them.`
-`An island rose up, trees sprouted and created a forest, walls surrounded us and a ceiling swallowed us.`
-`And it became adorned with more and more things,`
-` ......until we realized that this was the hall in the Ushiromiya mansion.`
-`In that fantastical hall where many gold butterflies beat their wings,`
-` ...many tables were set up with white tablecloths, like it was a party,`
-` and beautiful cooking and fruits were set out.`
-`...And over there......were a great many figures.`
-`{n}Everyone was there, talking together and smiling.`
-`"G‐............guys........."`
-`There was Dad and Kyrie‐san, Uncle Krauss, Aunt Natsuhi and Auntie Rosa, and of course, even Auntie Eva and Uncle Hideyoshi.`
-`......George‐aniki, Jessica, Maria, ...wait, wait, even Shannon‐chan, Kanon‐kun, Gohda‐san and Kumasawa‐san are here.`
-`Everyone, everyone was at the party, clapping their hands and celebrating our return...`
-`"Wh‐...why...?`
-` Everyone was dead...!`
-` Why are they alive...?!"`
-`"......In the Golden Land, all the dead people's souls can be revived.`
-` ......Welcome back, {f:5:Beatrice}.`
-` And welcome, Battler‐kun.`
-` Welcome to the Golden Land."`
-`"............I...made it?`
-` ...I made it...`
-`to the door of the Golden Land?"`
-`"Yes.`
-` ......Milady, you have finally been able to invite everyone to the Golden Land.`
-` ...Welcome, Battler‐sama, to the Golden Land."`
+`"......Battler, sen misin...`
+` ...............Bitti.`
+` ......Ben...başardım."`
+`"...Evet.`
+` ......Duymadım,`
+` .........ama seni izledim...son ana kadar...`
+` İzliyordum......o kötü cadıya cesurca karşı koyarken..."`
+`".........Bununla, ...artık bir cadı değilim.`
+` ............Ama, kesinlikle...tekrar bir cadı olacağım...`
+` ......Ve...`
+`...tekrar Altın Cadı olarak anılabilmek için elimden geleni yapacağım.,`
+` .........sonra,`
+` ......senin rakibin olarak kabul edilmeye hazır olduğumda,`
+` .........bir kez daha döneceğim......"`
+`"Hayır.`
+` .........Sen...bir cadıydın."`
+`"...............Hı......?"`
+`"...Ben...izliyordum.`
+` .........O kötü cadıyı,`
+` ......gerçek formunu ifşa ederek o müthiş büyüyle havaya uçurduğunda,`
+` ...kendi gözlerimle izliyordum..."`
+`"O-...O büyü değildi,`
+` ......kırmızı—"`
+`"Hayır, o büyüydü.`
+` .........Sen kesinlikle...Altın Cadı'ydın.`
+` .........Kendin inkâr etsen bile,`
+` .........Ben kabul edeceğim.`
+` ............‘Sen kesinlikle...`
+`Altın Cadı'sın’."`
+`.........Battler o sözleri söylediğinde...`
+`Karanlık olan dünyada, ...aniden bir şey belirdi.`
+`...Buğday tohumu gibi küçük bir altın tanesi, pırıl pırıl parlıyordu.`
+`{n}...Küçük olsa da, güçlü, altın renkli bir parıltısı vardı.`
+`Ve......sırt sırta oturmuş ikiliyi aydınlattı...`
+`Böylece her biri kendi formunun farkına vardı.`
+`...Sadece bilinçden ibaret değillerdi.`
+`......Bedenleri olduğunun, ve kesinlikle var olduklarının farkına vardılar.`
+`...Hayır, belki de her birine beden denen bir varoluş verildiğini söylemeliyiz.`
+`Battler kendi formuna baktığında, o kadar da şaşırmadı.`
+`...Ama Beato kendi formuna baktığında, biraz irkildi.`
+`......Battler'ın bakış açısından, normal görünüyordu,`
+` ......ama kısa bir süre, o form karşısında şaşırdı...`
+`".........Neler............`
+`......oluyor.........?"`
+`"O ışık tanesinden gelen parıltı......giderek daha da güçleniyor..."`
+`O buğday tanesi artık sadece altın renkli değildi, güneşin ışığı gibiydi.`
+`Sonra, usulca.........Beato'nun göğsüne yaklaşmaya başladı.`
+`Güneşin o tanesi......göğsünün içine emildiğinde...`
+`......dünya masmavi bir gökyüzüne büründü, ardından masmavi bir okyanus altlarına yayıldı.`
+`Bir ada yükseldi, ağaçlar filizlendi ve bir orman yarattı, duvarlar etrafımızı sardı ve bir tavan bizi yuttu.`
+`Giderek daha fazla şeyle süslendi,`
+` ......ta ki buranın Ushiromiya malikânesindeki salon olduğunu fark edene kadar.`
+`Pek çok altın kelebeğin kanat çırptığı o fantastik salonda,`
+` ...sanki bir partiymiş gibi beyaz masa örtüleriyle kaplı birçok masa kurulmuştu,`
+` üstüne güzel yemekler ve meyveler serilmişti.`
+`...Ve orada......çok sayıda figür vardı.`
+`{n}Herkes oradaydı, birlikte konuşuyor ve gülümsüyordu.`
+`"M-............Millet........."`
+`Babam ve Kyrie-san, Krauss Amca, Natsuhi Teyze ve Rosa Teyze, ve elbette, Eva Teyze ve Hideyoshi Amca bile oradaydı.`
+`......George-aniki, Jessica, Maria, ...bekle, bekle, Shannon-chan, Kanon-kun, Gohda-san ve Kumasawa-san bile burada.`
+`Herkes, herkes partideydi, ellerini çırpıyor ve dönüşümüzü kutluyordu...`
+`"N-...Neden...?`
+` Herkes ölüydü...!`
+` Neden hayattalar...?!"`
+`"......Altın Diyar'da, tüm ölü insanların ruhları diriltilebilir.`
+` ......Hoş geldin, {f:5:Beatrice}.`
+` Hoş geldin, Battler-kun.`
+` Altın Diyar'a hoş geldin."`
+`"............Ben...başardım mı?`
+` ...Başardım...`
+`Altın Diyar'ın kapısına mı geldim?"`
+`"Evet.`
+` ......Leydim, sonunda herkesi Altın Diyar'a davet edebildiniz.`
+` ...Hoş geldiniz, Battler-sama, Altın Diyar'a."`
 `"Battler.`
-` .........So, you have finally made it this far."`
-`"G‐Grandfather...`
-` .........Where in the world...am I..."`
-`"...My blood, which is...incompatible with magic, runs more deeply in your veins than any other.`
-` ...Therefore, you were the only one who could not reach the Golden Land, and {f:5:Beatrice} has been searching for you ever since.`
-` ...She tried everything to bring you here."`
-`"............What did you say......?"`
-`"It seems that we are all here at last."`
-`"Battler‐sama, if you would take your seat.`
-` Tonight's dinner is my very best work.`
-` If you would, please relish it."`
-`"You should be honored!!`
-` Normally, I would have eaten all of it, but I left you guys some out of pity!"`
-`"......The seven stake babes..."`
-`"In the Golden Land, all of those with minds are equal.`
-` ......Here, there is no distinction between us furniture, {y:0:Human}{n:0:human}s, or witches."`
-`"...Battler‐sama.`
-` We were waiting for you.`
-` And welcome to the Golden Land..."`
-`"Shannon‐chan, ......George‐aniki...!!"`
-`"......I'm still suspecting that this might be a dream...`
-` I'm sure that we died.`
-` ......But, ...we're alive.`
-` And everyone, every one of us is here, ......and we're all happy.`
-` ...I can't believe it."`
-`"That's right, this place must be a dream worrld!`
-` So it doesn't matter that George is so friendly with a maid girl, it has to be a dreeeam!`
+` .........Demek sonunda buraya kadar gelebildin."`
+`"B-Büyükbaba...`
+` .........Ben...neredeyim..."`
+`"...Büyüyle uyumsuz olan...kanım, senin damarlarında diğerlerinden daha derin akıyor.`
+` ...Bu nedenle, Altın Diyar'a ulaşamayan tek kişi sendin, ve {f:5:Beatrice} o zamandan beri seni arıyordu.`
+` ...Seni buraya getirmek için her şeyi denedi."`
+`"............Ne dedin......?"`
+`"Görünüşe göre sonunda hepimiz buradayız."`
+`"Battler-sama, yerinize geçerseniz.`
+` Bu gecenin yemeği benim en iyi çalışmam.`
+` Lütfen, tadını çıkarın."`
+`"Onur duymalısın!!`
+` Normalde, hepsini yerdim, ama acıdığım için size biraz ayırdım!"`
+`"......Şu yedi kazık hatunu..."`
+`"Altın Diyar'da, zihni olan herkes eşittir.`
+` ......Burada, biz mobilyalar, {y:0:İnsan}{n:0:insan}lar veya cadılar arasında bir ayrım yoktur."`
+`"...Battler-sama.`
+` Sizi bekliyorduk.`
+` Altın Diyar'a hoş geldiniz..."`
+`"Shannon-chan, ......George-aniki...!!"`
+`"......Bunun bir rüya olabileceğinden hâlâ şüpheleniyorum...`
+` Öldüğümüze eminim.`
+` ......Ama, ...hayattayız.`
+` Herkes, her birimiz burada, ......ve hepimiz mutluyuz.`
+` ...İnanamıyorum."`
+`"Bu doğru, burası bir rüya dünyası olmalı!`
+` Bu yüzden George'un hizmetçi bir kızla bu kadar samimi olmasının bir önemi yok, bu bir rüya olmalııı!`
 ` Waaaaaah!"`
-`"Give it a rest, Eva.`
-` For now, you gotta stay quiet and bless the two young 'uns.`
-` The Golden Land is a capital of bliss.`
-` We should never quarrel here...!"`
-`"Here, any people are free to love each other.`
-` ...No one needs to hesitate over it."`
-`"Jessica‐chan, Kanon‐kun, so wonderfuul!`
-` I'm so jealouuus!"`
-`"......H‐hey, Battler...`
-` This is kinda, umm, wahahahaha..."`
-`"Battler‐sama, welcome.`
-` And welcome home..."`
-`Jessica was probably embarrassed because she was holding hands with Kanon‐kun.`
-`And Kanon‐kun wanted to act humbly like a servant and bow,`
-` but since neither of them could let go of the other's hand, he couldn't do it so well, and the whole scene looked fairly comical.`
-`"With a servant child...?!!`
-` I forbid it, I couldn't possibly give away our Jessica to such a person...!!"`
-`"Why not allow it?`
-` Let her at least choose the person she likes."`
-`"I forbid it, I forbid it, aaa{0}a{0}a{0}a{0}a{0}aaahhh, Jessicaaaaaaaaa!"`
-`"Mine has gone awry toooooo, ohhhhh, Geooooooooorge!"`
-`...As Aunt Natsuhi and Auntie Eva hugged each other, they cried tears of regret for their darling children.`
-`......Even though they had always been at odds.`
-` ...It was a very bizarre scene.`
-`"......It isn't really a problem, right?`
-` It doesn't matter who likes who."`
-`"Exactly.`
-` It's proof the parent hasn't let go of their child."`
+`"Uzatma, Eva.`
+` Şimdilik, sessiz kalmalı ve iki genci kutlamalısın.`
+` Altın Diyar mutluluğun başkentidir.`
+` Burada asla kavga etmemeliyiz...!"`
+`"Burada, tüm insanlar birbirini sevmekte özgürdür.`
+` ...Kimsenin tereddüt etmesine gerek yok."`
+`"Jessica-chan, Kanon-kun, çok harikaaa!`
+` Çok kıskandııım!"`
+`"......H-Hey, Battler...`
+` Bu biraz, ımm, vahahahaha..."`
+`"Battler-sama, hoş geldiniz.`
+` Evinize dönmeniz mutluluk verici..."`
+`Jessica muhtemelen Kanon-kun ile el ele tutuştuğu için utanmıştı.`
+`Kanon-kun bir hizmetkâr gibi alçakgönüllü davranıp eğilmek istedi,`
+` ama ikisi de diğerinin elini bırakamadığı için, bunu pek iyi yapamadı, tüm sahne oldukça komik görünüyordu.`
+`"Bir hizmetkâr çocukla mı...?!!`
+` Yasaklıyorum, Jessica'mızı böyle bir kişiye vermemin imkânı yok...!!"`
+`"Neden izin vermiyorsun?`
+` En azından sevdiği kişiyi seçmesine izin ver."`
+`"Yasaklıyorum, yasaklıyorum, aaa{0}a{0}a{0}a{0}a{0}aaahhh, Jessicaaaaaaaaa!"`
+`"Benimki de yoldan çıktııııı, ohhhhh, Georgeeeeeeeeee!"`
+`...Natsuhi Teyze ve Eva Teyze birbirlerine sarılırken, sevgili çocukları için pişmanlık gözyaşları döküyorlardı.`
+`......Her zaman anlaşmazlık içinde olsalar da.`
+` ...Çok tuhaf bir sahneydi.`
+`"......Bu aslında bir sorun değil, değil mi?`
+` Kimin kimi sevdiğinin önemi yok."`
+`"Kesinlikle.`
+` Bu ebeveynin çocuğunu bırakmadığının kanıtı."`
 `"Battleer,`
-` you can bring home whatever kind of woman you want, I'll accept her waaarmly, alright?"`
-`"You can't introduce her to this guy, you know?`
-` He'll get his hands on her immediately.`
-` He'll elope right away."`
+` eve istediğin türden bir kadın getirebilirsin, onu sıcak bir şekilde kabul edeceğim, tamam mı?"`
+`"Onu bu adamla tanıştıramazsın, biliyorsun?`
+` Hemen elini üzerine atacaktır.`
+` Hemen kaçırır."`
 `"............Battler.`
-` You finally came here.`
+` Sonunda buraya geldin.`
 ` Kihhi{0}hi{0}hi{0}hi{0}hi{0}hihihi."`
 `"Maria...`
-` .........From the beginning,`
-` .........you knew that we would be coming here......?"`
+` .........Başlangıçtan beri,`
+` .........buraya geleceğimizi biliyor muydun......?"`
 `"Uu!`
-` That's why I wasn't scared at all.`
-` Everyone was a fraidy‐cat.`
-` It was funny!"`
-`"......What the hell.`
-` ...Even though I thought you were the most screwed up,`
-` ...you actually knew the truth from the beginning."`
-`"H‐how rude...!`
-` It is absolutely unforgivable to speak of Lady {f:5:Maria} in that way!"`
-`"Forming firing curve, attack preparations ready.`
-` Lady {f:5:Maria}, we can attack at any time.`
+` Bu yüzden hiç korkmadım.`
+` Herkes ödlekti.`
+` Komikti!"`
+`"......Ne saçmalık ama.`
+` ...En kafayı yemiş olanın sen olduğunu düşünsem de,`
+` ...aslında gerçeği başından beri biliyordun."`
+`"N-Ne kadar kaba...!`
+` Leydi {f:5:Maria} hakkında bu şekilde konuşmak kesinlikle affedilemez!"`
+`"Ateş eğrisi oluşturuluyor, saldırı hazırlıkları tamam.`
+` Leydi {f:5:Maria}, her an saldırabiliriz.`
 ` Nihi!"`
 `"Kihhihihihihihihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!`
-` Ouch!"`
-`"...Quiet.`
-` You are in the presence of {f:5:Beatrice}‐sama."`
-`"Well, there's no need to be quite so strict.`
-` For now, let us take their desire to fool around and play together into consideration.`
-` More importantly, why don't we begin preparing for the toast?"`
-`"Yes, I have finished preparing my excellent mackerel cooking.`
-` I can serve it at any time."`
-`"Hey!! Ladies!`
-` Work a little more like furniture!!"`
-`"Nooooo!!`
-` I wanna stuff myself some mooore!`
+` Acıdı!"`
+`"...Sessiz ol.`
+` {f:5:Beatrice}-sama'nın huzurundasın."`
+`"Eh, bu kadar katı olmaya gerek yok.`
+` Şimdilik, onların eğlenmek ve birlikte oynamak istediklerini göz önünde bulunduralım.`
+` Daha önemlisi, neden kadeh kaldırmak için hazırlanmaya başlamıyoruz?"`
+`"Evet, mükemmel uskumru yemeğimi hazırlamayı bitirdim.`
+` Her an servis edebilirim."`
+`"Hey!! Hanımlar!`
+` Biraz daha mobilya gibi çalışın!!"`
+`"Hayııııır!!`
+` Biraz daha tıkınmak istiyoruuum!`
 ` Wahhhhhhh!"`
-`"Come on, let's work.`
-` Don't keep the guests waiting.`
-` Let's work studiously and attend to them.`
-` Don't let the guests do anything.`
-` Make them lazy, make them slothful, fatten them like pigs.`
+`"Hadi, çalışalım.`
+` Misafirleri bekletmeyin.`
+` Gayretle çalışalım ve onlarla ilgilenelim.`
+` Misafirlerin bir şey yapmasına izin vermeyin.`
+` Onları tembeleştirin, uyuşuklaştırın, domuz gibi şişmanlatın.`
 ` Ahhahaha!"`
 `"......{f:5:Beatrice}.`
-` Battler‐kun.`
-` This way."`
-`Grandfather and {f:5:Virgilia} were standing on the landing at the top of the staircase, beckoning us.`
-`Beato and I looked at each other quizzically, then climbed the stairs together.`
-`From the hall, it looked like a very high stage.`
-`A small table had been set up there, as well as a piece of parchment and an old‐fashioned quill pen.`
-`I saw that strange magical characters and Japanese were written side by side.`
-`{n}...And below it, many names were written.`
-`There were 17 of them.`
-` ......Grandfather was the first, and everyone else's names had been signed below in one long column.`
-`The people who arrived at the Golden Land probably signed this one after another.`
+` Battler-kun.`
+` Bu taraftan."`
+`Büyükbaba ve {f:5:Virgilia} merdivenin tepesindeki sahanlıkta duruyor, bizi çağırıyorlardı.`
+`Beato ve ben birbirimize sorar gözlerle baktık, sonra merdivenleri birlikte tırmandık.`
+`Salondan bakıldığında, çok yüksek bir sahneye çıkıyormuşuz gibi görünüyordu.`
+`Orada küçük bir masa kurulmuştu, ayrıca bir parşömen parçası ve eski moda bir tüy kalem vardı.`
+`Garip büyü karakterlerinin ve Japonca'nın yan yana yazıldığını gördüm.`
+`{n}...Ve altında, birçok isim yazılıydı.`
+`Onlardan 17 tane vardı.`
+` ......Büyükbaba ilkiydi, ve diğer herkesin isimleri tek bir uzun sütun halinde aşağıya doğru imzalanmıştı.`
+`Altın Diyar'a varan insanlar muhtemelen bunu birbiri ardına imzalamıştı.`
 `"Battler.`
-` Now that you are here, everyone is gathered.`
-` Listen carefully."`
-`"The Golden Land is not a world supported by the power of magic alone.`
-` The cooperation and approval of all humans who receive happiness here is required.`
-` For that sake, we must gather the signatures of everyone here."`
-`"Last time,`
-` the door to the Golden Land was finally opened, but you refused to sign.`
-` ......Although you probably don't remember it.`
-` Because you refused to sign, this world was once again sealed in darkness."`
-`"......Just hearing it like that, ...it kinda sounds like I've been the only stubborn one,`
-` and I've been causing everyone all kinds of trouble..."`
-`"That is because you are a certified hardhead.`
-` It seems that you inherited more than just blood from Kinzo."`
-`Beato laughed amiably.`
-` I knew I was being made fun of, but that smile led me to go along with her, and I laughed without thinking.`
-`"Magic is a miracle.`
-` ......Miracles cannot be completed unless everyone believes.`
-` ......And when you do, as the last to do so, this miracle—the Golden Land—will be completed."`
-`"..................It looks like I've been a real pain.`
-` ...So, what should I do...?"`
-`"First, sign here.`
-` Then, {f:5:Beatrice}, sign here."`
-`"......It's hard to use a quill pen.`
-` ...Whoa, it shot."`
-`"You klutz.`
-` Shooting ink is a bad omen.`
-` Can't you at least write your name quickly?`
-` In that illegible scrawl.`
+` Artık burada olduğuna göre, herkes toplandı.`
+` Dikkatlice dinle."`
+`"Altın Diyar sadece büyünün gücüyle desteklenen bir dünya değildir.`
+` Burada mutluluğu bulan tüm insanların işbirliği ve onayı gereklidir.`
+` Bunun hatrına, buradaki herkesin imzasını toplamalıyız."`
+`"Geçen sefer,`
+` Altın Diyar'ın kapısı sonunda açıldı, ama imzalamayı reddettin.`
+` ......Muhtemelen hatırlamıyor olsan da.`
+` İmzalamayı reddettiğin için, bu dünya bir kez daha karanlığa mühürlendi."`
+`"......Böyle duyunca, ...sanki tek inatçı benmişim,`
+` ve herkese her türlü sorunu çıkarmışım gibi geliyor..."`
+`"Çünkü tescilli bir dik kafalısın.`
+` Kinzo'dan sadece kan değil daha fazlasını miras almışsın gibi görünüyor."`
+`Beato samimiyetle güldü.`
+` Benimle dalga geçildiğini biliyordum, ama o gülümseme ona ayak uydurmamı sağladı, ve düşünmeden güldüm.`
+`"Büyü bir mucizedir.`
+` ......Herkes inanmadıkça mucizeler tamamlanamaz.`
+` ......Ve inandığında, bunu yapan son kişi olarak, bu mucize—Altın Diyar—tamamlanacak."`
+`"..................Gerçek bir baş belasıymışım gibi görünüyor.`
+` ...Peki, ne yapmalıyım...?"`
+`"Önce, burayı imzala.`
+` Sonra, {f:5:Beatrice}, burayı imzala."`
+`"......Tüy kalem kullanmak zor.`
+` ...Vay, fışkırttı."`
+`"Seni sakar.`
+` Mürekkep fışkırtmak kötüye işarettir.`
+` En azından adını çabucak yazamaz mısın?`
+` O okunaksız karalamayla.`
 ` *cackle*cackle*cackle*cackle*...!"`
-`"And what about you...!`
-` Don't write it in {c:86EF9C:{ruby:katakana:capitals}} like that!`
-` {f:5:Beatrice} is a stylish name, so write it in cursive!`
-` You're making the quill and your name cry!"`
-`"Sh‐shut up, in school, didn't they tell you not to use cursive on tests?"`
-`"This is a solemn ceremony. Be silent."`
-`"Very good.`
-` We have gathered the two signatures, as well as the form for the covenant.`
-` ......Both of you, your oath please.`
-` We'll start with {f:5:Beatrice}.`
-` Put your hand on the covenant, and take the oath."`
-`"......‘I, {f:5:Beatrice}, as a good witch, swear to continue with my training for the sake of bringing happiness to the people’.`
-` ...Say it."`
-`"......M‐......mm...`
-` ......I‐it's a little embarrassing."`
-`"......I, B‐{f:5:Beatrice}, as a good witch,`
-` swear to continue with my training for the sake of bringing happiness to the people.`
-` ......Is that alright?"`
-`"Good.`
-` Battler is next."`
-`"In the same way, Battler‐kun.`
-` Put your hand on the covenant, and take the oath.`
-` ......‘I, Ushiromiya Battler, as a member of the Golden Land, swear to serve for the sake of bringing happiness to myself and my neighbor’."`
+`"Peki ya sen...!`
+` Öyle {c:86EF9C:{ruby:katakana:büyük harflerle}} yazma!`
+` {f:5:Beatrice} şık bir isim, o yüzden el yazısıyla yaz!`
+` Tüy kalemi ve ismini ağlatacaksın!"`
+`"K-Kapa çeneni, okulda, testlerde el yazısı kullanmamanı söylemediler mi?"`
+`"Bu ciddi bir tören. Sessiz olun."`
+`"Çok iyi.`
+` İki imzayı da antlaşma formunu da topladık.`
+` ......İkiniz de, yemininiz lütfen.`
+` {f:5:Beatrice} ile başlayacağız.`
+` Elini antlaşmanın üzerine koy, ve yemin et."`
+`"......‘Ben, {f:5:Beatrice}, iyi bir cadı olarak, insanlara mutluluk getirmek uğruna eğitimime devam edeceğime yemin ederim’.`
+` ...Söyle."`
+`"......H-......Hı...`
+` ......B-Biraz utanç verici."`
+`"......Ben, B-{f:5:Beatrice}, iyi bir cadı olarak,`
+` insanlara mutluluk getirmek uğruna eğitimime devam edeceğime yemin ederim.`
+` ......Bu uygun mu?"`
+`"Güzel.`
+` Sırada Battler var."`
+`"Aynı şekilde, Battler-kun.`
+` Elini antlaşmanın üzerine koy, ve yemin et.`
+` ......‘Ben, Ushiromiya Battler, Altın Diyar'ın bir üyesi olarak, kendime ve komşularıma mutluluk getirmek uğruna hizmet edeceğime yemin ederim’."`
 `"Ah,`
-` ...I, Ushiromiya Battler,`
-` as a member of the Golden Land, swear to serve for the sake of bringing happiness to myself and my neighbor.`
-` ......I'm embarrassed too..."`
-`"Hear me, one and all...!!`
-` Here and now, we have gathered the oaths of all 18 humans accepting the Golden Land...!!"`
-`When Kinzo proclaimed that, everyone applauded at once, praising us.`
-`......Since I'd been the only stubborn one and had just been a nuisance, I felt a little bad about being the most celebrated one.`
-`"And with that, in accordance with the ancient rites, we ask Battler‐kun, the last to make the oath, to sign the invitation to the Golden Land.`
-` ......This is something that invites the Golden Witch, {f:5:Beatrice}, to the Golden Land.`
-` The Golden Land invites the Golden Witch through a consensus of those who have accepted it, and becomes complete."`
-`"Battler, I will read it out loud.`
-` Listen carefully.`
-` ............‘The 18 of us acknowledge the Golden Witch to be {f:5:Beatrice}, and welcome her to the Golden Land’."`
-`"What's going on with you? You won't be invited unless I send an invitation?"`
-`"It seems that is the ceremony.`
-` It makes me uncomfortable also.`
-` Why don't we end it quickly?`
-` I've been so hungry for a while now."`
-`"......Come to think of it, I've only been pecking at canned food and haven't eaten anything good.`
-` Let's get this thing signed and be done with it."`
-`"Let's see here.`
-` "We accept you as a witch".`
-` .........Huh?`
-` That's pretty simple.`
-` Damn you, Grandfather, exaggerating how it actually says it."`
-`"Come on, come on, quickly."`
-`"Sign, right here."`
-`"............huh...?"`
-`"Quickly."`
-`"Sign."`
-`......With slightly weird and uncomfortable smiles, the two of them started demanding that I sign...`
-`At that time, an incredible sound like that of a glass window breaking reverberated through the hall,`
-` and the bustling tumult melted back into complete silence.`
-`I dropped the quill pen and turned around, trying to see what had happened.`
-`When I did,`
-` ...............where had she come from?`
-`...A human who clearly hadn't been there a short while ago was in the very center of the hall, ...looking up at us.`
-`Who's that......?`
-` ......A woman?`
-`{n}She's probably about the same age as Jessica and me.`
-`......But I didn't know that face.`
-`{n}None of the other people here knew that face either.`
-`"......Wh‐......who are you?!`
-` Who is this?!`
-` Where did you come from?!`
-` Those without invitations are not needed in my party.`
-` Servants, throw her out!!"`
-`"As you command!!`
-` Surround her!!"`
-`The Seven Sisters of Purgatory surrounded her from seven directions, taking out magic blades that drew purple trails and blocking her.`
-`And from out of nowhere, shuffling goat‐head servants appeared in great numbers, surrounding that woman.`
-`On top of that, the Chiester Sisters stood in front of Beato like a wall, readying a golden bow and pulling back the bowstring...`
+` ...Ben, Ushiromiya Battler,`
+` Altın Diyar'ın bir üyesi olarak, kendime ve komşuma mutluluk getirmek uğruna hizmet edeceğime yemin ederim.`
+` ......Ben de utanıyorum..."`
+`"Duyun beni, hepiniz...!!`
+` Burada ve şimdi, Altın Diyar'ı kabul eden 18 insanın yemininin hepsini topladık...!!"`
+`Kinzo bunu ilan ettiğinde, herkes bizi överek aynı anda alkışladı.`
+`......Tek inatçı olan ve sadece baş belası olan ben olduğum için, en çok övülen kişi olmak konusunda biraz kötü hissettim.`
+`"Bununla birlikte, kadim törenlere uygun olarak, yemin eden son kişi olan Battler-kun'dan, Altın Diyar'a davetiyeyi imzalamasını istiyoruz.`
+` ......Bu Altın Cadı'yı, {f:5:Beatrice}'i, Altın Diyar'a davet eden bir şey.`
+` Altın Diyardakiler, onu kabul edenlerin fikir birliğiyle Altın Cadı'yı davet eder, ve her şey tamamlanır."`
+`"Battler, yüksek sesle okuyacağım.`
+` Dikkatlice dinle.`
+` ............‘Biz 18 kişi Altın Cadı'nın {f:5:Beatrice} olduğunu kabul ediyoruz, ve ona Altın Diyar'a hoş geldin diyoruz’."`
+`"Senin derdin ne? Ben bir davetiye göndermedikçe davet edilmeyecek misin?"`
+`"Görünüşe göre tören böyle.`
+` Bu beni de rahatsız ediyor.`
+` Neden çabucak bitirmiyoruz?`
+` Bir süredir çok açım."`
+`"......Düşününce, sadece konserve yiyecek tırtıkladım ve iyi bir şey yemedim.`
+` Hadi şu şeyi imzalayıp bitirelim."`
+`"Bakalım burada.`
+` "Seni bir cadı olarak kabul ediyoruz".`
+` .........Hı?`
+` Bu oldukça basit.`
+` Kahretsin, Büyükbaba, her yazdığını abartıyorsun."`
+`"Hadi, hadi, çabuk."`
+`"İmzala, tam buraya."`
+`"............hı...?"`
+`"Çabuk."`
+`"İmzala."`
+`......Hafif garip ve rahatsız gülümsemelerle, ikisi de imzalamamı talep etmeye başladı...`
+`O anda, kırılan bir cam pencereninki gibi inanılmaz bir ses salonda yankılandı,`
+` ve gürültülü kargaşa tekrar tam bir sessizliğe eridi.`
+`Tüy kalemi düşürdüm ve arkamı döndüm, ne olduğunu görmeye çalışarak.`
+`Bunu yaptığımda,`
+` ...............nereden gelmişti?`
+`...Kısa bir süre önce açıkça orada olmayan bir insan salonun tam ortasındaydı, ...bize doğru yukarı bakıyordu.`
+`O da kim......?`
+` ......Bir kadın?`
+`{n}Muhtemelen Jessica ve benimle aynı yaşlarda.`
+`......Ama o yüzü tanımıyordum.`
+`{n}Buradaki diğer insanların hiçbiri de o yüzü tanımıyordu.`
+`"......K-......Kimsin sen?!`
+` Kim bu?!`
+` Nereden geldin?!`
+` Davetiyesi olmayanlara partimde ihtiyaç yok.`
+` Hizmetkârlar, atın onu dışarı!!"`
+`"Emredersiniz!!`
+` Etrafını sarın!!"`
+`Araf'ın Yedi Kız Kardeşi yedi yönden etrafını sardı, mor izler çizen büyü bıçaklarını çıkardılar ve onu engellediler.`
+`Sonrasında hiçliğin ortasından, çok sayıda keçi kafalı hizmetkâr belirdi, ve o kadının etrafını sardılar.`
+`Üstüne üstlük, Chiester Kız Kardeşler bir duvar gibi Beato'nun önünde durdular, altın bir yay hazırlayıp kirişi çektiler...`
 `"......................................."`
-`But the woman didn't move at all.`
-`...On the contrary, she was still staring at us on the landing, not paying them the slightest bit of attention.`
-`......Who is she looking at...?`
-` Beato?`
-` Grandfather?`
-`............It couldn't be......me.........?`
-`Yes.`
-` ...The woman was staring straight into my eyes, ...glaring.`
-`{n}Then, after our eyes met perfectly, she yelled.`
-`"You must not sign that!!!`
-` Are you going to accept your own defeat?!`
-` Don't be tricked by the witch!!!"`
-`"......Huh?`
-` By the witch,`
-` ......huh?!"`
-`Just then, something incredibly strong lifted me by the nape of my neck.`
-`...Wh‐what's going on...?!`
-`And after I was forced to turn around,`
-` ......I saw {f:5:Virgilia} with an eerie smile on her face, and the muscular forms of goat monsters...`
-`A goat monster that looked like it was two meters tall was holding me up with an arm as thick as a log...!`
+`Ama kadın hiç kıpırdamadı.`
+`...Aksine, hâlâ sahanlıktaki bize bakıyordu, onlara en ufak bir ilgi bile göstermeden.`
+`......Kime bakıyor...?`
+` Beato'ya mı?`
+` Büyükbabaya mı?`
+`............Yoksa......bana mı.........?`
+`Evet.`
+` ...Kadın dosdoğru gözlerimin içine bakıyordu, ...dik dik.`
+`{n}Sonra, gözlerimiz tamamen buluştuğunda, bağırdı.`
+`"Bunu imzalamamalısın!!!`
+` Kendi yenilgini kabul mü edeceksin?!`
+` Cadı tarafından kandırılma!!!"`
+`"......Hı?`
+` Cadı tarafından,`
+` ......hı?!"`
+`Tam o sırada, inanılmaz derecede güçlü bir şey beni ensemden yukarı kaldırdı.`
+`...N-Neler oluyor...?!`
+`Dönmeye zorlandıktan sonra,`
+` ......Yüzünde ürkütücü bir gülümsemeyle {f:5:Virgilia}'yı, ve keçi canavarların kaslı formlarını gördüm...`
+`İki metre boyunda görünen bir keçi canavar kütük kadar kalın bir kolla beni yukarıda tutuyordu...!`
 `"Hohhohohohohohohohohohoho...`
-` There is no need to listen to an uninvited guest.`
-` Come, give your signature as well.`
-` On this written oath.`
-` "Ushiromiya Battler accepts the existence of witches".`
-` Come now, sign the written oath...!!"`
-`"Ow, ...owowowowowowowowowowowow!!`
-` D‐damn it, let go!!!"`
-`As the goat monsters constricted me with the power of a vise, they forced me to grab the quill pen.`
-`...I couldn't even touch the floor with my feet, much less resist...!`
-`"Battleer, why are you resistiiiing?`
-` Weren't you just about to sign willinglyyy...?`
-` Don't change your mind now, after all that, alriiiight?"`
-`"Didn't you think for an instant, ...that it might be alright to accept witches?`
-` You thought that, riiiiiight?`
+` Davetsiz bir misafiri dinlemeye gerek yok.`
+` Gel, sen de imzanı at.`
+` Bu yazılı yemine.`
+` "Ushiromiya Battler cadıların varlığını kabul eder".`
+` Gel şimdi, yazılı yemini imzala...!!"`
+`"Ah, ...ahhahahahahahahahah!!`
+` K-Kahretsin, bırak beni!!!"`
+`Keçi canavarlar beni bir mengene gibi sıkarken, tüy kalemi tutmaya zorladılar.`
+`...Ayaklarımla yere bile değemiyordum, direnmek şöyle dursun...!`
+`"Battleer, neden direniyorsuun?`
+` Az önce isteyerek imzalamak üzere değil miydiin...?`
+` Şimdi fikrini değiştirme, onca şeyden sonra, tamaaam mı?"`
+`"Bir anlığına, ...cadıları kabul etmenin doğru olabileceğini düşünmedin mi?`
+` Bunu düşündün, değiiil mi?`
 ` Kukki{0}ki{0}ki{0}kka{0}kka{0}ka{0}ka{0}ka{0}ka{0}ka{0}ka{0}kakaka!!"`
-`"............I,`
-` ......I was...`
-`...tr‐`
-`...tricked......?`
-` That can't be.........`
-` You aren't that kind of—"`
+`"............Ben,`
+` ......ben...`
+`...ka-`
+`...kandırıldım mı......?`
+` Olamaz.........`
+` Sen o tür bir—"`
 `".............................."`
 `"......Hi......hihhihahhahhahaaaHAAaHAHHH!!"`
-`"Sorrrrry, Battleerrr, I am that kind of persooooooooooon!!`
-` Aah, it's no good, I can't keep this up, it looks like sentimental sob stories don't match well with meeeeeeeeeee!!`
-` Master, with all your strength, if you please!!`
-` That was such a plain role to play, and I got so bored!"`
-`"I don't know who you are, woman!!`
-` But I'll beat you to death, mash you and crush you until threads start trailing, got iii{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}i{-}iiit?!`
-` I'll make you regret being born a womaaa{-}a{-}a{-}a{-}a{-}a{-}a{-}aaan,`
+`"Üzgünüüüüm, Battleerrr, ben o tür biriyiiiiiim!!`
+` Aah, hiç iyi değil, bunu sürdüremem, görünüşe göre duygusal hüzünlü hikayeler bana pek uymuyoooooor!!`
+` Usta, tüm gücünle, lütfen!!`
+` Oynaması çok sade bir roldü, ve çok sıkıldım!"`
+`"Kimsin bilmiyorum, kadın!!`
+` Ama seni döve döve öldüreceğim, ezeceğim ve ipliklerin sökülene kadar parçalayacağım seni, anladın mııı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ıı?!`
+` Kadın olarak doğduğuna pişman edeceğim seniii{-}i{-}i{-}i{-}i{-}i{-}i{-}ii,`
 ` hyahhaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}aaahh!!"`
-`Beato raised her gold pipe high,`
-` and the massive chandelier hanging in the hall crackled with electricity, and from that fell an almighty purple thunderbolt...!`
-`It was a direct hit on the woman right below it, and should have turned her to ash.`
-`However, ......not a single hair was singed.`
+`Beato altın piposunu yükseğe kaldırdı,`
+` ve salonda asılı duran devasa avize elektrikle çatırdadı, oradan her şeye kadir mor bir yıldırım düştü...!`
+`Hemen altındaki kadına doğrudan isabet etti, bunun onu küle çevirmesi gerekirdi.`
+`Ancak, ......tek bir saç teli bile yanmamıştı.`
 `"Hoh...!!`
-` I see you have what it takes to show up uninvited...!!`
-` Tell me! Say your name!!"`
-`"I don't have any name to tell {i:you}.`
-` .........More importantly."`
-`"......You idiot!!!`
-` How long are you going to be tricked?!!`
-` Stop being so naive and trusting!!`
-` Figure it out already!!`
-` All this, all of this is the witch's trap!!"`
-`Those words were aimed at me.`
-`......This is all...`
-`...the witch's trap, she says...?`
-`That can't be...`
-`{n}Beato reformed and swore to become a good witch......`
+` Görüyorum ki davetsiz gelmek için gereken şeye sahipsin...!!`
+` Söyle bana! Adını söyle!!"`
+`"{i:Sana} söyleyecek bir adım yok.`
+` .........Daha önemlisi."`
+`"......Seni aptal!!!`
+` Daha ne kadar kandırılacaksın?!!`
+` Bu kadar saf ve güvenilir olmayı bırak!!`
+` Çöz artık şunu!!`
+` Bütün bunlar, bütün bunlar cadının tuzağı!!"`
+`O sözler bana yönelikti.`
+`......Bütün bunlar...`
+`...cadının tuzağı, mı diyor...?`
+`Olamaz...`
+`{n}Beato düzeldi ve iyi bir cadı olmaya yemin etti......`
 `".....................Beato...............`
-` ...Calling it a trap...`
-`...is a lie, right......?`
-` Please.........tell me it's a lie......"`
-`"......Sorry, Battleer.`
-` It was pretty interesting."`
-`"...Still, I was just trying to do what Master told me, but it really did work very well!"`
-`"I hear, after acting {ruby:tsuntsun:bad‐tempered} and exploring the depths of cruelty, if you act properly incompetent and {ruby:dere:soft}, you can get a massive rise on that goodwill meter thing, riiight?"`
-`"I've heard that villains who go {ruby:dere:soft} and then {ruby:yan:crazy} are pretty popular these daaaays...!`
-` Despite how I loook, I've studied a lot of manga, anime, and {c:86EF9C:galge} that have been popular recently, you seeee?"`
-`"And I tried it out, and just as expected, it was "tears please", and you're down!!"`
-`"Hihhyahhahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha, idioooot, what a truly simple person!!`
-` They call this the "North Wind and the Sun Strategy".`
+` ...Buna tuzak demek...`
+`...bir yalan, değil mi......?`
+` Lütfen.........bana bunun bir yalan olduğunu söyle......"`
+`"......Üzgünüm, Battleer.`
+` Oldukça ilginçti."`
+`"...Yine de, sadece Ustamın bana söylediğini yapmaya çalışıyordum, ama gerçekten çok iyi işe yaradı!"`
+`"Duyduğuma göre, {ruby:tsuntsun:huysuz} davranıp zalimliğin derinliklerini keşfettikten sonra, uygun şekilde beceriksiz ve {ruby:dere:yumuşak} davranırsan, o iyi niyet ölçer şeyinde büyük bir artış elde edebilirsin, değil miii?"`
+`"Bugünlerde önce {ruby:dere:yumuşak} davranan ve sonra {ruby:yan:çılgın}a dönen kötülerin oldukça popüler olduğunu duyduuuum...!`
+` Görünüşüme rağmen, son zamanlarda popüler olan birçok manga, anime ve {c:86EF9C:galge} çalıştım, anlarsııın ya?"`
+`"Ve denedim, ve tam da beklendiği gibi, "gözyaşları lütfen" oldu, ve yere serildin!!"`
+`"Hihhyahhahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha, aptaaaal, ne kadar da basit bir insan!!`
+` Buna "Güneş ve Kuzey Rüzgârı Stratejisi" diyorlar.`
 ` *cackle*cackle*cackle*!!"`
-`"......How could............`
-` ............D‐`
-`............damn you......`
-` You two‐faced bitch......`
-` How dare you deceive me like this...!!"`
+`"......Nasıl............`
+` ............L-`
+`............Lanet olsun sana......`
+` Seni iki yüzlü kaltak......`
+` Beni böyle kandırmaya nasıl cüret edersin...!!"`
 `"...................................."`
-`"......Yes, that expression fits you the most.`
-` That caring expression of yours really doesn't match me after all.`
-` My back was itching, and I was frantically trying to withstand it.`
+`"......Evet, sana en çok bu ifade yakışıyor.`
+` O şefkatli ifaden bana hiç uymuyor sonuçta.`
+` Sırtım kaşınıyordu, ve ben umutsuzca dayanmaya çalışıyordum.`
 ` *cackle*cackle*cackle*cackle*cackle*!!"`
-`"Too baaad, wiiiitches...don't reforrrm{p:0:☆}"`
+`"Çok yazııık, cadılaaar...düzelmeeez{p:0:☆}"`
 `"Hyaahhahhahhahhaaaaaaaaaaaaaaahh!!!`
-` You take care of the signature, Master!`
-` This uninvited guest is my prey!!"`
-`"Come, you can no longer refuse to sign.`
-` ......Now, come on.`
-` Sign it and offer your body, your mind, and your soul...!!"`
-`When {f:5:Virgilia} lifted her chin as a signal, the goat monsters, with an even more vise‐like power,`
-` forced my arm to approach the parchment......!`
-`Owowowow... These guys are trying to make me sign, even if it breaks my arm......`
-`At that moment, a bright red light burst open with me at the center, knocking the witches and the goat monsters away.`
-`Did that woman save me......?!`
-`{n}B‐but who in the world is that? I don't have a clue!`
-`"How long do you plan to keep playing in a place like this...?`
-` Enough already.`
-` I'm jealous of you."`
-`"............I, I'm glad you saved me, but that's a pretty cruel way to say it.`
-` ...Sorry, but who are you...?"`
+` Sen imzayı hallet, Usta!`
+` Bu davetsiz misafir benim avım!!"`
+`"Gel, artık imzalamayı reddedemezsin.`
+` ......Şimdi, hadi bakalım.`
+` İmzala ve bedenini, zihnini ve ruhunu sun...!!"`
+`{f:5:Virgilia} bir işaret olarak çenesini kaldırdığında, keçi canavarlar, daha da güçlü bir şekilde,`
+` kolumu parşömene yaklaşmaya zorladılar......!`
+`Ahahahah... Bu herifler kolumu kırsa bile bana imzalatmaya çalışıyorlar......`
+`O anda, merkezde ben olmak üzere parlak kırmızı bir ışık patladı, cadıları ve keçi canavarları savurarak.`
+`O kadın beni kurtardı mı......?!`
+`{n}A-Ama bu da kim böyle? Hiçbir fikrim yok!`
+`"Böyle bir yerde oynamaya daha ne kadar devam etmeyi planlıyorsun...?`
+` Yeter artık.`
+` Seni kıskanıyorum."`
+`"............B-Beni kurtardığına sevindim, ama bu söylemek için oldukça acımasızca bir yol.`
+` ...Pardon, ama sen kimsin...?"`
 `".....................`
-` ...............Witch of Rokkenjima!!`
-` It's time you gave him back!!"`
+` ...............Rokkenjima Cadısı!!`
+` Onu geri verme zamanın geldi!!"`
 `"Kuhhahahahahahahahah!!`
-` Who would do that, you fool!!`
-` Battler is my toy.`
-` My favorite toy, the best toy in the world...!!"`
-`"I won't get tired of him, I won't throw him away, I won't hand him over to anyone!!`
-` Even Battler is enjoying this to the fullest.`
-` Together with me, he is having so much fun playing.`
-` No matter who you are, I won't let you interfere...!!"`
-`"Oh yeah, it really does look like you're living it up here, I'm so jealous my blood is boiling!!`
-` In a wonderful place like this, guffawing and having a lively, fun, noisy blast of a time with everyone!"`
-`"Surrounded by lots of eye‐candy witches and being pampered all the time,`
-` I'm sure you're having so much fun, you don't even want to come back!!"`
-`"......A‐...are you talking to me...?`
-` Wait wait, you've got the wrong idea...!`
-` This is a pain for me too!`
-` The hell is fun about this, you don't know a damn thing about my troubles...!"`
-`"What troubles?!!!`
-` You get to have fun living with Mom and Dad, you get to play around happily with all of the cousins,`
-` you get to play with pleasant witches as long as you want for all eternity!"`
-`"Don't you realize the happiness you have?!`
-` I'm jealous of all of you, don't you get it?!`
-` I'd love to be part of all this!!"`
+` Bunu kim yapar, seni aptal!!`
+` Battler benim oyuncağım.`
+` En sevdiğim oyuncağım, dünyadaki en iyi oyuncak...!!"`
+`"Ondan sıkılmayacağım, onu atmayacağım, onu kimseye vermeyeceğim!!`
+` Battler da bunun tadını sonuna kadar çıkarıyor.`
+` Benimle birlikte, oynarken çok eğleniyor.`
+` Kim olursan ol, karışmana izin vermeyeceğim...!!"`
+`"Ah evet, gerçekten de burada gününü gün ediyormuşsun gibi görünüyor, o kadar kıskanıyorum ki kanım kaynıyor!!`
+` Böyle harika bir yerde, kahkahalar atarak ve herkesle cıvıl cıvıl, eğlenceli, gürültülü bir zaman geçirerek!"`
+`"Etrafın bir sürü göz alıcı cadıyla çevrili ve sürekli şımartılıyorsun,`
+` eminim o kadar çok eğleniyorsun ki, geri dönmek bile istemiyorsun!!"`
+`"......B-...Benimle mi konuşuyorsun...?`
+` Bekle bekle, yanlış anladın...!`
+` Bu benim için de bir dert!`
+` Bunun neresi eğlenceli, dertlerim hakkında hiçbir bok bilmiyorsun...!"`
+`"Ne dertleri?!!!`
+` Annem ve Babamla yaşarken eğleniyorsun, tüm kuzenlerle mutlu bir şekilde oynuyorsun,`
+` hoş cadılarla sonsuza dek istediğin kadar oynuyorsun!"`
+`"Sahip olduğun mutluluğun farkında değil misin?!`
+` Hepinizi kıskanıyorum, anlamıyor musun?!`
+` Bütün bunların bir parçası olmayı çok isterdim!!"`
 `"*cackle*cackle*cackle*!!`
-` I'm sorry, but no.`
-` I am satisfied with the toys I have.`
-` A rude toy like you is not fitting for my toy box!"`
-`"Yes, I'm aware of that.`
-` Who would ever play with someone like you?`
-` ......But I will thank you a bit.`
-` ......For bringing everyone together like this."`
-`"......Who...`
-`......are you...`
-` .....................You can't be—"`
-`"......I see, so that's it...`
-` .........Yes, I get it, I know who you are!`
-` ...I see,`
-` so {i:you} are the piece Lady {f:5:Bernkastel} threw in.`
-` I like it!!"`
-`"Why don't I formally invite you to my party?!!`
-` I'll welcome you fully...!!`
-` Along with Battler, I'll play with you nicely, break you, kill you, crush you, turn you to ash, mix you with bread dough and bake you until you're fluffy!!`
+` Üzgünüm, ama hayır.`
+` Sahip olduğum oyuncaklardan memnunum.`
+` Senin gibi kaba bir oyuncak oyuncak kutuma uygun değil!"`
+`"Evet, bunun farkındayım.`
+` Kim senin gibi biriyle oynar ki?`
+` ......Ama sana biraz teşekkür edeceğim.`
+` ......Herkesi bu şekilde bir araya getirdiğin için."`
+`"......Kim...`
+`......sin sen...`
+` .....................Olamazsın—"`
+`"......Anlıyorum, demek öyle...`
+` .........Evet, anladım, kim olduğunu biliyorum!`
+` ...Anlıyorum,`
+` demek Leydi {f:5:Bernkastel}'in attığı taş {i:sensin}.`
+` Sevdim bunu!!"`
+`"Neden seni partime resmen davet etmiyorum?!!`
+` Seni tamamen hoş karşılayacağım...!!`
+` Battler ile birlikte, seninle güzelce oynayacağım, seni kıracağım, seni öldüreceğim, seni ezeceğim, seni küle çevireceğim, seni ekmek hamuruna karıştıracağım ve puf puf olana kadar pişireceğim!!`
 ` Fuhha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}haaa{0}a{0}a{0}a{0}a{0}aaaahh!!"`
-`".........Ohhhh, that's no good, no good at all!`
-` You'll never be able to do that!`
-` Rokkenjima, in the year 1986.`
-` ...I will expose everything that happened then to the light of day!"`
-`"I'll teach you that you're no more than needle ice, scared of the spring of truth!`
-` Prepare yourself, Golden Witch!`
+`".........Ohhhh, bu hiç iyi değil, hiç de iyi değil!`
+` Bunu asla yapamayacaksın!`
+` Rokkenjima'da, 1986 yılında.`
+` ...O zaman olan her şeyi gün ışığına çıkaracağım!"`
+`"Sana gerçeklik baharından korkan buz sarkıtından başka bir şey olmadığını öğreteceğim!`
+` Kendini hazırla, Altın Cadı!`
 ` {f:5:Beatrice}!!!"`

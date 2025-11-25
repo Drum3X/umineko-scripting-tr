@@ -1,235 +1,235 @@
-`"Hahahaha, wahahahaha!`
-` I never thought that Lady {f:5:Bernkastel}'s piece would barge in at the very end...!"`
-`"......I searched all over the place for a piece fitting for a game with you.`
-` ......I'm sure that you'll grow to enjoy her."`
-`"What's with that piece?!`
-` Who was that person, who was it?!`
-` She didn't say her name! That's not fair!!`
-` Hey, don't you think so too?!"`
-`"...I have a general idea.`
-` ......Come on, normally, anyone would know."`
-`"Normally?!`
-` No we wouldn't, it was that character's first appearance, wasn't it?!`
-` If she doesn't say her name, I won't—the players won't—everyone won't know, right?!"`
-`"............Beato, it's alright if you don't tell her.`
-` See?`
-` Isn't she a funny kid?"`
-`"M‐...mm.`
-` ......Lady {f:5:Lambdadelta}'s simple‐minded naiveté truly is precious and funny.`
+`"Hahahaha, vahahahaha!`
+` Leydi {f:5:Bernkastel}'in taşının en sonda içeri dalacağını hiç düşünmemiştim...!"`
+`"......Seninle bir oyuna yakışır bir taş için her yeri aradım.`
+` ......Eminim ki ondan keyif alacaksın."`
+`"O taş da neyin nesiydi?!`
+` Kimdi o kişi, kimdi o?!`
+` Adını söylemedi! Bu haksızlık!!`
+` Hey, sen de öyle düşünmüyor musun?!"`
+`"...Bunun hakkında oldukça iyi bir fikrim var.`
+` ......Ya da, daha doğrusu bu oldukça açıktı."`
+`"Açık mıydı?!`
+` Hayır bilmezdik, bu o karakterin ilk ortaya çıkışıydı, değil mi?!`
+` Eğer adını söylemezse, ben—oyuncular—kimse bilmeyecek, değil mi?!"`
+`"............Beato, ona söylemesen de olur.`
+` Gördün mü?`
+` Komik bir çocuk değil mi?"`
+`"H-......Hı.`
+` ......Leydi {f:5:Lambdadelta}'nın basit düşünceli saflığı gerçekten değerli ve komik.`
 ` ......*cackle*cackle*!"`
-`"Why, why, why I am the only one you won't tell, you meanie!!`
-` Okay, in exchange, I'll teach you a special secret that only I know!`
-` So tell me!"`
+`"Neden, neden, neden söylemediğin tek kişi benim, seni gaddar!!`
+` Tamam, karşılığında, sana sadece benim bildiğim özel bir sır öğreteceğim!`
+` O yüzden söyle bana!"`
 `"......Hoh.`
-` A special secret, you say!`
-` Now that, I do want to hear...!"`
-`"Blehhh!`
-` If you want me to tell you, first tell me who that woman really was!`
-` The secret I know sure is awesome!`
-` I mean, it's gonna blow you away like finding out that Santa‐san is actually Daddy!"`
-`"Huh?`
+` Özel bir sır, diyorsun!`
+` İşte bunu, duymak isterim...!"`
+`"Böhhh!`
+` Sana söylememi istiyorsan, önce bana o kadının aslında kim olduğunu söyle!`
+` Bildiğim sır kesinlikle harika!`
+` Yani, seni Noel Baba-san'ın aslında baban olduğunu öğrenmek gibi havaya uçuracak!"`
+`"Hı?`
 ` *giggle*!`
-` Oopsie{p:0:☆} Sorry, I'll bet you're so shocked that your world turned upside‐down, right?!`
-` Oh‐hoh‐hoh‐hoh‐ho!"`
-`".........Your father was the one who came to your place, Lambda?"`
-`"To my place... Wait, what's that supposed to mean?"`
-`"...Lord {f:5:Santa Claus} only visits the homes of children with clean hearts.`
-` He didn't come to your place, then?"`
-`"Well, Lord {f:5:Santa Claus} is gracious.`
-` Unless you are a reeeally bad scoundrel, he will give you a present.`
-` After all, he even gave them to me!"`
-`".........As you grow and your heart becomes hardened, he stops coming, doesn't he?`
-` How old were you, Beato, when he stopped coming?"`
-`"Mm.`
-` He stopped coming when I was about twelve.`
-` My maiden's heart awoke, and I quickly got somewhat embarrassed about Lord {f:5:Santa} coming."`
-`"After I wrote "Thanks for everything, that's enough.`
-` So make sure you splurge on the last presents", he stopped coming.`
-` Oooh, and I was looking forward to it too!`
-` How old were you when he stopped coming, Lady {f:5:Bernkastel}?"`
-`".........I was pretty wild.`
-` ...It happened fairly early.`
-` I think when I was about nine.`
-` ...Something about that beard really irritated me, so I waited in my futon with some sewing scissors ready, thinking I'd cut it off.`
-` ............What a cringeworthy age."`
-`"So, ......Lady {f:5:Lambdadelta}, as long as you can remember, Lord {f:5:Santa Claus} has never come to see you, you say.`
-` ............He usually comes until the last year of elementary school or during middle school."`
-`"...Maybe we should have a doctor look at her.`
-` I hear that maturing too fast can have an adverse effect on the growth of mind and body.`
-` ...Yeah, there's definitely some of those.`
-` ...Adverse effects."`
-`"Hey, wh‐what are you guys talking about!!`
+` Hay aksi{p:0:☆} Üzgünüm, bahse girerim o kadar şaşırdın ki dünyan tersine döndü, değil mi?!`
+` Oh-hoh-hoh-hoh-ho!"`
+`".........Senin evine gelen baban mıydı, Lambda?"`
+`"Benim evime... Bekle, bu da ne demek oluyor?"`
+`"...Lord {f:5:Noel Baba} sadece kalbi temiz çocukların evlerini ziyaret eder.`
+` O zaman senin evine gelmedi mi?"`
+`"Şey, Lord {f:5:Noel Baba} lütufkârdır.`
+` Çooook kötü bir alçak olmadığın sürece, sana hediye verecektir.`
+` Ne de olsa, bana bile verdi!"`
+`".........Büyüdükçe ve kalbin katılaştıkça, gelmeyi bırakıyor, değil mi?`
+` Gelmeyi bıraktığında kaç yaşındaydın, Beato?"`
+`"Hımm.`
+` Ben yaklaşık on iki yaşındayken gelmeyi bıraktı.`
+` Genç kız kalbim uyandı, ve Lord {f:5:Noel Baba}'nın gelişinden çabucak biraz utandım."`
+`"Ona "Her şey için teşekkürler, bu kadarı yeterli.`
+` Bu yüzden son hediyeler için masraftan kaçınmadığından emin ol" diye yazdıktan sonra, gelmeyi bıraktı.`
+` Oooh, ve tabii ki ben de dört gözle bekliyordum!`
+` Gelmeyi bıraktığında kaç yaşındaydın, Leydi {f:5:Bernkastel}?"`
+`".........Ben oldukça vahşiydim.`
+` ...Fazlasıyla erken oldu.`
+` Sanırım yaklaşık dokuz yaşındayken.`
+` ...O sakalla ilgili bir şey beni gerçekten sinir etti, ben de yatağımda hazırda dikiş makasıyla bekledim, onu kesmeyi düşünerek.`
+` ............Utanç verici zamanlar."`
+`"Öyleyse, ......Leydi {f:5:Lambdadelta}, hatırlayabildiğin kadarıyla, Lord {f:5:Noel Baba} seni görmeye hiç gelmedi, diyorsun.`
+` ............Genellikle ilkokulun son yılları ve ortaokul çağı arasında gelir."`
+`"...Belki de onu bir doktora göstermeliyiz.`
+` Çok hızlı olgunlaşmanın zihin ve beden gelişimi üzerinde olumsuz bir etkisi olabileceğini duydum.`
+` ...Evet, kesinlikle bunlardan bazıları var.`
+` ...Olumsuz etkiler."`
+`"Hey, s-siz ne hakkında konuşuyorsunuz!!`
 ` Gaaaaah!!"`
 `"*cackle*cackle*cackle*cackle*cackle*!`
-` Wahahahaha, it truly is boisterous when three witches gather!"`
-`"......If you're talking about that level of secret, I doubt it's worth listening to.`
-` Can I go now?`
-` I have to prepare for the next game."`
-`"Wha—hey, wait a sec!`
-` Tell me who that woman really was!!"`
-`"......Well then, tell me this special secret of yours first.`
-` If it's good enough, then I'll tell you."`
-`"Hoh‐hoh‐hoh‐ho!!`
-` Alright, I'll tell you, and it really is a special secret, okay?!`
-` ......Remember, in this game, there was a girl who found the gold and became the new witch, right?"`
-`"Mm.`
-` Just what kind of secret could that person have?"`
+` Vahahahaha, üç cadı bir araya geldiğinde gerçekten şamatalı oluyor!"`
+`"......Eğer o seviyede bir sırdan bahsediyorsan, dinlemeye değeceğinden şüpheliyim.`
+` Şimdi gidebilir miyim?`
+` Bir sonraki oyun için hazırlanmam gerek."`
+`"Ne—hey, bir saniye bekle!`
+` O kadının aslında kim olduğunu söyle!!" "`
+`"......O zaman, önce bana şu özel sırrını söyle.`
+` Eğer yeterince iyiyse, o zaman sana söylerim."`
+`"Hoh-hoh-hoh-ho!!`
+` Pekâlâ, söyleyeceğim, ve bu gerçekten özel bir sır, tamam mı?!`
+` ......Hatırla, bu oyunda, altını bulan ve yeni cadı olan bir kız vardı, değil mi?"`
+`"Hımm.`
+` O kişinin ne tür bir sırrı olabilir ki?"`
 `"Ehheheheheh!`
-` I realized who that girl actually is.`
-` Does anyone know?`
+` O kızın aslında kim olduğunu fark ettim.`
+` Bilen var mı?`
 ` *giggle*giggle*!`
-` There was a hint in the way she talked."`
-`"Remember, that girl said it a lot, right?`
-` "Why don't you something foreverrrr?",`
-` right?!`
-` Yes, that phrase was the main point!`
-` Foreverrrr?`
-` For Evaaaa?`
-` Yes!"`
-`"She was actually...Ushiromiya Eva!!`
-` What do you think?!`
-` Are you shocked?!`
-` Oh‐hoh‐hoh‐hoh‐ho!!"`
+` Konuşma tarzında bir ipucu vardı."`
+`"Hatırla, o kız bunu çok söyledi, değil mi?`
+` "Neden sonsuza deeeek yapmıyorsun?",`
+` değil mi?!`
+` Evet, o ifade ana noktaydı!`
+` Forever?`
+` For eva?`
+` Evet!"`
+`"O aslında...Ushiromiya Eva'ydı!!`
+` Ne düşünüyorsun?!`
+` Şaşırdın mı?!`
+` Oh-hoh-hoh-hoh-ho!!"`
 `"Hoh...!`
-` I did not notice that!`
-` ...Mngh, to think that there would be a hint in a place like that."`
-`"......You're good at playing along with her, Beato.`
-` This kid can get a little full of herself, so don't take it too far.`
-` See you, I'm leaving."`
-`"Wait, wait!`
-` It's not fair if you just listen to my secret and don't tell me yours!!`
-` Tell me who she really was!!"`
-`"......Your secret was so incredible that mine just wouldn't match up.`
-` ...So in exchange, I'll tell you my own special secret.`
-` I'll tell you the name of the culprit in this game called {i:Higurashi no Naku Koro ni}."`
-`"Gyaaaaaaaaaaaaaaa, don't tell meee!!`
-` I'm playing it right nowwww!!"`
+` Bunu fark etmemiştim!`
+` ...Mngh, böyle bir yerde bir ipucu olacağını düşünmek."`
+`"......Ona ayak uydurmakta iyisin, Beato.`
+` Bu çocuk biraz kendini beğenmiş olabilir, bu yüzden fazla ileri gitme.`
+` Görüşürüz, ben gidiyorum."`
+`"Bekle, bekle!`
+` Sadece benim sırrımı dinleyip kendininkini söylememen haksızlık!!`
+` Onun aslında kim olduğunu söyle!!"`
+`"......Sırrın o kadar inanılmazdı ki benimki boy ölçüşemezdi.`
+` ...Bu yüzden karşılığında, sana kendi özel sırrımı söyleyeceğim.`
+` Sana {i:Higurashi no Naku Koro ni} adlı bu oyundaki suçlunun adını söyleyeceğim."`
+`"Gyaaaaaaaaaaaaaaa, söyleme banaaa!!`
+` Şu anda oynuyoruuuum!!"`
 `"......Ahhahahahahhahhahhahhah...`
-` See you, Beato.`
-` The black tea was delicious.`
-` Oh, about the crackers, though, the repertoire of jam was lacking.`
-` Get some gochujang chili paste every once in a while.`
-` It goes great with Russian tea.`
-` Later."`
-`"I see. Alright.`
-` I shall try it.`
-` I shall call for you when the preparations are finished for the next game.`
-` Until then, feel free to draw up a strategy at your leisure."`
-`"Yes, I will.`
-` This last game was pretty interesting.`
-` Later."`
-`"Heyyy, wait a sec, tell meee!!!"`
+` Görüşürüz, Beato.`
+` Siyah çay lezzetliydi.`
+` Oh, krakerlere gelince, reçel çeşitleri eksikti.`
+` Arada bir biraz gochujang biber salçası al.`
+` Rus çayıyla harika gider.`
+` Sonra görüşürüz."`
+`"Anlıyorum. Pekâlâ.`
+` Deneyeceğim.`
+` Bir sonraki oyun için hazırlıklar bittiğinde seni çağıracağım.`
+` O zamana kadar, boş vaktinde bir strateji çizmekte özgürsün."`
+`"Evet, yapacağım.`
+` Bu son oyun oldukça ilginçti.`
+` Sonra görüşürüz."`
+`"Heeey, bir saniye bekle, söyle banaaa!!!"`
 `"*cackle*cackle*.`
-` My, my, you two really are close."`
+` Vay canına, siz ikiniz gerçekten yakınsınız."`
 `"..............................`
-` ......Yes, that's right.`
-` ...Oh, how I love you, {f:5:Bernkastel}.`
-` You could even say I'm in love with you."`
-`"......I want to gouge out her eyes so she can see no one other than me.`
-` ......Oh, wouldn't that just be to die for?`
-` It'd be wonderful to dunk them in black tea.`
+` ......Evet, bu doğru.`
+` ...Ah, seni seviyorum, {f:5:Bernkastel}.`
+` Hatta sana aşık olduğum bile söylenebilir."`
+`"......Gözlerini oymak istiyorum ki benden başkasını göremesin.`
+` ......Ah, bu uğrunda ölmeye değmez miydi?`
+` Onları siyah çaya batırmak harika olurdu.`
 ` Ahah!"`
-`"Who knew she had entranced Lady {f:5:Lambdadelta} to this extent.`
-` ......It seems I carry a heavy responsibility.`
-` Still, this last game truly was close!`
-` I was a breath away from defeating Battler."`
+`"Leydi {f:5:Lambdadelta}'yı bu derece büyülediğini kim bilebilirdi.`
+` ......Görünüşe göre ağır bir sorumluluk taşıyorum.`
+` Yine de, bu son oyun gerçekten yakındı!`
+` Battler'ı yenmeye bir nefes kadar uzaktım."`
 `"..................Beato.`
-` Can I ask you something?"`
-`"What is it?`
-` I won't tell you that girl's name.`
+` Sana bir şey sorabilir miyim?"`
+`"Ne var?`
+` Sana o kızın ismini söylemeyeceğim.`
 ` *cackle*cackle*!"`
-`"...Just when are you going to stop screwing around?`
-` ...Do you even have the {i:slightest} intention of winning?"`
-`{f:5:Lambdadelta} threatened her with a low voice that she had never used in front of {f:5:Bernkastel}.`
-`...It completely blew away the calm atmosphere which had been there until a moment ago.`
-`".........You know,`
-` I'm supporting you 'cause you're meant to be a witch who can win against {f:5:Bernkastel}.`
-` If you don't have the power to win against her,`
-` then I'm ready to abandon you at any time, got it......?"`
-`"...............How scathing.`
-` What about me dissatisfies you?`
-` ...As you know, my game board is perfect.`
-` Lady {f:5:Bernkastel} will never be able to win..."`
-`"Yeah, that's right.`
-` Your board truly is impressive.`
-` {f:5:Bernkastel} could spend a hundred years,`
-` or even a thousand years here, and she would still be unable to win against this game board, it truly is that impressive and perfect."`
-`"......That's why, in exchange for letting me borrow that, I made you a witch.`
-` .........If I stop being your guardian, you'll immediately go back to being a {y:0:Human}{n:0:human}.`
-` ...Make sure you don't forget that, no matter how much incredible magical power you hold, ......you are nothing more than a temporary witch."`
-`"I, ......I know that.`
-` ...I am grateful to you..."`
-`"Don't speak so casually.`
-` I'll forgive that when {f:5:Bernkastel}'s around, but I won't when she isn't.`
-` Recently, maybe you've forgotten your debt to me."`
-`"Th‐that is, .........n‐...not, ......not so, my Lady......"`
-`"...Aah, changed my mind, that creeps me out.`
-` You can talk the same way as usual.`
-` But be mindful of what you say.`
-` ......I have a surprisingly short temper, you see?"`
-`"M‐......mm......"`
-`"Back to the point.`
-` ...Your game board truly is perfect.`
-` ......You should be able to defeat {f:5:Bernkastel} without any trouble.`
-` ...But that kid won't give in easily.`
-` She'll challenge you over and over."`
-`"That is no problem.`
-` ...It has been certified by you, Lady {f:5:Lambdadelta}.`
-` ......My game board is perfect."`
-`"Yeah, that's right, it's perfect.`
-` ............So long as you, the player, are perfect as well, that is?"`
-`".........I don't understand what you mean by this..."`
-`"What {i:I} mean by this...?`
-` That's what {i:I} want to ask {i:you}.`
-` .........You play around a lot in your games.`
-` ...At first, I thought it was part of your tactics, because it would completely baffle {f:5:Bernkastel} from time to time."`
-`"............But I get the feeling that's not quite true.`
-` You're not playing around in a match you know you can win,`
-` ......the truth is, you don't care whether you win or lose, do you?"`
-`"R‐......ridiculous...`
-` How could that be..."`
-`"Listen close, okay?`
-` Your role is to break {f:5:Bernkastel}, force her to yield.`
-` In other words, that means being the victor in this game for all eternity.`
-` ......As long as you keep trying to become the {i:certain} victor, then I will give you my power as the Witch of Certainty.`
-` ............However."`
-`"If you fight in a way that doesn't deny any possibility of your loss,`
-` ...that's a different story."`
-`"This is a game, of course...`
-` In the same way that Lady {f:5:Bernkastel} will lose if I win,`
-` ...there will be some days on which I will lose and she will win.`
-` The possibility of loss always exists.`
-` That is why I—"`
-`"...............This is why you're useless.`
-` There's no need for this to be a game board for you.`
-` It simply needs to be a bird cage to lock {f:5:Bernkastel} up here for all eternity."`
-`"...What's the role of a bird cage?`
-` Making certain that the little bird inside never escapes.`
-` ......What's a bird cage worth if it has gaps that sometimes let the bird out?"`
-`".........O‐of course, games exist to be won.`
-` So it is impossible for me to lose.`
-` ...Therefore, I will continue to win......`
-` ...As you wish, for all eternity..."`
-`"Good answer—that's all I want.`
-` ......I'll allow you to play around and use fakes as part of your tactics.`
-` ...It was sometimes effective in this last game."`
-`"............But hear this.`
-` If you make a move hoping for anything else other than victory,`
-` ............make sure you're wonderfully prepared, okay?"`
-`"I, I will not do such a thing...`
-` I swear it...!"`
-`"............Originally, you weren't even a witch,`
-` and I can remind you what a truly shabby creature you were at any time.`
-` ............If you betray my expectations...`
-` At that time, I will have a delightful delightful penalty waiting for you."`
-`"...Of the billions of fragment worlds out there, ......I'll send you into the most miserable fragment and seal you there.`
-` .........You were miserable in the first place, so it'll be worth choosing a really miserable fragment.`
+`"...Daha ne kadar dalga geçmeye devam edeceksin?`
+` ...Kazanmaya {i:en ufak} bir niyetin var mı?"`
+`{f:5:Lambdadelta} onu {f:5:Bernkastel}'in önünde hiç kullanmadığı alçak bir sesle tehdit etti.`
+`...Bir an öncesine kadar orada olan sakin atmosferi tamamen dağıttı.`
+`".........Biliyor musun,`
+` Seni destekliyorum çünkü sen {f:5:Bernkastel}'e karşı kazanabilecek bir cadısın.`
+` Eğer ona karşı kazanacak gücün yoksa,`
+` o zaman seni her an terk etmeye hazırım, anlaşıldı mı......?"`
+`"...............Ne kadar iğneleyici.`
+` Benimle ilgili ne seni memnun etmiyor?`
+` ...Bildiğin gibi, oyun tahtam mükemmel.`
+` Leydi {f:5:Bernkastel} asla kazanamayacak..."`
+`"Evet, bu doğru.`
+` Tahtan gerçekten etkileyici.`
+` {f:5:Bernkastel} burada yüz yıl,`
+` hatta bin yıl harcayabilir, ve yine de bu oyun tahtasında kazanamazdı, gerçekten o kadar etkileyici ve mükemmel."`
+`"......Bu yüzden, onu ödünç almama izin vermen karşılığında, seni bir cadı yaptım.`
+` .........Eğer senin koruyucun olmayı bırakırsam, hemen bir {y:0:İnsan}{n:0:insan} olmaya geri döneceksin.`
+` ...Ne kadar inanılmaz büyü gücüne sahip olursan ol, bunu unutmadığından emin ol, ......sen geçici bir cadıdan başka bir şey değilsin."`
+`"B-......Bunu biliyorum.`
+` ...Sana minnettarım..."`
+`"Bu kadar laubali konuşma.`
+` {f:5:Bernkastel} etraftayken bunu affederim, ama o yokken affetmem.`
+` Son zamanlarda, belki de bana olan borcunu unuttun."`
+`"B-Bu, .........ö-...öyle, ......öyle değil, Leydim......"`
+`"...Aah, fikrimi değiştirdim, bu tüylerimi ürpertiyor.`
+` Her zamanki gibi konuşabilirsin.`
+` Ama söylediklerine dikkat et.`
+` ......Şaşırtıcı derecede çabuk parlayan bir öfkem var, anlarsın ya?"`
+`"H-......Hı......"`
+`"Konuya dönelim.`
+` ...Oyun tahtan gerçekten mükemmel.`
+` ......{f:5:Bernkastel}'i hiç sorun yaşamadan yenebilmelisin.`
+` ...Ama o çocuk kolayca pes etmez.`
+` Sana defalarca meydan okuyacaktır."`
+`"Bu sorun değil.`
+` ...Sizin tarafınızdan onaylandı, Leydi {f:5:Lambdadelta}.`
+` ......Oyun tahtam mükemmel."`
+`"Evet, bu doğru, mükemmel.`
+` ............Oyuncu olan sen de mükemmel olduğun sürece, yani?"`
+`".........Bununla ne demek istediğini anlamıyorum..."`
+`"{i:Benim} bununla ne demek istediğim mi...?`
+` {i:Benim} {i:sana} sormak istediğim bu.`
+` .........Oyunlarında çok fazla oyalanıyorsun.`
+` ...İlk başta, taktiklerinin bir parçası olduğunu düşündüm, çünkü zaman zaman {f:5:Bernkastel}'i tamamen şaşkına çeviriyordu."`
+`"............Ama bunun tam olarak doğru olmadığı hissine kapılıyorum.`
+` Kazanabileceğini bildiğin bir maçta oynamıyorsun,`
+` ......gerçek şu ki, kazanıp kaybetmen umurunda değil, değil mi?"`
+`"G-......Gülünç...`
+` Bu nasıl olabilir..."`
+`"İyi dinle, tamam mı?`
+` Senin rolün {f:5:Bernkastel}'i kırmak, onu boyun eğmeye zorlamak.`
+` Başka bir deyişle, bu, oyunda sonsuza dek galip gelmek demektir.`
+` ......Sen {i:kesin} galip olmaya çalışmaya devam ettiğin sürece, sana Kesinliğin Cadısı olarak gücümü vereceğim.`
+` ............Ancak."`
+`"Eğer kaybetme olasılığını yok sayarak savaşırsan,`
+` ...bu farklı bir hikaye."`
+`"Bu bir oyun, elbette...`
+` Ben kazanırsam Leydi {f:5:Bernkastel}'in kaybedecek olması gibi,`
+` ...benim kaybedeceğim ve onun kazanacağı bazı günler de olacak.`
+` Kaybetme olasılığı her zaman mevcuttur.`
+` Bu yüzden ben—"`
+`"...............İşte bu yüzden işe yaramazsın.`
+` Bunun senin için bir oyun tahtası olmasına gerek yok.`
+` Sadece {f:5:Bernkastel}'i buraya sonsuza dek kilitlemek için bir kuş kafesi olması gerekiyor."`
+`"...Bir kuş kafesinin rolü nedir?`
+` İçindeki küçük kuşun asla kaçmamasını kesinleştirmek.`
+` ......Kuşun dışarı çıkmasına izin veren boşlukları varsa bir kuş kafesinin değeri nedir?"`
+`".........E-Elbette, oyunlar kazanılmak için vardır.`
+` Bu yüzden kaybetmem imkânsız.`
+` ...Bu nedenle, kazanmaya devam edeceğim......`
+` ...Dilediğiniz gibi, sonsuza dek..."`
+`"Güzel cevap—tek istediğim bu.`
+` ......Taktiklerinin bir parçası olarak oynamana ve hile kullanmana izin vereceğim.`
+` ...Bu son oyunda biraz etkiliydi."`
+`"............Ama şunu duy.`
+` Eğer zaferden başka bir şey umarak bir hamle yaparsan,`
+` ............harika bir şekilde hazırlandığından emin ol, tamam mı?"`
+`"B-Ben böyle bir şey yapmayacağım...`
+` Yemin ederim...!"`
+`"............Aslında, sen bir cadı bile değilsin,`
+` sana ne kadar perişan bir yaratık olduğunu her an hatırlatabilirim.`
+` ............Eğer beklentilerime ihanet edersen...`
+` O zaman, seni bekleyen enfes, çok enfes bir cezam olacak."`
+`"...Dışarıdaki milyarlarca kakera dünyasından, ......seni en sefil kakeraya göndereceğim ve seni oraya mühürleyeceğim.`
+` .........Başlangıçta sefildin, bu yüzden gerçekten sefil bir kakera seçmeye değecek.`
 ` ...*giggle*giggle*giggle*giggle*giggle*."`
 `"................................."`
-`"Oh, how I love you, {f:5:Bernkastel}.`
-` ...Scrabble your feet in {f:5:Beatrice}'s bird cage as much as you like,`
-` and spend a thousand years learning that you can no longer escape."`
-`"......And when you give in,`
-` ...I'll train you so that you can't tweet in anyone's palm but mine."`
+`"Ah, seni seviyorum, {f:5:Bernkastel}.`
+` ...{f:5:Beatrice}'in kuş kafesinde istediğin kadar mücadele et,`
+` artık kaçamayacağını öğrenerek bin yıl harca."`
+`"......Ve pes ettiğinde,`
+` ...seni benimkinden başka kimsenin avucunda ötmeyecek şekilde eğiteceğim."`
 `"............*giggle*giggle*giggle*giggle*,`
 ` ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!"`

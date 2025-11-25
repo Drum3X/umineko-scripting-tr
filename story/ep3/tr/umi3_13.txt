@@ -55,7 +55,7 @@
 `"Aynen öyle.`
 ` ...Ah, sanırım duymuş olmalısın.`
 ` Maria-chan gülünü görmek istediği için ortalığı ayağa kaldırıyordu."`
-`"......Y-......yapmamalılar,`
+`"......Y-......Yapmamalılar,`
 ` ......gül bahçesine gitmemeliler...!`
 ` Rosa'ya durmasını söyle...!"`
 `"O-Ona şimdi dur demenin bir anlamı yok, görünüşe göre bir süre önce gitmişler.`
@@ -584,7 +584,7 @@
 ` Basit bir gizemden başka bir şeye benzemiyor."`
 `"...Ronove'dan duyduğum kadarıyla, geçen sefer ve ondan önceki sefer yaptığınız gibi, cesetlere daha grotesk bir şekilde zarar vermeliydiniz,`
 ` onu bir fantezi gibi gösterip o insanlara korku salmalıydınız."`
-`"...Ş-...şey, o konu hakkında.`
+`"...Ş-...Şey, o konu hakkında.`
 ` ...Bunu her seferinde yapmanın sanatsal olmayacağını düşündüm, anlıyor musunuz...?`
 ` Üzerinde çok fazla düşünmeyin, bu sadece bir heves...!"`
 `Aslında, bu gerçekten de onun hevesiydi.`

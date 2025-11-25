@@ -616,14 +616,14 @@
 `beldim........."`
 `"......İyi bir kadındın.`
 ` Benden önce cennete git ve makyajını yap.`
-` Kesinlikle gelip seni öveceğim."`
-`Belphegor yavaşça yere düşerken, ...onu insan formunda tutan gücü bile kaybetti,`
-` ve altın tozu kadar incelip, havaya karıştı...`
-`O noktada, Kyrie içeri daldı.`
+` Kesinlikle gelip seni göreceğim."`
+`Belphegor yavaşça yere düşerken, ...onu insan formunda tutan gücü kaybetti,`
+` ve altın tozu kadar küçülüp, havaya karıştı...`
+`O anda, Kyrie içeri daldı.`
 `{n}Görünüşe göre peşindekini kendi elleriyle yenmişti.`
 `Silahının namlusunu doğrudan cadıya doğrultarak, yara bere içindeki Rudolf'a koştu.`
 `"......İyi misin?`
-` Az önce birini mi övüyordun?"`
+` Az önce birini mi ayartıyordun?"`
 `"Evet, iyi bir kadın.`
 ` ...Seninle boy ölçüşemez tabii."`
 `"............Üzgünüm, Aneki.`
@@ -646,13 +646,13 @@
 `".........Eh, Selef'in eskimiş mobilyaları için imkânsız olması gayet doğal.`
 ` ......Kendime uygun, yeni mobilyalarım olmalı.`
 ` Onları mecburiyetten kullandım,`
-` ......ama elden düşmelerden hep nefret etmişimdir."`
+` ......ama ikinci el şeylerden hep nefret etmişimdir."`
 `Bunu söylerken, tamamen bir altın tozu yığınına dönüşmüş olan Belphegor'un kalıntılarına iğrenerek baktı.`
 `"Neden bahsettiğini bilmiyorum.`
 ` Şimdi o lanet ellerini kaldır."`
 `...Sonra, cadı itaatkâr bir şekilde ellerini kaldırdı.`
 `Ama kendisine bir silah doğrultulduğu için ellerini kaldırmak yerine,`
-` daha çok bir orkestranın karşısındaki şefmiş gibi, şef değneğini sallıyormuş gibi görünüyordu.`
+` daha çok bir orkestranın karşısındaki şefmiş gibi, şef olarak değneğini sallıyormuş gibi görünüyordu.`
 `"Gel, yüksel, bana uygun mobilya...!!`
 ` O ucuz mobilyalar değil, çok daha güçlü olanlar!`
 ` Acımasız olanlar!!`
@@ -661,7 +661,7 @@
 ` Tetiği çekerim...!"`
 `Cadının çağrısına yanıt olarak, salon bir kez daha altın rengine gömüldü.`
 `Işıl ışıl parlayan altın kelebeklerin vahşi bir dansıydı bu,`
-` ...ve sanki bir altın yaprak okyanusu tarafından yutulmuşlar gibi hissettirdi.`
+` ...ve sanki bir altın yaprak okyanusu tarafından yutulmuştular.`
 `Ronove büyü gücündeki o artış karşısında şoka uğradı...`
 `{n}Çünkü bu eski efendisinin gücünü bile kat kat aşıyordu.`
 `Altın parıltının ortasında gözleri kamaşırken, bir silah sesi duyuldu.`
@@ -675,23 +675,23 @@
 `"B, ......bir kurşun geçirmez bariyer........."`
 `Selefinin bile önemli miktarda hazırlık yapmasını gerektiren bir bariyer...bir anda...`
 `{n}Ronove'nin yüzü artık şokla buruşmuştu.`
-`{n}Ve sürpriz burada bitmedi......`
-`Altın kelebekler grubu iki insansı form oluşturdu.`
-`......Bu bir mobilya çağırmaydı.`
-`Kelebekler sıyrılıp uçup gitti ve altlarında, kız şeklindeki mobilyalar kendilerini gösterdi.`
-`"..................Chiester Kız Kardeşler birlikleri...`
+`{n}Sürpriz burada bitmedi......`
+`Altın kelebekler iki insansı form oluşturdu.`
+`......Bu bir mobilya çağırma töreniydi.`
+`Kelebekler uçup gitti ve altlarında, kız şeklindeki mobilyalar kendilerini gösterdi.`
+`"..................Chiester Kız Kardeşler birliği mi...`
 ` .........Selef bile...`
-`...bir anda, ve bu kadar kolayca Pendragon'un Anı Birliklerini çağıramazdı...!"`
+`...bir anda, ve bu kadar kolayca Pendragon'un Anıt Birliğini çağıramazdı...!"`
 `"Chiester{ruby:dört‐bir‐sıfır:410}. Burada."`
 `"Chiester{ruby:kırk‐beş:45}. Burada."`
 `"...Siz ikiniz bana uygun mobilyalarsınız, değil mi?"`
-`"Size resimli kitap okumaktan, arkadaşlık randevusuna çıkmaya, bir göktaşını vurmaya kadar,`
+`"Size resimli kitap okumaktan, arkadaşlık randevusuna çıkmaya, bir göktaşını indirmeye kadar,`
 ` her şeyi hallederiz. Nihihi."`
 `"E‐eğer halletmezsek, Ejderha Kral bize kızar...!`
 ` Lütfen, emirlerinizi verin, Yüce Leydi {f:5:Beatrice}!"`
 `".........Rudolf‐san.`
 ` Kaçalım.`
-` Bu herifler hiç iyi değil......!"`
+` Bu herifler iyi değil......!"`
 `"E‐.........elbette!"`
 `Onu Araf'ın Yedi Kız Kardeşi tarafından kurulan pusuya karşı uyaran aynı his sayesinde,`
 ` Kyrie kafasında çalan, neredeyse çığlıklara benzeyen uyarı sirenlerini net bir şekilde duydu.`
@@ -711,15 +711,15 @@
 ` Sıkılmıştı, kendi gücünün ve kendi acımasızlığının vahşileşmesine izin verememekten.`
 `......Selefinin mobilyasının ona itidalli davranmasını söylemesinden rahatsız olmuş, hoşnutsuzluğu zirveye ulaşmıştı.`
 `"Ooh, bu Gururlu Lucifer‐chan.`
-` Uzun zamandır görüşmedik miyav, n'aber?`
+` Uzun zamandır görüşmedik nyeh, n'aber?`
 ` Bir ara yine beraber oynayalım.`
 ` Nihhihihihihihi!"`
 `"D‐...410, sohbet etmemelisin, başın belaya girecek...!`
 ` Yüce Leydi {f:5:Beatrice}'in emrini hemen yerine getirelim...!"`
 `"Nihi.`
-` Şu anda iş başındayız gibi görünüyor miyav."`
+` Şu anda iş başındayız gibi görünüyor nyeh."`
 `"......410, anlaşıldı.`
-` Keskin nişancı takibi savaşına hazırlanılıyor."`
+` Keskin nişancı takip çatışmasına hazırlanılıyor."`
 `"Arazi verileri toplanıyor, atış verileri toplanıyor.`
 ` 410'a veri bağlantısı."`
 `"410, veriler alındı.`
@@ -730,15 +730,15 @@
 `"45, veriler alındı.`
 ` Tehlikeli bölge kontrol ediliyor, ......ah, orada değil!"`
 `"Arkamızda ayak altındasın, Lucifer‐chan,`
-` geri tepmede kızaracaksın, biliyorsun değil mi? Nihi!"`
+` geri tepen ateş seni kızartacak, biliyorsun değil mi? Nihi!"`
 `".........nh..."`
 `Chiester kız kardeşler, karşılıklı ölçümleri sayesinde,`
-` malikânenin içindeki araziyi ve hedeflerinin koordinatlarını, ayrıca onlara ulaşmak için bir atış eğrisini anında hesaplayabiliyordu.`
+` malikânenin içindeki araziyi ve hedeflerinin koordinatlarını, ayrıca onlara ulaşmak için gereken atış eğrisini anında hesaplayabiliyordu.`
 `...Evet, atışları kavisli bir çizgi çizecek şekilde yönlendirilebiliyordu.`
 `{n}Kimse ondan kaçamazdı.`
-`Araf'ın Yedi Kız Kardeşi'nin hassas güdümlü yeteneği, bu ikisinin sahip olduğu yeteneğin ucuz bir versiyonundan başka bir şey değildi.`
+`Araf'ın Yedi Kız Kardeşi'nin hassas hedef alma yeteneği, bu ikisinin sahip olduğu yeteneğin ucuz bir versiyonundan başka bir şey değildi.`
 `"45, atış hazırlıkları tamam.`
-` Mühimmat seçildi, şimdi yükleniyor."`
+` Mühimmat seçildi, yükleniyor."`
 `İkisi birbirine döndü,`
 ` ve sanki ikisi de birlikte bir yay kirişini geri çekiyormuş gibi,`
 ` ...orada, göz kamaştırıcı bir altın ok hazırlandı.`
@@ -750,10 +750,10 @@
 `Koridorlardan döndü, yerde süründü, güzel bir kavis çizerek onları kovaladı.`
 `Kimse Chiester Kız Kardeşler'in güdümlü mermilerini engelleyemezdi.`
 ` Kimse onlardan kaçamazdı.`
-` Ve güçleri tüm fiziksel ve büyüsel savunmaları delebilirdi.`
-`......Bu, kesin ölüm getiren fazlasıyla acımasız güdümlü bir silahtı.`
+` Güçleri tüm fiziksel ve büyüsel savunmaları delebilirdi.`
+`......Bu, kesin ölüm getiren acımasız bir güdümlü silahtı.`
 `Ancak, efsanevi sınıf askerler arasında, hemen hemen herkes tarafından kullanılan bir silahtı.`
-` Onlar için çok sıradandı, ...ve günlük dünyanın insanları için çok olağanüstüydü.`
+` Onlar için çok sıradandı, ...ama günlük dünyanın insanları için çok olağanüstüydü.`
 `"B‐bu da ne...?!"`
 `Hızla onları kovalayan bir şeyi fark edip arkasını döndüğünde...`
 `Rudolf, altın yılan tarafından tam kalbinin olduğu yerden vuruldu.`
@@ -761,9 +761,9 @@
 `"R‐Rudolf‐san......?!"`
 `Altın yılan Rudolf'u delip geçtikten sonra,`
 ` zemine doğru süzüldü, güzel bir spiral çizerek Kyrie'nin bacaklarına dolandı ve göğsüne kadar tırmandı.`
-`Ve tıpkı Rudolf gibi, tam kalbinin olduğu yerden delip geçti.`
+`Tıpkı Rudolf gibi, tam kalbinin olduğu yerden delip geçti.`
 `...Ve bunların hepsi de bir anda oldu.`
-`{n}Rudolf'u kazığa oturttu ve Kyrie'yi kazığa oturttu.`
+`{n}O şey Rudolf ve Kyrie'yi delip geçti.`
 `Böylece neredeyse aynı anda öldüler, aynı anda dizlerinin üzerine çöktüler ve aynı anda yere düştüler.`
 `"......Bu da neeee?`
 ` Çok ezici, ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!`
@@ -780,20 +780,20 @@
 `......Ama o artık bir {y:0:İnsan}{n:0:insan} değildi.`
 `{n}O bir cadıydı.`
 `...Ve sadece cadıların anlayabileceği bazı zevkler vardı.`
-`Şimdiye kadar, o zevkleri tatmıştı ve tamamen onlara dalmıştı.`
-`...Yasak çömleğin içeriğinin bal olduğunu öğrendikten sonra, artık onsuz yaşayamazdı.`
-`......Hayır, belki de yasak oldukları için içerik baldı.`
+`Şimdiye kadar, o zevkleri tatmıştı ve tamamen onlara kapılmıştı.`
+`...Yasak çömleğin içindekinin bal olduğunu öğrendikten sonra, artık onsuz yaşayamazdı.`
+`......Hayır, belki de yasak olduğu için içindeki şey baldı.`
 `Her durumda, {y:0:İnsan}{n:0:insan}ları dehşet verici bir şekilde öldürme eylemi,`
 ` ve bunu tekrar tekrar yapmak, artık ona uyuşturucu benzeri bir zevk veriyordu.`
 `Cadı gülmekten yerlerde yuvarlanırken,`
 ` az önce ateşlenen altın yılan sanki geri çekiliyormuş gibi geri döndü.`
-`İkisi ucuna dikilmişti ve sürükleniyordu.`
+`İkisi ucuna saplanmıştı ve sürükleniyordu.`
 `Cadının emri yerine getirilmişti.`
 `...Rudolf ve Kyrie anında öldürülmüş ve bedenleri geri taşınmıştı.`
 `"Chiester45, 410, emirlerin infazı tamamlandı.`
 ` Bir sonraki emrinizi bekliyoruz, Yüce Leydi {f:5:Beatrice}.`
 ` Lütfen, emriniz...!"`
-`"Bebek bakıcılığından, çevrimiçi çok oyunculu oyunlarda sizinle oynamaya,`
+`"Bebek bakıcılığından, sizinle çevrimiçi çok oyunculu oyunlar oynamaya,`
 ` bir uzay mekiğini düşürmeye kadar, her şeyi hallederiz.`
 ` Nihihi!"`
 `"............Bu ikisi görünüşe göre dördüncü alacakaranlık ve beşinci alacakaranlık için kurbanlar.`
@@ -816,25 +816,25 @@
 ` Eğer bu kadar haysiyetsiz ve zalimce davranırsan, ııı,`
 ` ...şey, bazı insanlar bunu kötü karşılayabilir..."`
 `"..............................`
-` ......O oyundaki rakibini, bir yerlerde savaştığını duyduğum kişiyi kastediyorsun?`
+` ......O oyundaki rakibini mi kastediyorsun, bir yerlerde savaştığınızı duydum?`
 ` Ronove bana söyledi."`
 `"......L‐lanet olsun o gevezeye.`
 ` .........Şey, dürüst olmak gerekirse, durum böyle.`
 ` Şöyle bir şikayet aldım ki, ııı,`
 ` ...biraz fazla oluyor, anlıyor musun?"`
-`"Bana doğrudan itiraz etmek yerine sana iletmeni söylemelerine gerek yok sanki.`
+`"Bana doğrudan itiraz etmek yerine sana iletmeni söylemelerine gerek yok.`
 ` ...O kişi bir korkak."`
 `".........Şey, o kişi, ııı, buradan farklı bir dünyanın sakini, anlıyor musun.`
 ` Beni aracı olarak kullanmaktan başka seçenek yok.`
 ` Şey, her neyse, mesele şu ki—"`
 `"........................`
 ` ......Bu da, bu kişinin istese bile benimle etkileşime giremeyeceği anlamına geliyor.`
-` Ve ben de istesem bile onlarla etkileşime giremem.`
-` Bunu o kadar uzaktaki bir dünyadan ilgisiz bir kişi olarak anlamakta haklı mıyım?"`
+` Ben de istesem bile onunla etkileşime giremem.`
+` Onu, çok uzaktaki bir dünyadan ilgisiz bir kişi olarak görmem doğru değil mi?"`
 `"H‐hı‐hım.`
-` ......Benzerlik kurarsak, belki bu dünyaların birbirine çok yakın iki paralel çizgi gibi olduğunu söyleyebilirsin.`
+` ......Benzerlik kurarsak, bu dünyaların birbirine çok yakın iki paralel çizgi olduğunu söyleyebiliriz.`
 ` Dünyalar çok yakındır, ancak paralel çizgiler oldukları için asla kesişmezler.`
-` Şimdilik, o dünyayı bu şekilde görebilirsin."`
+` Şimdilik, o dünyayı bu şekilde anlayabilirsin."`
 `"Asla kesişmezler.`
 ` Bu demek oluyor ki...`
 `.........o dünyanın benimle hiçbir ilgisi yok.`
@@ -845,7 +845,7 @@
 ` Neden öylece pes edip sonsuza dek ölmüyorsun...?"`
 `"..................Ne—"`
 `"...Ah, özür dilerim.`
-` Bir arkadaşın olduğu için, sadece bir kadın olacağını hayal ettim.`
+` Sadece bir arkadaşın olduğu için, kadın olacağını hayal ettim.`
 ` "Yaşlı cadaloz" derken, kesinlikle senden bahsetmiyorum, Selef‐sama, o yüzden lütfen beni affet.`
 ` *cackle*cackle*cackle*cackle*...!"`
 `Konuşurken, cadı doğrudan Beato'nun gözlerinin içine bakıyordu.`
@@ -856,9 +856,9 @@
 ` ve bir cadı olduğunu kabul etmesini sağlamak zorundasın?"`
 `"Şey, o konuda,`
 ` ...bunun nedeni tüm insanlara cadıların varlığını kabul ettirmenin mükemmel kontrolle ilgili olması.`
-` Direnen tek bir kişi vardı, anlıyor musun, ve o beni bir cadı olarak kabul etmiyor."`
+` Direnen tek bir kişi vardı, anlıyor musun, o beni bir cadı olarak kabul etmiyor."`
 `".........Neden o {y:0:İnsan}{n:0:insan}ın onayına ihtiyacın var ki?`
-` Cadılar cadıdır ve büyü kullanırlar; bunun için neden bir {y:0:İnsan}{n:0:insan}ın kabulüne ihtiyacın var?"`
+` Cadılar cadıdır ve büyü kullanırlar, bunun için neden bir {y:0:İnsan}{n:0:insan}ın kabulüne ihtiyacın var?"`
 `"...Hı, .........şey, daha önce dediğim gibi, büyü denen şey—"`
 `"Ben bir cadıyım.`
 ` Özellikle kimsenin onayı olmadan büyü kullanabiliyorum, yani ne demeye çalışıyorsun......?"`
@@ -866,24 +866,24 @@
 ` Ancak, o kabul etmeyeceği için, şey,`
 ` ...hmmmm, bunu nasıl açıklamalıyım..."`
 `"......Bir açıklamaya ihtiyacım yok.`
-` Sonuçta, bu tamamen bununla asla kesişmeyen farklı bir dünya hakkında değil mi?`
+` Sonuçta, bu tamamen buradakiyle asla kesişmeyen farklı bir dünya hakkında değil mi?`
 ` Başka bir deyişle, sanki o dünya yokmuş gibi."`
 `"...............İster başka bir dünyada bir oyunda savaşıyor ol, ister kuruntuların hakkında konuşuyor ol, bu hiçbiiiir şeyi değiştirmez.`
 ` ......Tekrar söyleyeceğim.`
 ` Bunun benimle hiçbir ilgisi yok.`
-` Ve ben zaten bir cadıyım."`
+` Ayrıca ben zaten bir cadıyım."`
 `"Selef‐sama, öyle ya da böyle, görünüşe göre bu kişi seni kabul etmediği sürece bir cadı olamazsın, ama ben farklıyım.`
 ` Kimse beni kabul etmemiş olsa da, ben zaten mükemmel bir cadıyım.`
 ` .........Selefim olduğun için, sana resmen saygı göstereceğim,`
 ` ama bu iyi niyetten, görevden değil."`
-`"......Artık tavsiyeni aramıyorum,`
-` ve şimdi ne yapmam gerektiğini ve bundan sonra nasıl oynamam gerektiğini açıkça anlıyorum."`
+`"......Artık tavsiyene ihtiyacım yok,`
+` şimdi ne yapmam gerektiğini ve bundan sonra nasıl oynamam gerektiğini açıkça anlıyorum."`
 `".........Bu yüzden on üç kişinin törensel cinayetini sana son bir saygı gösterisi olarak gerçekleştireceğim.`
 ` Ancak, kullandığım yöntemler,`
 ` ve ondan sonra ne yapacağım konusunda, bunlar hakkında senden ders almam için kesinlikle hiçbir sebep yok.`
 ` ..................Bu nedenle, bu konuda sana güveniyorum."`
-`İlk bakışta, bu sözler itaatkâr görünüyordu, ancak içlerinde yolların açık bir ayrılışını barındırıyordu.`
-`...Olabildiğince açık bir şekilde söylüyorlardı,`
+`İlk bakışta, bu sözler itaatkâr görünüyordu, ancak içlerinde yolların açıkça ayrılışını barındırıyordu.`
+`...Olabildiğince açık bir şekilde söylüyordu,`
 ` "Sana güvenmek için daha fazla sebebim yok, o yüzden eğlenceme engel olma".`
 `Beato bunu anladı,`
 ` ...ve ne kadar açıklarsa açıklasın, cadıya anlatamayacağını fark ederek morali bozuldu.`
@@ -893,34 +893,34 @@
 `"......Şu ana kadarki o kaygısız taşkınlığın,`
 ` buna nasıl saygı denebileceğini duymayı çok isterim."`
 `Bunu duyduktan sonra, Beato cevap veremedi.`
-` ......Çünkü efendisinden tam olarak aynı şeyi duyduğunu hatırladı.`
+` ......Çünkü ustasından tam olarak aynı şeyi duyduğunu hatırladı.`
 `"Öyleyse.`
 ` Chiester Kız Kardeşler?`
 ` Selefim gitmek üzere, lütfen onu yolcu edin."`
 `"Nihihihihi.`
 ` Selef‐sama, lütfen buradan çekilin."`
 `"E‐eğer yapmazsan, biz azar işiteceğiz...!"`
-`Beato, vücudunun her yerinde Chiester Kız Kardeşler'in gözlerinde sadece baskıcı bir his olarak tanımlanabilecek görünmez bir şey hissetti.`
+`Beato, vücudunun her yerinde, Chiester Kardeşlerin gözlerinde, ancak baskıcı bir his olarak tanımlanabilecek görünmez bir şey hissetti.`
 `......Büyük olasılıkla, atış hesaplamalarını başlatıyorlardı.`
-`{n}Bu, bir silahı çıkarıp horozunu kaldırmak gibi bir eylemdi.`
+`{n}Bu, bir silahı çıkarıp horozunu çekmek gibi bir eylemdi.`
 `Beato bile herhangi bir hazırlık yapmadan Chiester Kız Kardeşler'in saldırılarından kaçamazdı.`
-`...Geçmişte, onlara en büyük güvenini duymuştu, bu yüzden ne kadar korkutucu olduklarını ruhunun derinliklerine kadar biliyordu.`
+`...Geçmişte, onlara büyük güven duymuştu, bu yüzden ne kadar korkutucu olduklarını ruhunun derinliklerinde biliyordu.`
 `".........Selef‐sama, eğer çekilirseniz.`
-` .........{f:5:Beatrice}‐sama'nın keyfini daha fazla kaçırmanızı tavsiye etmem."`
+` .........{f:5:Beatrice}‐sama'nın keyfini daha fazla kaçırmamanızı tavsiye ederim."`
 `"......Selef‐sama..."`
 `"P‐.........pekâlâ.`
 ` ...Şimdi izninizi isteyeceğim.`
-` ......Kendini sokacağın koşulları takdir etmek için zaman ayıracağım!"`
-`Bu, bir kaybedenin son cevabına en yakın şeydi.`
+` ......Kendini sokacağın değerlendirmek için zamanımı kullanacağım!"`
+`Bu, bir kaybedenin son cevabına olabildiğince yakın bir şeydi.`
 `...Böylece Beato kendini sakladıktan sonra, cadı ve mobilyası gülmekten yerlere yattı...`
 `"............Pekâlâ, anlıyorum.`
 ` Sonsuz güç eğlencelidir.`
-` ...Sonlu şeylerin somut örneği olan bir hayatla özgürce oynamanın sevinci, onu tatmamış olanlara anlatılamaz.`
+` ...Sonlu şeylerin somut örneği olan hayatla özgürce oynamanın eğlencesi, onu tatmamış olanlara anlatılamaz.`
 ` ......O zevk tarafından ele geçirilmiş olma hissini anlayabiliyorum."`
 `"......Bayağı eğlenceli olmalı.`
 ` Geçmişteki maskaralıklarına bakılırsa."`
-`"Geçmişte bana nasihat ettiğin gibi olduğunu ve benim dinlemediğimi mi söylüyorsun, Efendi...?"`
-`".........Neden o çocuğu eylemleri için azarlamaya çalışmaya başladın?"`
+`"Eskiden beni azarladığınız gibi mi diyorsunuz, Usta, ve ben dinlemedim mi...?"`
+`".........Neden o çocuğu eylemleri için azarlamaya başladın?"`
 `"Hı, ......ııı, şey.`
 ` ........................"`
 `"...Seninle o çocuk arasında tek bir büyük fark var.`
@@ -936,7 +936,7 @@
 ` ...Geçen sefer her şey istediğim gibi gitti, bu yüzden sadece bir nefes uzakta olduğumu düşündüm..."`
 `"Aslında tam tersi.`
 ` Battler‐kun senin vahşiliğin karşısında şoke oldu.`
-` Ve rakibin olarak öne çıkmasının nedeni, seni eşit bir rakip olarak kabul etmesi değildi.`
+` Rakibin olarak öne çıkmasının nedeni, seni eşit bir rakip olarak kabul etmesi değildi.`
 ` Acımasız bir cadının varlığını tamamen inkâr etmeye çalışırken, güçlü bir düşmanlığa dayanıyordu."`
 `".........Aptallığınla, muhtemelen Battler‐kun'un kendini rakibin olarak görmesinin...`
 `senin bir cadı olduğunu kabul etmesini sağlamak için atılan bir ilk adım olduğunu hissettin.`
@@ -956,7 +956,7 @@
 `"N‐...bundan sonra ne yapmalıyım?"`
 `"Bunu kendin düşün.`
 ` ......Neyse ki, oyun tahtasında bir taş olmaktan çoktan vazgeçtin ve işleri yeni cadıya devrettin.`
-` Kendin hakkında kasten kafa yormak için zamanın olmalı."`
+` Kendin hakkında kafa yormak için zamanın olmalı."`
 `"............Ama Battler zaten koca bir düşmanlık yumağı.`
 ` Cadıları kabul etmeyecek, ve beni kabul etmeyecek.`
 ` ......Bu durumda, Battler'ın beni kabul etmesini nasıl sağlarım ki...?`
@@ -970,31 +970,31 @@
 ` ...O zaman, gezgin pelerinini bile katlayabilir."`
 `".........Yani diyorsun ki...`
 `...ben yanılmışım........."`
-`...Ushiromiya malikânesinin güzel salonu altın yaprak gibi altın bir parıltıyla kaplanmıştı,`
-` ...ve kalın kan fışkırmalarıyla koyu kırmızıya boyanmıştı.`
-`Rudolf ve Kyrie'ye verilen ölüm sayısı çoktan hem el hem de ayak parmaklarınızla sayabileceğiniz her şeyi aşmıştı.`
+`...Ushiromiya malikânesinin güzel salonu altın yaprak gibi altın rengi bir parıltıyla kaplıydı,`
+` ...ve kalın kan damlalarıyla koyu kırmızıya boyanmıştı.`
+`Rudolf ve Kyrie'ye verilen ölüm sayısı çoktan el ve ayak parmaklarınızla sayabileceğiniz sayıları aşmıştı.`
 `Cadı o kadar sert nefes alıyordu ki omuzları titriyordu, ama yorgun olduğu için değildi.`
 `{n}...Sadece hâlâ zapt edilemeyen heyecanının neden olduğu düzensiz nefes alışını gizleyemiyordu.`
 `"Ahhahahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hha{0}ha{0}hahaha!!`
 ` İnsanların yaşamı ve ölümüyle istediğimi yapmak ne kadar eğlenceli!`
-` Sonsuz Cadı'nın gücü önünde, zihnimle boyadığım sonsuzlukların her biri gerçek oluyor!"`
-`"Onları ne kadar {i:baştan savma} {i:ezsem} de,`
+` Sonsuz Cadı'nın gücü karşısında, zihnimle boyadığım sonsuzlukların her biri gerçek oluyor!"`
+`"Onları ne kadar {i:dikkatsizce} {i:ezsem} de,`
 ` parmaklarımı şıklatarak onları normale döndürüp, diriltebilirim."`
 `"Çünkü sonunda, sadece cesetleri normale döndürmem ve kitabeyi takip ediyormuş gibi göstermelik bir şov yapmam gerekiyor.`
 ` Ahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
 `"......Hey, sizler,`
-` hiç doldurulmuş bir hayvanın karnını yardınız mı?"`
+` hiç bir doldurulmuş hayvanın karnını yardınız mı?"`
 `"Asla, nihi.`
-` Peki ya sen, 45?"`
+` Peki sen, 45?"`
 `"H‐hayır...!`
 ` Bunu asla yapmadım, özür dilerim...!"`
 `"Elbette hayır.`
 ` Normalde, yapmazsın.`
-` ......Özellikle sevdiğin doldurulmuş bir hayvansa.`
+` ......Özellikle sevdiğin bir doldurulmuş hayvansa.`
 ` Ama ben hep bunu düşündüm."`
 `"Bu kadar çok sevdiğim bu tüylü doldurulmuş hayvanın içinde neyin tıkılı olduğunu merak ettim,`
 ` ve hep bir gün içine bakmak istediğimi düşündüm."`
-`Eğer kesip içine baksaydın, merakın giderilebilirdi, ama doldurulmuş hayvan kırılırdı.`
+`Eğer kesip içine bakarsan, merakın giderilebilir, ama doldurulmuş hayvan parçalanırdı.`
 `......Bu yüzden görmek istesen de, yapamazsın.`
 `{n}Bu hissi anlıyorsun, değil mi?`
 `"......Sonsuz Cadı'nın gücü tam olarak bu dileği yerine getirebilir.`
@@ -1006,7 +1006,7 @@
 ` Benden, Sonsuz Cadı'dan başka kimse!!" `
 `Cadı coşkulu bir çığlık atarken, Rudolf ve Kyrie'yi tekrar diriltti,`
 ` ve onlar fark edemeden, onları hemen öldürdü.`
-`......O ikisinin içinde pamuktan başka bir şeyin tıkılı olduğunu belli ederken.`
+`......Ve o ikisinin içinde pamuktan başka bir şeyin tıkılı olduğunu gösterdi.`
 `"...K‐`
 `............kes şunu, Eva......!"`
 `"Hah?`
@@ -1015,15 +1015,15 @@
 `O trajedi salonunda, Hideyoshi silahı hazır bir şekilde kendini gösterdi.`
 `Cadı malikâneyi bir bariyerle mühürlemişti, bu yüzden Hideyoshi'nin kaçacak yeri yoktu.`
 `...Muhtemelen Rudolf veya Kyrie'nin silahını almış ve geri gelmişti.`
-`Görünüşe göre korkulması gereken bir şey olması gereken silah, artık büyü gücüyle dolup taşan cadı için ciddiye aldığı bir nesne değildi.`
+`Görünüşe göre korkulması gereken silah, artık büyü gücüyle dolup taşan cadı için ciddiye alınacak bir nesne değildi.`
 `Cesur ifadesi en ufak bir şekilde bile sarsılmadı.`
 `".........Neden Rosa‐san ve Maria‐chan'ı öldürmek zorundaydın,`
 ` ......ve Rudolf‐kun ile Kyrie‐san'ı......?!"`
 `"Hah?`
 ` Ben Ushiromiya aile reisiyim ve Rokkenjima'nın cadısıyım.`
-` Bu adada canım ne isterse başlatmakta özgürüm.`
-` ...Sadece bu anı izole etmek ve içindeki yaşamları ve ölümleri hakkında soru sormak benim için anlamsız."`
-`Hideyoshi, cadının bu fazlasıyla duygusuz cevabı karşısında nutku tutulmuştu.`
+` Bu adada canım ne isterse yapmakta özgürüm.`
+` ...Geçici bir anı soyutlayıp içindeki yaşamları ve ölümleri sorgulamak benim için anlamsız."`
+`Cadının bu fazlasıyla duygusuz cevabı karşısında Hideyoshi'nin nutku tutulmuştu.`
 ` Birinin kişiliği sadece Kinzo'nun altınını bularak bu kadar değişebilir miydi......?`
 `"O altın ne kadar yüksek yığılmıştı?`
 ` Hayal bile edemiyorum.`
@@ -1032,10 +1032,10 @@
 ` ......neden onu nazikçe bölüşmeyi düşünmedin ki...?!!"`
 `"Yanlış anlıyorsun.`
 ` ............Bunların hepsi Altın Cadı'ya ait.`
-` Benim dışımda kimse ona dokunmaya yetkili değil.`
+` Benim dışımda kimsede ona dokunma yetkisi yok.`
 ` *giggle*giggle*giggle*, ahhaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!"`
 `"......Sen nesin?`
-` Eva'nın bana uzun zaman önce anlattığı o şey olduğunu mu söylemeye çalışıyorsun......Eva'nın gençkenki cadı Eva?"`
+` Eva'nın bana uzun zaman önce anlattığı o şey olduğunu mu söylemeye çalışıyorsun......Eva'nın gençken olduğu cadı mı?"`
 `"Bu doğru.`
 ` Ben gençliğimdeki benim, karın Ushiromiya Eva'nın kalbinde her zaman yaşayan benim.`
 ` ...Ve ben bir cadıyım.`
@@ -1052,8 +1052,8 @@
 ` Ben Ushiromiya Eva değilim.`
 ` Ben Altın Cadı, {f:5:Beatrice}'im."`
 `"Herhangi bir sınırlamayla bağlanmamak çok eğlenceli ve yaşam ve ölümle istediğimi yapabilmenin zevki gerçekten harika...!`
-` Japon balığı kâsesini kırdığım için özür dilemem gerekmiyor,`
-` ve doldurulmuş hayvanı istediğim kadar parçalayabilirim!`
+` Japon balığı akvaryumunu kırdığım için özür dilemem gerekmiyor,`
+` ve doldurulmuş hayvanları istediğim kadar parçalayabilirim!`
 ` Ben—"`
 `Kuru bir ses.`
 `...Bu, Hideyoshi'nin cadının yüzüne tokat atma sesiydi.`
@@ -1061,7 +1061,7 @@
 `Ama korkmadan, tereddüt bile etmeden, Hideyoshi kararlılıkla ona doğru yürümüş ve yanağına vurmuştu.`
 `"....................."`
 `"Seni şapşal!!`
-` Aslında bir korkak ve bir zayıfken, acımasızmışsın gibi davranma!`
+` Aslında korkak ve zayıfken, acımasızmışsın gibi davranma!`
 ` Seni doğru yola sokacağım, seni kötü kadın!!`
 ` Seni mankafa!`
 ` Aptal!!"`
@@ -1072,7 +1072,7 @@
 ` Aklını başına getireceğim...!!`
 ` Cadılarla ilgili tüm bu saçmalıklar da ne böyle!!"`
 `"Sen benim karımsın, Ushiromiya Eva!`
-` Mutfağın bir cadısı, buzdolabındaki artıklardan düşünceli bir şekilde atıştırmalıklar hazırlayan, sen sadece böyle bir cadısın!!`
+` Mutfağın cadısı, buzdolabındaki artıklardan düşünceli bir şekilde atıştırmalıklar hazırlayan, sen sadece böyle bir cadısın!!`
 ` Gözlerini aç, seni sakar şapşal...!!"`
 `"Az önce demedim mi...`
 `ben Ushiromiya Eva değilim diye......?!"`
@@ -1085,8 +1085,8 @@
 ` O silah sesi Hideyoshi'nin tuttuğu silahtan gelmiş olamazdı.`
 `......Rudolf'un cesedinin yakınındaki köşeye düşen silah havada süzülüyordu,`
 ` ...ve namlunun yakınında duman tütüyordu.`
-`Ve mermi?`
-` .........Kırmızı bir leke Hideyoshi'nin yeleğinin göğsünde yavaşça yayılıyordu.`
+`Mermi?`
+` .........Kırmızı bir leke Hideyoshi'nin göğsünde yavaşça yayılıyordu.`
 `Sırtı silahın namlusuna dönük olsa da, ...mermi Hideyoshi'nin göğsüne saplanmıştı.`
 `".........E...`
 `va............`
@@ -1094,8 +1094,8 @@
 `"...Sana söyledim, ben Eva değilim.`
 ` Ne aptal, sinir bozucu bir adam."`
 `"......Sen bir baş belasısın, o yüzden altıncı alacakaranlık için kurbanı seninle değiştireceğim.`
-` ...Eğer bir yatağın altında titreyerek saklanıp kalsaydın, gitmene izin vermeyi planlamıştım.`
-` ......Sen kasten geri geldin.`
+` ...Eğer bir yatağın altında titreyerek saklanıp orada kalsaydın, gitmene izin vermeyi planlamıştım.`
+` ......Ama sen geri geldin.`
 ` Sen gerçekten aptal bir adamsın."`
 `Küt...`
 ` Hideyoshi yere düşerken boğuk bir ses duyuldu.`
@@ -1118,7 +1118,7 @@
 `"Evet, tam burada."`
 `"Temizle, lütfen.`
 ` ...Selefim sinir bozucu olacak.`
-` Lütfen yaşlı cadalozun kabul edeceği kadar temiz yap. ......Ve sanırım selefime olan sorumluluğumdan dolayı ritüelin kurallarına uyacağım.`
+` Lütfen yaşlı cadalozun kabul edeceği kadar temiz yap. ......Sanırım selefime olan sorumluluğumdan dolayı ritüelin kurallarına uyacağım.`
 ` Lütfen bu üç cesedi dördüncü alacakaranlıktan altıncı alacakaranlığa kadar yap."`
 `"Lucifer, sıra sende."`
 `"Gururlu Lucifer, burada."`
@@ -1130,7 +1130,7 @@
 `Araf'ın Yedi Kız Kardeşi'nin mütevazı bir gurur duygusu vardı.`
 ` Bu bir avcının gururuydu, kendi indirdikleri avı oyma gururu.`
 `...Ancak, başkasının indirdiği bir cesedi oymalarının söylenmesi bu hisse ters düşüyordu.`
-` Elbette, cadının niyeti bu değildi ama Yedi Kız Kardeşler için bu korkunç derecede aşağılayıcıydı.`
+` Elbette, cadının niyeti bu değildi ama Yedi Kız Kardeş için bu korkunç derecede aşağılayıcıydı.`
 `...Ancak, iki kız kardeşin yenilmesiyle zaten batırmışlardı, bu yüzden onu sorgulamaya hakları yoktu.`
 `Bunu sadece Ronove takdir etti ve anlayışla elini omzuna koydu.`
 `"......Bu {f:5:Beatrice}‐sama'nın emri.`
@@ -1145,7 +1145,7 @@
 ` Hayatım, neredesin?!`
 ` Oradasın, değil mi?`
 ` Cevap ver bana!!"`
-`Yüksek sesli bir yıldırım sesi Eva'yı kâbusundan uyandırdı.`
+`Yüksek sesli bir yıldırım Eva'yı kâbusundan uyandırdı.`
 `Eğer Hideyoshi o sırada elini tutuyor olsaydı, korkulu kalbi muhtemelen anında iyileşirdi.`
 `Ancak, bir an bile ayrılmayacağına yemin eden Hideyoshi, odada hiçbir yerde görünmüyordu.`
 `"Hayatım,`
