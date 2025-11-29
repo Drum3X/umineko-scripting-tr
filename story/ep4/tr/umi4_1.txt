@@ -1,483 +1,483 @@
-`"Good morning, Milady.`
-` My, my, you do appear to be in a good mood.`
-` What a pleasant awakening you seem to have had."`
-`"‘Pleasant awakening’...!`
-` I was so excited, I couldn't sleep a wink.`
-` After all, the curtain is rising on the oh‐so‐fun fourth game...!"`
-`It seemed that she truly had been so excited that she hadn't gotten any sleep.`
-`And yet she showed absolutely no signs of tiredness; was that due to her youth, or her low mental age?`
-`Ronove chose not to say that aloud, and laughed with a {nobreak:"pu ku ku"} instead.`
-`"I really ran that Battler into the ground last time!`
-` Ah, that look of "you tricked meee" all over his face!`
-` He looked so pathetic!`
-` In any case, I do hope he's not still feeling down?"`
-`"Feeling down, you say...?"`
-`"Mm, well, how to put it.`
-` ...You know how he is a bit too sincere for his age?"`
-`"Indeed I do.`
-` Although one could call that his charm.`
+`"Günaydın, Leydim.`
+` Aman, aman, gerçekten iyi bir ruh halinde görünüyorsunuz.`
+` Ne kadar da hoş bir uyanış yaşamışsınız."`
+`"‘Hoş bir uyanış’...!`
+` O kadar heyecanlıydım ki, gözüme uyku girmedi.`
+` Sonuçta, inanılmaz eğlenceli dördüncü oyunun perdesi açılıyor...!"`
+`Gerçekten de o kadar heyecanlıydı ki hiç uyumamış gibi görünüyordu.`
+`Yine de en ufak bir yorgunluk belirtisi göstermiyordu; bu gençliğinden mi yoksa düşük zihinsel yaşından mı kaynaklanıyordu?`
+`Ronove bunu yüksek sesle söylememeyi seçti, ve onun yerine {nobreak:"pu ku ku"} diye güldü.`
+`"O Battler'ı geçen sefer gerçekten yerin dibine soktum!`
+` Ah, yüzündeki o "beni kandırdııııın" bakışı!`
+` Çok acınası görünüyordu!`
+` Her neyse, umarım hâlâ morali bozuk değildir?"`
+`"Morali bozuk mu, diyorsunuz...?"`
+`"Hımm, şey, nasıl desem.`
+` ...Yaşına göre biraz fazla samimi olduğunu bilirsiniz?"`
+`"Elbette bilirim.`
+` Buna onun cazibesi denebilir.`
 ` Pu ku ku..."`
 `"*cackle*cackle*cackle*!`
-` You could, you certainly could!`
-` Well, speaking of that.`
-` You know how he completely fell for the thing I pulled the last time?"`
-`"Oh, yes, completely and splendidly.`
-` ...His pure, rosebud‐like innocence, arising from never once having been tricked by another since birth, you unreservedly violated."`
-`"............Even the joy of running around a field covered with beautiful new snow on a winter morning and trampling it utterly wouldn't even begin to compare."`
-`"You took Battler‐sama's innocent heart, Milady,`
-` and thrillingly, splendidly, atrociously, mercilessly, and in quite the uncultured manner, enough to make one think "maybe I went a teensy little bit overboard...?",`
-` you most assuredly perpetrated the very worst of atrocities against it."`
-`"I am quite sure most people {i:would} start to feel down.`
-` Pukkukukuku, so much so, that I doubt they would ever want to see your face again."`
-`"S‐so you understand...!"`
-`"I also, umm, considering that the fourth game is finally getting underway,`
-` I thought that it would be such a pain if he was so disheartened that he wouldn't join us at the table,`
-` and so, you see, I asked you first, thinking that it would be better to prepare a countermeasure beforehand...!"`
-`"Hmmmm...`
-` In that case, indeed, I do think you would be well served to prepare such a countermeasure.`
-` Most unfortunately, due to your "North Wind and the Sun Strategy", it appears that Battler‐sama has received quite a shock."`
-`"H‐hoh...`
-` ......A shock, you say... How badly...?"`
-`Beato lowered her voice slightly, asking timidly.`
-`{n}Ronove went along with that, and lowered his voice in the same way.`
-`"......In truth, he has been curled into a ball clutching his knees for some time now.`
-` I called out to him several times, but he did not answer.`
-` I also carried him something to eat, but he does not appear to have touched it."`
-`"...Th‐that is...troublesome......`
-` Is he really feeling that down......?"`
+` Denebilir, kesinlikle denebilir!`
+` Şey, ondan bahsetmişken.`
+` Geçen sefer yaptığım numaraya nasıl tamamen düştüğünü biliyorsun?"`
+`"Oh, evet, tamamen ve muazzam bir şekilde.`
+` ...Doğduğundan beri bir başkası tarafından hiç kandırılmamış olmasından kaynaklanan saf, gül goncası benzeri masumiyetini, kayıtsız şartsız ihlal ettiniz."`
+`"............Kış sabahı güzel yeni karla kaplı bir alanda koşup onu tamamen çiğnemenin neşesiyle bile kıyaslanamaz."`
+`"Battler-sama'nın masum kalbini aldınız, Leydim,`
+` heyecan verici bir şekilde, muazzamca, gaddarca, acımasızca ve oldukça kaba bir tavırla, insana "acaba birazcık aşırıya mı kaçtım...?" diye düşündürecek kadar,`
+` kesinlikle ona karşı zulümlerin en kötüsünü işlediniz."`
+`"Eminim çoğu insanın morali {i:bozulurdu}.`
+` Pukkukukuku, o kadar ki, yüzünüzü bir daha görmek isteyeceklerinden şüpheliyim."`
+`"D-Demek anlıyorsun...!"`
+`"Ben de, ımm, dördüncü oyunun nihayet başlamakta olduğunu düşünerek,`
+` eğer o kadar hevesi kırılırsa ve bize masada katılmazsa bunun büyük bir dert olacağını düşündüm,`
+` ve bu yüzden, anlarsın ya, önceden bir karşı önlem hazırlamanın daha iyi olacağını düşünerek önce sana sordum...!"`
+`"Hımmmm...`
+` Bu durumda, gerçekten de, böyle bir karşı önlem hazırlamanızın iyi olacağını düşünüyorum.`
+` Ne yazık ki, "Güneş ve Kuzey Rüzgârı Stratejiniz" nedeniyle, Battler-sama epey bir şok geçirmiş gibi görünüyor."`
+`"H-Hoh...`
+` ......Şok, diyorsun... Ne kadar kötü...?"`
+`Beato sesini hafifçe alçattı, ürkekçe sorarak.`
+`{n}Ronove buna uydu, ve sesini aynı şekilde alçattı.`
+`"......Doğrusu, bir süredir dizlerini kucaklayarak bir top gibi kıvrılmış durumda.`
+` Ona defalarca seslendim, ama cevap vermedi.`
+` Ayrıca ona yiyecek bir şeyler götürdüm, ama dokunmamış gibi görünüyor."`
+`"...B-Bu...can sıkıcı......`
+` Gerçekten o kadar morali bozuk mu......?"`
 `"Pukkukukuku.`
-` It is only natural.`
-` ...After all, you`
-` {nobreak:com‐`
-`pre‐`
-`hensively}`
-` destroyed him, Milady.`
-` That would turn most anyone into a misanthrope."`
-`"Hoh, distrust of {y:0:Human}{n:0:human}s? How convenient!`
-` Let him give up on {y:0:Human}{n:0:human}s and trust witches, wahahaha...`
-` ...............O‐...oh,`
-` *cough*.`
-` Sorry, I took it too far."`
-`Beato had tried to joke about it, but it seemed that the situation was quite serious, and after picking up on this, she hid her laughter.`
-`"......Is it really that serious...?`
-` Sh‐should we wait just a little longer before beginning the fourth game...?"`
-`"Because Lady {f:5:Bernkastel}'s guest will be coming,`
-` it may be more appropriate to open the fourth game quickly.`
-` However, it might be useful if you were to show him a little consideration, Milady."`
-`"Consideration!`
-` Consideration, you say?!`
-` How should I show that...?!`
-` He is feeling down, so,`
-` ...h‐how about...I cheer him up, or something?!"`
-`"When a person's heart is closed off to the light, it is useless to interact with them in a gloomy fashion.`
-` You can do nothing but shine with a brightness stronger than the dark."`
-`"Damn iiiiiiiiiiiiiit, quit messing arooooooooouund...!!!"`
+` Bu çok doğal.`
+` ...Sonuçta, onu`
+` {nobreak:kap‐`
+`sam‐`
+`lıca}`
+` yok ettiniz, Leydim.`
+` Bu çoğu kişiyi insan düşmanına dönüştürürdü."`
+`"Hoh, {y:0:İnsan}{n:0:insan}lara güvensizlik mi? Ne kadar uygun!`
+` Bırak {y:0:İnsan}{n:0:insan}lardan vazgeçsin ve cadılara güvensin, vahahaha...`
+` ...............O-...Oh,`
+` *öksürük*.`
+` Pardon, çok ileri gittim."`
+`Beato bu konuda şaka yapmaya çalışmıştı, ama durumun oldukça ciddi olduğu anlaşılıyordu, ve bunu fark ettikten sonra, kahkahasını sakladı.`
+`"......Gerçekten o kadar ciddi mi...?`
+` D-Dördüncü oyuna başlamadan önce biraz daha beklemeli miyiz...?"`
+`"Leydi {f:5:Bernkastel}'in misafiri geleceği için,`
+` dördüncü oyunu çabucak açmak daha uygun olabilir.`
+` Ancak, ona biraz anlayış gösterirseniz yararlı olabilir, Leydim."`
+`"Anlayış!`
+` Anlayış, diyorsun?!`
+` Bunu nasıl gösterebilirim ki...?!`
+` Morali bozuk, yani,`
+` ...n-nasıl olur da...onu neşelendiririm falan?!"`
+`"Bir insanın kalbi ışığa kapandığında, onlarla kasvetli bir şekilde etkileşime girmek faydasızdır.`
+` Karanlıktan daha güçlü bir parlaklıkla parlamaktan başka bir şey yapamazsınız."`
+`"Kahretsiiiiiiin, dalga geçmeyiiiiiin benimle...!!!"`
 `"Kyaahhahaha!!`
-` Battler‐kuun, over he~re!`
-` A croissant baked by Ronove‐sama would be wasted on the likes of youuuu!`
-` Maybe I'll enjoy it aaalll myself?"`
-`Battler's stomach involuntarily growled at the fragrant smell of the croissant.`
-`His breakfast plate was empty, but he hadn't eaten any of it.`
-`{n}...The biggest glutton of the Seven Sisters of Purgatory,`
-` Beelzebub, had waited for Ronove to leave, and had then come to snatch the food away.`
-`Battler had discovered her in the process, and they had been charging about causing a crazy amount of noise ever since.`
-`Even though Beelzebub could have ended it by either giving it back already or else throwing it into her own mouth,`
-` she intentionally ran around in circles, making fun of Battler.`
-`"Give me my breakfast back, damn iiiiiiit!!`
-` If you give it back now, I'll let you off with a single flick to the forehead.`
-` But just you try eating it!!"`
-`"What, are you gonna eat me inste~ad?!`
+` Battler-kuun, buraya ge~l!`
+` Ronove-sama tarafından pişirilmiş bir kruvasan senin gibilere ziyan oluuuur!`
+` Belki hepsini kendim yeriiim?"`
+`Battler'ın midesi kruvasanın güzel kokusuyla istemsizce guruldadı.`
+`Kahvaltı tabağı boştu, ama hiçbirini yememişti.`
+`{n}...Araf'ın Yedi Kız Kardeşinin en oburu,`
+` Beelzebub, Ronove'nin gitmesini beklemiş, ve sonra yemeği kapmak için gelmişti.`
+`Battler bu süreçte onu görmüştü, ve o zamandan beri çılgınca bir gürültü çıkararak koşturuyorlardı.`
+`Beelzebub bunu geri vererek ya da kendi ağzına atarak bitirebilecek olsa da,`
+` kasten daireler çizerek koşuyor, Battler ile dalga geçiyordu.`
+`"Kahvaltımı geri ver, kahretsiiiiin!!`
+` Eğer şimdi geri verirsen, alnına tek bir fiskeyle kurtulmana izin veririm.`
+` Ama yemeyi bir dene bakalım!!"`
+`"Ne, onun yerine beni mi yiyeceksin yoks~a?!`
 ` Kyaha!`
-` Try it if you think you can! I'll bet I'd be as sweet as honey pancakes.`
+` Yapabileceğini düşünüyorsan dene! Bahse girerim ballı krep kadar tatlıyımdır.`
 ` ...kya!"`
-`"Gotcha!!`
-` Right now, I'm more interested in that bread than your thighs.`
-` Be a good girl and give it heeeeeeeeere,`
+`"Yakaladım!!`
+` Şu anda, o ekmekle kalçalarından daha çok ilgileniyorum.`
+` İyi bir kız ol ve bana veeeeeeeer,`
 ` fugagigigigi...!!`
-` So, you resist until the eeeeeeeeeend...!!"`
+` Demek, sonuna kadaaaaaaaaar direniyorsun...!!"`
 `"Ugugugugu!!`
-` No way, no way, I won't give it to yo~u!!`
-` Even the croissant wants me to eat i~~t!!!"`
-`"Y‐yaa~y, yoo‐hooooooooo, g'moooooorning, Battleeee~r!!`
-` Get a load of this guy, first thing in the morning and he's back to moping already~?!?!`
-` It's the beginning of a new day, and a new game, you know, so get your spirits up and let's get this party starte{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}e{-}eeddd!!"`
-`...The door opened forcefully.`
-`Like a marathon runner drawn on a {c:86EF9C:certain caramel box},`
-` with her hands held high and with an idiotic cheeriness,`
-` ......Beato appeared.`
-`For some reason, countless country flags and confetti scattered everywhere, creating what was clearly intended to be the perfect party atmosphere.`
-`......Battler and Beelzebub, who had been grappling on the floor over the croissant, completely forgot about their argument and stared at her speechless.`
-`"Kya‐...kyahahahaha!`
-` Good morning, {f:5:Beatrice}‐sama!`
-` Well, that's all for me!`
-` Here, Battler‐kun, say aa~h!"`
+` Asla, asla, onu sana vermeyeceğiiii~m!!`
+` Kruvasan bile onu yememi istiyooo~r!!!"`
+`"Y-yeeyyy, yoo-hoooooooo, günaydııııııın, Battleeee~r!!`
+` Şuna bir bakın, sabahın köründe yine somurtmaya başlamış bile~?!?!`
+` Yeni bir günün, ve yeni bir oyunun başlangıcı, biliyorsun, o yüzden neşelen ve hadi bu partiyi başlatalııı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ı{-}ım!!"`
+`...Kapı şiddetle açıldı.`
+`{c:86EF9C:Bir karamel kutusuna} çizilmiş maraton koşucusu gibi,`
+` elleri havada ve aptalca bir neşeyle,`
+` ......Beato belirdi.`
+`Nedense, sayısız ülke bayrağı ve konfeti her yere dağılmıştı ve açıkça mükemmel bir parti atmosferi yaratmak amacıyla hazırlanmıştı.`
+`......Kruvasan yüzünden yerde boğuşan Battler ve Beelzebub, tartışmalarını tamamen unutup ona dilleri tutulmuş bir halde bakakaldılar.`
+`"Kya-...kyahahahaha!`
+` Günaydın, {f:5:Beatrice}-sama!`
+` Şey, benden bu kadar!`
+` Al bakalım, Battler-kun, a~ de!"`
 `"Mggmffff!!"`
 `"Mmmffmmmff, *munch*munch*, ...*gulp*.`
 ` .....................`
-` ......H‐hey, morning, Beato...`
-` ......Glad to see you're in perfect form this morning."`
+` ......H-Hey, günaydın, Beato...`
+` ......Bu sabah mükemmel formda olduğunu görmek güzel."`
 `....................................`
-`Beato and Battler looked at each other.`
-`{n}...It seemed that neither had a clue what was going on with the other.`
-`"B‐......Battlerr......?`
-` Wh‐wh‐what is this, Ronoveeeee,`
-` he looks like he's in high spiriiiiiiits!!`
-` He isn't clutching his knees!`
-` And he's answering!`
-` {i:And} he was even in the middle of eating!!"`
+`Beato ve Battler birbirlerine baktılar.`
+`{n}...Görünüşe göre ikisinin de diğerinde neler olduğu hakkında hiçbir fikri yoktu.`
+`"B-......Battlerr......?`
+` B-B-Bu da ne, Ronoveeeee,`
+` keyfi yerinde görünüyooooooor!!`
+` Dizlerini kucaklamıyor!`
+` Cevap veriyor!`
+` {i:Üstelik} yemek yemenin ortasındaydı bile!!"`
 `"Pukkukukukuku!!`
-` No, no, he certainly was clutching his knees, under the blanket as he slept like a baby.`
-` I informed him that it was time for him to wake up, but he just wouldn't get out of bed.`
-` As for his food, it seems that he was rather too preoccupied with the naughty cat that had wandered in.`
+` Hayır, hayır, kesinlikle dizlerini kucaklıyordu, bir bebek gibi uyurken battaniyenin altında.`
+` Ona uyanma zamanının geldiğini bildirdim, ama yataktan çıkmadı.`
+` Yemeğine gelince, içeri giren yaramaz kediyle biraz fazla meşgul olmuş gibi görünüyor.`
 ` Pu ku ku, puu ku ku ku ku!"`
-`"G‐`
-`.........gwaaaaaaaaaaaaaaahhh...!!!`
-` You tricked meeeeeeeeeee...!!"`
-`"Heh, you should talk.`
-` Weren't you the one who played that massive trick on me last time?`
-` I don't have a clue what's going on, but I'm glad to see you started your morning with a helping of just deserts.`
-` ...Well, anyway, nice one, Ronove."`
-`"Pukkukuku, I am much obliged, Battler‐sama."`
-`The two stuck up their thumbs as though they had forged some kind of male bond, chuckling together.`
-`For a while, Beato acted very energetically, trying to hide her embarrassment......`
+`"N-`
+`.........Neeeeeeeeeeeeeeee...!!!`
+` Beni kandırdıııııııııııın...!!"`
+`"Heh, sen konuş.`
+` Geçen sefer bana o devasa numarayı yapan sen değil miydin?`
+` Neler döndüğü hakkında hiçbir fikrim yok, ama sabahına hak ettiğin cezayı alarak başlamana sevindim.`
+` ...Şey, her neyse, güzeldi, Ronove."`
+`"Pukkukuku, minnettarım, Battler-sama."`
+`İkisi sanki bir tür erkek bağı kurmuşlar gibi başparmaklarını kaldırdılar, birlikte kıkırdayarak.`
+`Bir süre, Beato utancını saklamaya çalışarak çok enerjik davrandı......`
 `"Heh.`
-` Don't take me so lightly.`
-` You thought I'd still be hiding in a corner, holding my knees?"`
+` Beni bu kadar hafife alma.`
+` Hâlâ bir köşede saklanıp, dizlerimi tuttuğumu mu sandın?"`
 `"*cackle*.`
-` Then who was that person crying their eyes out in frustration last time?`
-` I should've collected your copious tears in a bottle and used it as eau de toilette."`
-`"Sh‐shut up.`
-` That was, uh, you got me a bit with your crappy acting and crazy plot twist, that's all.`
-` I made an ass of myself, but you'd better not think that same move is ever gonna work again."`
-`"Naturally.`
-` Don't disappoint me by falling for the same move over and over again, alright?`
+` O zaman geçen sefer hayal kırıklığı içinde hüngür hüngür ağlayan o kişi kimdi?`
+` Bol gözyaşlarını bir şişede toplayıp tuvalet suyu olarak kullanmalıydım."`
+`"K-Kapa çeneni.`
+` O şeydi, ıı, berbat oyunculuğun ve çılgın olay örgüsü dönüşünle beni biraz yakaladın, hepsi bu.`
+` Kendimi rezil ettim, ama aynı hamlenin bir daha işe yarayacağını düşünmesen iyi edersin."`
+`"Doğal olarak.`
+` Aynı hamleye tekrar tekrar düşerek beni hayal kırıklığına uğratma, tamam mı?`
 ` *cackle*cackle*!"`
-`"Ihihi, yeah, just you watch.`
-` I'll teach you that I'm a guy who gets stronger every time he's beaten down."`
-`"............But Beato."`
-`"Mm, what is it?"`
-`"Never do it again."`
+`"İhihi, evet, sadece izle.`
+` Sana her yere serildiğinde güçlenen bir adam olduğumu öğreteceğim."`
+`"............Ama Beato."`
+`"Hımm, ne var?"`
+`"Bir daha asla yapma."`
 `"Hoh?`
-` And why is thaaat?`
-` So you really are weak against the rear attack?"`
-`"............You and I are enemies,`
-` and we'll never, ever join forces.`
-` ...I now understand that clearly.`
-` ......So never again do something as unpleasant as trying to make me confused about that fact."`
+` Peki nedenmiş ooo?`
+` Demek arkadan saldırıya karşı gerçekten zayıfsın?"`
+`"............Sen ve ben düşmanız,`
+` ve asla, asla güçlerimizi birleştirmeyeceğiz.`
+` ...Bunu artık net bir şekilde anlıyorum.`
+` ......Bu yüzden benim bu gerçek hakkında kafamı karıştırmaya çalışmak kadar tatsız bir şeyi bir daha asla yapma."`
 `"*cackle*cackle*!`
-` You say that, but now that I know it's your weak point, ........."`
-`Beato thought they were still joking around, ...but that had disappeared from Battler's expression some time ago.`
-`Beato felt as though his eyes were like the surface of black tea gone cold...`
-`"You hear me?`
-` Never do it again."`
+` Öyle diyorsun, ama artık zayıf noktan olduğunu bildiğime göre, ........."`
+`Beato hâlâ şakalaştıklarını sanıyordu, ...ama bu Battler'ın ifadesinden bir süre önce kaybolmuştu.`
+`Beato onun gözlerinin soğumuş siyah çayın yüzeyi gibi olduğunu hissetti...`
+`"Beni duydun mu?`
+` Bir daha asla yapma."`
 `"..................`
-` ......You never know...`
-` I might do it again when you've forgotten..."`
-`"Never do it again."`
+` ......Asla bilemezsin...`
+` Unuttuğunda tekrar yapabilirim..."`
+`"Bir daha asla yapma."`
 `"............nn, ..............."`
-`Pierced by his strong and forceful gaze, Beato held her tongue.`
-`She may have thought that Battler would surely be the one to break that silence with laughter.`
-`...However, Battler's serious expression didn't change in the slightest.`
-`So, to break that silence, Beato had no choice but to start laughing herself.`
+`Güçlü ve etkili bakışıyla delinen Beato dilini tuttu.`
+`O sessizliği kahkahayla bozan kişinin kesinlikle Battler olacağını düşünmüş olabilirdi.`
+`...Ancak, Battler'ın ciddi ifadesi en ufak bir şekilde değişmedi.`
+`Bu yüzden, o sessizliği bozmak için, Beato'nun kendisinin gülmeye başlamaktan başka seçeneği yoktu.`
 `"*cackle*cackle*, hahha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!`
-` As things should be.`
-` You and I are worthy adversaries.`
-` No matter how favorable our relationship, we shall never cross that line defining us as enemies.`
-` If you have not mistaken this, that is enough for me."`
-`"...That's right.`
-` I almost forgot that you were my enemy for just a second.`
-` I won't show such a disgraceful display again.`
-` ......I won't fall for your rear attack again.`
-` Ever...!"`
+` Olması gerektiği gibi.`
+` Sen ve ben layık rakipleriz.`
+` İlişkimiz ne kadar olumlu olursa olsun, bizi düşman olarak tanımlayan o çizgiyi asla geçmeyeceğiz.`
+` Eğer bunu yanlış anlamadıysan, bu benim için yeterli."`
+`"...Bu doğru.`
+` Sadece bir saniyeliğine düşmanım olduğunu neredeyse unutuyordum.`
+` Bir daha böyle utanç verici bir gösteri sergilemeyeceğim.`
+` ......Arkadan saldırına bir daha düşmeyeceğim.`
+` Asla...!"`
 `"...........................`
 ` ...Heh!`
 ` Hahhahahyahhahha!!`
-` It seems that I am not the only one who cannot wait for the fourth game.`
-` I am pleased, Battler.`
-` Come, take your seat."`
-`"...Sure.`
-` Bring it on.`
-` ......Clever little tricks aren't gonna work anymore."`
-`"Stop acting so tough.`
-` You remain in a state of surrender for the last mystery in the previous game, the mystery of Nanjo's murder...!"`
-`".........I'm still holding off on an answer for that one.`
-` But that doesn't mean I've lost heart.`
-` I will break your "red truth" and deny witches—I guarantee it...!"`
-`"Hmph.`
-` A good disposition.`
-` You truly are a man like a phoenix.`
-` You don't betray my expectations!`
-` With that, let us raise the curtains on the fourth game."`
-`"But before that,`
-` it seems that we must welcome a new guest."`
-`"A guest......"`
-`"I am sure you must remember.`
-` That mystery woman, who appeared at the very end of the last game without an invitation and spoiled my performance."`
-`"......Her........."`
-`"She says that she wants to join our game, you see.`
-` I took the liberty of sending her an official invitation to join us.`
-` Ronove, call the guest."`
-`"......There's no need.`
-` I'm already here."`
-`The voice that answered Beato's call came from the darkness in a corner of the room.`
-`Battler turned around in surprise to discover that the mysterious woman was suddenly there.`
-`"Goodness gracious.`
-` How rude.`
-` If you were here, the least I would have expected is a simple greeting."`
-`"I don't make a habit of greeting people before punching them.`
-` But I will give one after I punch."`
-`"Hoh, and what will that be?"`
+` Görünüşe göre dördüncü oyun için sabırsızlanan tek kişi ben değilim.`
+` Memnun oldum, Battler.`
+` Gel, yerine geç."`
+`"...Tabii.`
+` Elinden geleni ardına koyma.`
+` ......Zekice küçük numaralar artık işe yaramayacak."`
+`"Bu kadar sert davranmayı bırak.`
+` Önceki oyundaki son gizem, Nanjo cinayetinin gizemi için teslim olmuş haldesin...!"`
+`".........Onun için cevabı hâlâ bekletiyorum.`
+` Ama bu cesaretimi kaybettiğim anlamına gelmez.`
+` Senin "kırmızı gerçeğini" kıracağım ve cadıları reddedeceğim—garanti ederim...!"`
+`"Hıh.`
+` İyi bir mizaç.`
+` Gerçekten anka kuşu gibi bir adamsın.`
+` Beklentilerimi boşa çıkarmıyorsun!`
+` Bununla birlikte, dördüncü oyunun perdelerini kaldıralım."`
+`"Ama ondan önce,`
+` görünüşe göre yeni bir misafiri karşılamalıyız."`
+`"Bir misafir......"`
+`"Hatırladığına eminim.`
+` Geçen oyunun en sonunda davetiyesiz beliren ve performansımı bozan o gizemli kadın."`
+`"......O........."`
+`"Oyunumuza katılmak istediğini söylüyor, anlarsın ya.`
+` Ona bize katılması için resmi bir davetiye gönderme özgürlüğümü kullandım.`
+` Ronove, misafiri çağır."`
+`"......Gerek yok.`
+` Zaten buradayım."`
+`Beato'nun çağrısına cevap veren ses odanın bir köşesindeki karanlıktan geldi.`
+`Battler, gizemli kadının aniden orada olduğunu keşfedince şaşkınlıkla arkasını döndü.`
+`"Aman tanrım.`
+` Ne kadar kaba.`
+` Eğer buradaysan, en azından basit bir selamlama beklerdim."`
+`"İnsanları yumruklamadan önce selamlama alışkanlığım yoktur.`
+` Ama yumrukladıktan sonra bir tane veririm."`
+`"Hoh, o ne olacakmış?"`
 `"<Good night,`
 ` have a nice dream>."`
 `"*cackle*cackle*, hahhahhahahahahahaha!`
-` Entertaining, truly entertaining...!"`
-`Beato cackled and clapped her hands.`
-`But that was only Beato, and nothing rose to Battler's face except an uncertain smile.`
-`"......Whew.`
-` So you're the "punch first, ask questions later" type, huh."`
+` Eğlenceli, gerçekten eğlenceli...!"`
+`Beato kıkırdadı ve ellerini çırptı.`
+`Ama bu sadece Beato'ydu, ve Battler'ın yüzünde belirsiz bir gülümsemeden başka bir şey belirmedi.`
+`"......Vay canına.`
+` Demek "önce yumrukla, sonra soru sor" tipindensin, ha."`
 `".............................."`
-`Battler met eyes with the woman, shrugging his shoulders as he spoke.`
-`{n}But the woman didn't answer, giving only a cold stare in return.`
-`"......You helped me out last game when things were really coming down to the wire.`
-` I'm grateful."`
-`"I don't need gratitude.`
-` The way you were acting was just {i:flaccid}.`
-` I only told you to get a clue."`
+`Battler kadınla göz göze geldi, konuşurken omuzlarını silkerek.`
+`{n}Ama kadın cevap vermedi, karşılığında sadece soğuk bir bakış attı.`
+`"......Geçen oyunda işler gerçekten sarpa sarmaya başladığında bana yardım ettin.`
+` Minnettarım."`
+`"Minnettarlığa ihtiyacım yok.`
+` Davranış şeklin {i:gevşekti}.`
+` Sadece aklını başına toplamanı söyledim."`
 `"Kuhhyahhyahhya!`
-` Yesss, Battler is flaccid indeed, hyahhyahha!"`
-`Beato tried to laugh in agreement, but the woman wasn't listening.`
-`She did absolutely nothing except stare at Battler with ice‐cold eyes.`
-`"...............Well, it looks like someone hates me."`
-`"I'm just annoyed that you aren't fighting seriously."`
-`"You say I'm not serious......?"`
-`"You can't possibly mean that the mess you got yourself into earlier was you being {i:serious}?`
-` ......What do you take me for?`
-` How long do you intend to go along with this witch's farce?"`
-`"...I am fighting Beato in my own way.`
-` And yes, I'm serious about it."`
-`"Serious?`
-` .........Don't make me laugh.`
-` You keep on drinking tea and chatting with a witch for all eternity and call that fighting seriously?`
-` Keep the jokes to just your hairstyle."`
-`"......I mean, sure, I wasn't used to this witch's game in the beginning, and I've had a hell of a rough time, I'll admit.`
-` But now, I'm finally starting to see how to fight and the knack to doing it.`
-` ...If the pathetic way I've been acting makes it look to you like I haven't been serious, you're mistaken."`
-`".........Am I?"`
-`"Of course, I know I've gotta close in a lot more before I can grab Beato by the collar."`
-`"But no matter how long that distance is, it is finite.`
-` And with each passing game, I am steadily closing that distance step by step!"`
-`"No matter how long it takes, I will close in on that witch, and I'll definitely checkmate her.`
-` ......Borrowing one of her common phrases, it might even take me "a thousand years".`
-` ...But even so, eventually, I will definitely win."`
-`"Why?`
-` Because I will never accept losing.`
-` I will never stand still, and I'll keep closing in on her!`
-` So in other words, there's just one thing I can say for sure."`
-`"......I will definitely win against that witch someday!`
-` That's how it is."`
-`"You sure are patient.`
-` Are you even trying to win?`
-` Even the finite can become infinite if it's treated the wrong way.`
-` You've already become Achilles, unable to even outstrip a tortoise."`
-`".........Now I get it. So this is why I'm needed.`
-` At this rate, there's no way you could win against the Endless Witch even after a billion years."`
-`"......Who are you?`
-` It wouldn't kill you to tell me your name."`
+` Eveet, Battler gerçekten gevşek, hyahhyahha!"`
+`Beato onaylayarak gülmeye çalıştı, ama kadın dinlemiyordu.`
+`Battler'a buz gibi gözlerle bakmaktan başka kesinlikle hiçbir şey yapmadı.`
+`"...............Şey, görünüşe göre biri benden nefret ediyor."`
+`"Sadece ciddi bir şekilde savaşmaman beni sinirlendiriyor."`
+`"Ciddi olmadığımı mı söylüyorsun......?"`
+`"Daha önce içine düştüğün karmaşanın {i:ciddi} halin olduğunu kastediyor olamazsın?`
+` ......Beni ne sanıyorsun?`
+` Bu cadının saçmalığına daha ne kadar ayak uydurmayı düşünüyorsun?"`
+`"...Ben Beato ile kendi yöntemimle savaşıyorum.`
+` Ve evet, bu konuda ciddiyim."`
+`"Ciddi mi?`
+` .........Beni güldürme.`
+` Sonsuza dek çay içip bir cadıyla sohbet etmeye devam ediyorsun ve buna ciddi savaşmak mı diyorsun?`
+` Saç şeklinle ilgili şakaları bırak."`
+`"......Yani, tabii, başlangıçta bu cadının oyununa alışkın değildim, ve itiraf etmeliyim ki çok zor zamanlar geçirdim.`
+` Ama şimdi, nihayet nasıl savaşılacağını ve işin püf noktasını görmeye başlıyorum.`
+` ...Eğer sergilediğim acınası tavır sana ciddi değilmişim gibi görünüyorsa, yanılıyorsun."`
+`".........Öyle mi?"`
+`"Elbette, Beato'nun yakasına yapışabilmem için daha çok yaklaşmam gerektiğini biliyorum."`
+`"Ama o mesafe ne kadar uzun olursa olsun, sonludur.`
+` Ve geçen her oyunla, o mesafeyi adım adım istikrarlı bir şekilde kapatıyorum!"`
+`"Ne kadar sürerse sürsün, o cadıya yaklaşacağım, ve onu kesinlikle mat edeceğim.`
+` ......Onun yaygın ifadelerinden birini ödünç alırsak, "bin yıl" bile sürebilir.`
+` ...Ama öyle olsa bile, sonunda, kesinlikle kazanacağım."`
+`"Neden?`
+` Çünkü kaybetmeyi asla kabul etmeyeceğim.`
+` Asla yerimde saymayacağım, ve ona yaklaşmaya devam edeceğim!`
+` Yani başka bir deyişle, kesin olarak söyleyebileceğim tek bir şey var."`
+`"......O cadıya karşı bir gün kesinlikle kazanacağım!`
+` Durum bu."`
+`"Kesinlikle sabırlısın.`
+` Kazanmaya çalışıyor musun ki?`
+` Sonlu bile yanlış ele alınırsa sonsuz olabilir.`
+` Sen çoktan Aşil olmuşsun, bir kaplumbağayı bile geçemiyorsun."`
+`".........Şimdi anlıyorum. Demek bu yüzden bana ihtiyaç var.`
+` Bu hızla, bir milyar yıl sonra bile Sonsuz Cadı'ya karşı kazanmanın imkânı yok."`
+`"......Kimsin sen?`
+` Bana adını söylesen ölmezsin."`
 `"................................."`
-`At that point, the woman fell silent, gazing straight into Battler's eyes.`
-`At first, Battler faltered under the firmness of that look and his gaze wavered slightly, but as her eyes continued to stare into his, gradually, he found himself becoming lost in them.`
-`......And in their depths, he saw a light that he had seen at some time before...`
-`Battler was struck by how strongly they resembled the eyes of a girl who definitely couldn't be here,`
-` ......but that was completely impossible.`
-`"...I know it's stupid,`
-` ......but for some reason, I'm getting that feeling.`
-` But that can't be right.`
-` ......She's supposed to still be six years old.`
-` ............You couldn't possibly be...`
-`.........Ange, could you............?"`
+`O noktada, kadın sustu, doğrudan Battler'ın gözlerine bakarak.`
+`İlk başta, Battler o bakışın sertliği altında bocaladı ve bakışları hafifçe titredi, ama gözleri onunkilere bakmaya devam ettikçe, yavaş yavaş, kendini onların içinde kaybolurken buldu.`
+`......Ve derinliklerinde, daha önce bir zamanlar gördüğü bir ışık gördü...`
+`Battler, kesinlikle burada olamayacak bir kızın gözlerine ne kadar güçlü bir şekilde benzedikleri karşısında çarpıldı,`
+` ......ama bu tamamen imkânsızdı.`
+`"...Bunun aptalca olduğunu biliyorum,`
+` ......ama nedense, öyle hissediyorum.`
+` Ama bu doğru olamaz.`
+` ......Onun hâlâ altı yaşında olması gerekiyor.`
+` ............Sen...`
+`.........Ange, olabilir misin............?"`
 `"........................`
-` If I said yes, ...would you believe me?"`
+` Evet dersem, ...bana inanır mısın?"`
 `"Nn..............."`
-`"I'll put it another way.`
-` If I said "I am on your side, so trust me",`
-` would you believe me?`
-` Would you unconditionally trust some unknown woman you're meeting for the first time just because she looks a little like someone you know?"`
-`"......It's because you're so trusting that you were tricked so easily in the last game and cried so bitterly."`
-`"......You said it yourself.`
-` That kid is six, right?`
-` Do I look like I'm six?`
-` And despite that, if I were to claim that I'm that kid, you'd still just swallow that story?"`
-`"......When you put it like that,`
-` ...I guess you're right."`
-`"...Sorry.`
-` Yeah, I am too trusting.`
-` The last game should have taught me that.`
-` ......Is this what you meant when you said I wasn't serious?"`
-`"Yes.`
-` You may think you're fighting against the witch, but all you're doing is making friends with her and having fun.`
-` ......You're just competing in a friendly game of chess."`
-`"That may be a serious contest for you two,`
-` but looking at it from far away, I only see you two playing around like you're good friends, protected by the rules."`
+`"Başka bir şekilde ifade edeceğim.`
+` Eğer "Senin tarafındayım, bu yüzden bana güven" deseydim,`
+` bana inanır mıydın?`
+` Sırf tanıdığın birine biraz benziyor diye ilk kez tanıştığın bilinmeyen bir kadına kayıtsız şartsız güvenir miydin?"`
+`"......Bu kadar kolay güvendiğin için geçen oyunda bu kadar kolay kandırıldın ve acı bir şekilde ağladın."`
+`"......Kendin söyledin.`
+` O çocuk altı yaşında, değil mi?`
+` Altı yaşında gibi mi görünüyorum?`
+` Ve buna rağmen, o çocuk olduğumu iddia etseydim, yine de o hikayeyi yutar mıydın?"`
+`"......Böyle söyleyince,`
+` ...sanırım haklısın."`
+`"...Üzgünüm.`
+` Evet, çok kolay güveniyorum.`
+` Son oyun bana bunu öğretmeliydi.`
+` ......Ciddi olmadığımı söylediğinde bunu mu kastediyordun?"`
+`"Evet.`
+` Cadıya karşı savaştığını sanıyor olabilirsin, ama tek yaptığın onunla arkadaş olmak ve eğlenmek.`
+` ......Sadece dostane bir satranç oyununda yarışıyorsun."`
+`"Bu ikiniz için ciddi bir yarışma olabilir,`
+` ama uzaktan bakınca, sadece iyi arkadaşlarmış gibi oynayan, kurallarla korunan ikinizi görüyorum."`
 `".....................`
-` ......Ihihihi.`
-` That's harsh."`
-`"But as long as you can't win this game, you won't be released from this place.`
-` ......That's why I came.`
-` To bring this game to its conclusion.`
-` ......You claim that you're closing in on the witch, but you're just like a hamster running around in a wheel."`
+` ......İhihihi.`
+` Bu çok sert."`
+`"Ama bu oyunu kazanamadığın sürece, buradan serbest bırakılmayacaksın.`
+` ......Bu yüzden geldim.`
+` Bu oyunu sonucuna ulaştırmak için.`
+` ......Cadıya yaklaştığını iddia ediyorsun, ama sen sadece çarkta koşan bir hamster gibisin."`
 `"*cackle*cackle*!`
-` Oh, those? Those things that run around and around in a wheel night after night?"`
-`"At a glance, you might think that running around in a wheel is endless.`
-` ......Endless Witch, {f:5:Beatrice}.`
-` You are just like that wheel.`
-` And he is the one running around in the wheel forever, thinking he's fighting, but actually just making a fool of himself."`
-`"......This isn't a game.`
-` This is nothing more than a cage to keep him imprisoned for all eternity."`
+` Oh, şunlar mı? Her gece bir çarkta dönüp duran o şeyler?"`
+`"İlk bakışta, bir çarkta koşmanın sonsuz olduğunu düşünebilirsin.`
+` ......Sonsuz Cadı, {f:5:Beatrice}.`
+` Sen tam o çark gibisin.`
+` Ve o da çarkta sonsuza dek koşan kişi, savaştığını sanıyor, ama aslında sadece kendini aptal yerine koyuyor."`
+`"......Bu bir oyun değil.`
+` Bu onu sonsuza dek hapsetmek için bir kafesten başka bir şey değil."`
 `"Hoh.`
-` ......You would liken my infinity to a mere wheel that a mouse plays in?`
-` Interesting, interesting, *cackle*..."`
-`"Something that's infinite in a certain dimension tends not to be infinite in a higher one.`
-` A Menger sponge may have infinite surface area, but that only applies in a world of less than three dimensions.`
-` In the three‐dimensional world of reality, it has zero mass.`
-` Not only is it not infinite, it can't even exist."`
+` ......Sonsuzluğumu bir farenin oynadığı basit bir çarka mı benzetiyorsun?`
+` İlginç, ilginç, *cackle*..."`
+`"Belli bir boyutta sonsuz olan bir şey daha yüksek bir boyutta sonsuz olmama eğilimindedir.`
+` Bir Menger süngeri sonsuz yüzey alanına sahip olabilir, ama bu sadece üç boyuttan az bir dünyada geçerlidir.`
+` Gerçekliğin üç boyutlu dünyasında, kütlesi sıfırdır.`
+` Sadece sonsuz olmamakla kalmaz, var olamaz bile."`
 `"*cackle*cackle*cackle*...!`
-` What an assertive woman.`
-` It seems you are worthy of calling yourself my enemy."`
-`"............Who...are you?"`
-`"I am your ally.`
-` And an enemy of witches.`
-` .........Of course, you don't have to believe it."`
-`"No one can prove that I really am your ally.`
-` In fact, it would be preferable if you stayed on your guard strongly enough to find me very suspicious."`
-`".........You're right.`
-` I got burned bad the last time.`
-` I've got to be at least that careful.`
-` ...I'm done with getting tricked."`
+` Ne kadar iddialı bir kadın.`
+` Görünüşe göre kendine düşmanım demeye layıksın."`
+`"............Sen...kimsin?"`
+`"Ben senin müttefikinim.`
+` Ve cadıların düşmanıyım.`
+` .........Elbette, inanmak zorunda değilsin."`
+`"Kimse benim gerçekten müttefikin olduğumu kanıtlayamaz.`
+` Aslında, beni şüpheli bulacak kadar tetikte kalman daha iyi olur."`
+`".........Haklısın.`
+` Geçen sefer fena yandım.`
+` En azından o kadar dikkatli olmalıyım.`
+` ...Kandırılmaktan bıktım."`
 `"*cackle*cackle*cackle*cackle*......!"`
-`Beato laughed with true satisfaction in a way that was insulting only to Battler.`
-`"People don't just get tricked out of the blue.`
-` They neglect to check things for themselves, and entrust that to other people—and that's when they get tricked.`
-` ......Saying that you thought the light had turned green just because you saw other people start crossing is no excuse for getting into an accident.`
-` Get it...?"`
-`"Yeah... I get it.`
-` ......You're telling me not to swallow information given to me by others, but to think for myself.`
-` .........I've just been swallowing the magic that Beato showed me."`
-`"{i:I'd stopped thinking}.`
-` That's why it was no good."`
-`Battler grimaced as he remembered his many painful losses.`
-` ...Seeing that, the witch laughed audaciously once again.`
-`"I will advise you in a way that will be to your advantage.`
-` Of course, you shouldn't just swallow the things I say.`
-` Because no one can provide absolute proof that I'm on your side."`
-`In the last game, {f:5:Virgilia}, who I'd thought was an ally, turned out to be on the witch's side after all.`
-`......Battler couldn't get that eerie smile worn by {f:5:Virgilia}, who he had even thought of as dependable, out of his head.`
-`"So you don't have to unconditionally trust me.`
-` Therefore, taking my advice as nothing more than an opinion to be considered is absolutely fine.`
-` After all, ......the player who's fighting in a game against the witch {i:is you}."`
-`"...Yeah, you're right.`
-` Saying I lost because I followed the moves of an outsider would be just too pathetic of an excuse."`
-`"Indeed it would!`
-` My opponent is Battler.`
-` You are nothing more than an outsider.`
-` It is good that you understand that.`
+`Beato sadece Battler'ı aşağılayan gerçek bir memnuniyetle güldü.`
+`"İnsanlar durup dururken kandırılmazlar.`
+` Bir şeyleri kendileri kontrol etmeyi ihmal ederler, ve bunu başkalarına emanet ederler—ve işte o zaman kandırılırlar.`
+` ......Diğer insanların geçmeye başladığını gördüğün için ışığın yeşile döndüğünü sandığını söylemek bir kazaya karışmak için mazeret değildir.`
+` Anladın mı...?"`
+`"Evet... Anladım.`
+` ......Bana başkaları tarafından verilen bilgiyi yutmamamı, kendim düşünmemi söylüyorsun.`
+` .........Beato'nun bana gösterdiği büyüyü yutup duruyordum."`
+`"{i:Düşünmeyi bırakmıştım}.`
+` Bu yüzden bu iyi değildi."`
+`Battler, birçok acı verici kaybını hatırlayarak yüzünü buruşturdu.`
+` ...Bunu gören cadı, bir kez daha küstahça güldü.`
+`"Sana avantajına olacak şekilde tavsiyede bulunacağım.`
+` Elbette, söylediğim şeyleri öylece yutmamalısın.`
+` Çünkü kimse benim senin tarafında olduğuma dair mutlak kanıt sağlayamaz."`
+`Son oyunda, müttefik sandığım {f:5:Virgilia}, sonuçta cadının tarafında çıktı.`
+`......Battler, güvenilir olduğunu bile düşündüğü {f:5:Virgilia}'nın yüzündeki o ürkütücü gülümsemeyi kafasından atamıyordu.`
+`"Bu yüzden bana kayıtsız şartsız güvenmek zorunda değilsin.`
+` Bu nedenle, tavsiyemi dikkate alınması gereken bir fikirden başka bir şey olarak almaman kesinlikle sorun değil.`
+` Sonuçta, ......cadıya karşı bir oyunda savaşan oyuncu {i:sensin}."`
+`"...Evet, haklısın.`
+` Bir yabancının hamlelerini takip ettiğim için kaybettiğimi söylemek çok acınası bir mazeret olurdu."`
+`"Gerçekten de olurdu!`
+` Benim rakibim Battler.`
+` Sen bir yabancıdan başka bir şey değilsin.`
+` Bunu anlaman güzel.`
 ` *cackle*!"`
-`"No, I'm not an outsider.`
+`"Hayır, ben bir yabancı değilim.`
 ` {f:5:Beatrice}, Ushiromiya Battler,`
-` ...and me with my bird's‐eye perspective over you...will fight in a formation almost like a triangle.`
-` At a glance it might not seem to be a united front, but fighting together is not the only way to form a united front."`
+`  ...ve seni kuşbakışı izleyen ben...üçgen gibi bir düzen içinde savaşacağız.`
+` İlk bakışta birleşik bir cephe gibi görünmeyebilir, ama birlikte savaşmak birleşik bir cephe oluşturmanın tek yolu değildir."`
 `"Hoh.`
-` What an odd thing to say."`
-`"Just now, he described fighting with you as closing the distance.`
-` But you can't measure distance with a single eye.`
-` Only with two eyes are things visible in three dimensions, and only then can distance be measured."`
-`"......And having two viewpoints is meaningless if they're in the same place.`
-` You can gauge the witch more accurately if they're far apart."`
-`"......Shooting from different positions and different angles.`
-` ...So, like crossfire, then.`
-` Heheh, interesting."`
-`"We will shoot from different positions...and different angles.`
-` ......So I won't make friends with anybody.`
-` In order to separate my own position and catch the witch in a pincer attack."`
-`".........Are you sure about this, Battlerr?`
-` This woman may actually be an ambush I set up, you know?`
-` She might just be saying something plausible to gain your trust, you know...?"`
-`"......Maybe.`
-` She's been saying that over and over again herself.`
-` ...So, of course, I can't blindly accept her advice."`
-`"But I can think for myself and decide whether it's worthy of being trusted or not.`
-` As long as I don't stop thinking for myself, I won't be tricked by anyone again...!"`
+` Ne tuhaf bir söz."`
+`"Az önce, seninle savaşmayı mesafeyi kapatmak olarak tanımladı.`
+` Ama mesafeyi tek bir gözle ölçemezsin.`
+` Ancak iki gözle bir şeyler üç boyutlu olarak görünür, ancak o zaman mesafe ölçülebilir."`
+`"......Ve aynı yerdelerse iki bakış açısına sahip olmak anlamsızdır.`
+` Eğer birbirinden uzaktalarsa cadıyı daha doğru ölçebilirsin."`
+`"......Farklı pozisyonlardan ve farklı açılardan ateş etmek.`
+` ...Yani, çapraz ateş gibi.`
+` Heheh, ilginç."`
+`"Farklı pozisyonlardan...ve farklı açılardan ateş edeceğiz.`
+` ......Bu yüzden kimseyle arkadaş olmayacağım.`
+` Kendi pozisyonumu ayırmak ve cadıyı kıskaca almak için."`
+`".........Bundan emin misin, Battlerr?`
+` Bu kadın aslında benim kurduğum bir pusu olabilir, biliyorsun?`
+` Sadece güvenini kazanmak için makul bir şey söylüyor olabilir, biliyorsun...?"`
+`"......Belki.`
+` Bunu kendisi de defalarca söylüyor.`
+` ...Bu yüzden, elbette, tavsiyesini körü körüne kabul edemem."`
+`"Ama kendim düşünebilirim ve güvenilmeye değer olup olmadığına karar verebilirim.`
+` Kendim düşünmeyi bırakmadığım sürece, bir daha kimse tarafından kandırılmayacağım...!"`
 `"*cackle*cackle*cackle*!!`
-` Impressive confidence, Ushiromiya Battleerr!`
-` After you've said so much, it makes me want to...`
-`trick you all over again, you see...?`
-` And I want to see what kind of face you'll make when you realize that you've been tricked yet again!`
-` I like it, kuhha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
-`"......So, it looks like you know my name, but I don't know yours.`
-` ...Tell me your name."`
-`For a while, the woman remained silent without the slightest change in her expression.`
-`...She looked as though she couldn't decide whether to say her name or not, or possibly, as though she was deciding what to call herself on the spot.`
+` Etkileyici özgüven, Ushiromiya Battleerr!`
+` O kadar çok konuştuktan sonra, bu beni...`
+`seni baştan aşağı tekrar kandırmak istemeye itiyor, anlıyor musun...?`
+` Yine kandırıldığını fark ettiğinde nasıl bir yüz yapacağını görmek istiyorum!`
+` Bunu seviyorum, kuhha{0}ha{0}ha{0}ha{0}ha{0}hahaha!!"`
+`"......Yani, görünüşe göre sen benim adımı biliyorsun, ama ben seninkini bilmiyorum.`
+` ...Bana adını söyle."`
+`Bir süre, kadın ifadesinde en ufak bir değişiklik olmadan sessiz kaldı.`
+`...Adını söyleyip söylememeye karar veremiyor gibi, ya da muhtemelen, o anda kendine ne isim vereceğine karar veriyor gibi görünüyordu.`
 `"......Gretel."`
-`"Girdle?`
-` You wear one?"`
-`"That's my name, dumbass.`
-` Call me Gretel."`
-`"Then should I call myself Hansel?`
-` Ihihihi, just kidding, I'm Ushiromiya Battler!`
-` Just call me Battler."`
-`"............Nice to meet you.`
-` ...I hate handshakes.`
-` Don't take it personally."`
-`"...Yeah, you're right, sorry.`
-` I mean, it isn't a sure thing that you're on my side.`
-` ......And you only just told me to keep my guard up, too."`
-`Battler drew back the right hand he had stuck out.`
-`His bitter smile disappeared, and was replaced with a strong expression of resolve for the new game, now in its fourth iteration.`
+`"Graten?`
+` Yemeyi sever misin?"`
+`"Adım bu, geri zekâlı.`
+` Bana Gretel de."`
+`"O zaman ben de kendime Hansel mi demeliyim?`
+` İhihihi, şaka yapıyorum, ben Ushiromiya Battler!`
+` Bana sadece Battler de."`
+`"............Tanıştığımıza memnun oldum.`
+` ...Tokalaşmalardan nefret ederim.`
+` Kişisel algılama."`
+`"...Evet, haklısın, pardon.`
+` Yani, benim tarafımda olduğun kesin bir şey değil.`
+` ......Ve sen de az önce bana tetikte olmamı söyledin."`
+`Battler uzattığı sağ elini geri çekti.`
+`Acı gülümsemesi kayboldu, ve yerini şimdi dördüncü döngüsünde olan yeni oyun için güçlü bir kararlılık ifadesine bıraktı.`
 `"Battler.`
-` ......Think deeply about why you must win against this witch.`
-` ......You can't stop with something abstract, like "She annoys me so she's going down".`
-` ......Have a deep conviction that you'll definitely defeat the witch and escape from this world."`
-`".........Because there is definitely...`
-`......someone waiting for you to come back.`
-` ......For her sake as well, you...`
+` ......Bu cadıya karşı neden kazanman gerektiğini derinlemesine düşün.`
+` ......Soyut bir şeyle duramazsın, mesela "Beni sinir ediyor o yüzden kaybedecek" gibi.`
+` ......Cadıyı kesinlikle yeneceğine ve bu dünyadan kaçacağına dair derin bir inanca sahip ol."`
+`".........Çünkü kesinlikle...`
+`......senin geri dönmeni bekleyen biri var.`
+` ......Onun hatrına da, sen...`
 `..........................."`
-`Maybe she had something on her mind.`
-` Gretel clenched a fist in front of her chest and hung her head in silence, at a loss for words for a short while.`
-`Beato spoke up in a forceful voice, shattering that silence.`
-`"Good, that should be enough of an introduction for Gretel or whoever!`
-` Come, try to remember, what happened on October 4th!`
-` Kuhhihihihihihihi, the curtain opens on the fourth game!!"`
-`In unison with her voice, the clock, which had been turned back to October 4th, 1986, ......started to move, as though blown by a suddenly raging storm.`
-`While we remained in the witch's tea room, the blue‐gray sea and the green Rokkenjima spread out beneath us,`
-` ......and we could see the boat heading there, trailing a wake behind it.`
-`The sky was already cloudy, and it seemed that the barrier of the typhoon would soon shut the island away.`
-`The boat docked in the harbor,`
-` .........and Gohda, who had been waiting there, could be seen helping to unload it.`
-`And finally,`
-` ......the boat dropped off all of the passengers,`
-` .........and began to separate from the island.`
-`The relatives started to get swallowed up by the island.`
+`Belki aklında bir şey vardı.`
+` Gretel elini göğsünün önünde yumruk yaptı ve sessizce başını öne eğdi, kısa bir süre kelimeleri bulamayarak.`
+`Beato o sessizliği paramparça ederek güçlü bir sesle konuştu.`
+`"Güzel, bu Gretel ya da her kimse için yeterli bir tanışma olmalı!`
+` Hadi, hatırlamaya çalış, 4 Ekim'de ne oldu!`
+` Kuhhihihihihihihi, perde dördüncü oyuna açılıyor!!"`
+`Sesiyle aynı anda, 4 Ekim 1986'ya geri döndürülen saat, ......hareket etmeye başladı, sanki aniden şiddetlenen bir fırtına tarafından savrulmuş gibi.`
+`Biz cadının çay odasında kalırken, mavi-gri deniz ve yeşil Rokkenjima altımızda yayıldı,`
+` ......ve teknenin oraya yöneldiğini, arkasında bir iz bıraktığını görebiliyorduk.`
+`Gökyüzü çoktan bulutluydu, ve tayfunun bariyeri yakında adayı kapatacak gibi görünüyordu.`
+`Tekne limana yanaştı,`
+` .........ve orada bekleyen Gohda, boşaltmaya yardım ederken görülebiliyordu.`
+`Ve sonunda,`
+` ......tekne tüm yolcuları bıraktı,`
+` .........ve adadan ayrılmaya başladı.`
+`Akrabalar ada tarafından yutulmaya başladı.`
 `"Ahhahahaha!`
-` You're as energetic as ever, Maria."`
-`"Maria‐chan, you'll trip if you don't look out.`
-` Be careful...!"`
-`"Uu‐uu‐uu!!`
-` Gonna faaall gonna faaall, gonna siiink gonna siiink, *giggle*!"`
-`...All my fondly remembered cousins I had loved so much dashed away through the beach,`
-` ......disappearing as they were sucked into the forest path leading to the mansion.`
-`And of course, Onii‐chan could be seen among them too.`
-`"......Dammii~it!!`
-` Hold it, hold it, Mariaaaa!!`
-` You nimble little brat!"`
-`"*giggle*! Uu‐uu‐uu!`
+` Her zamanki gibi enerjiksin, Maria."`
+`"Maria-chan, önüne bakmazsan düşeceksin.`
+` Dikkatli ol...!"`
+`"Uu-uu-uu!!`
+` Düşeceeeeek düşeceeeeek, batacaaaaak batacaaaaak, *giggle*!"`
+`...Çok sevdiğim, sevgiyle hatırladığım tüm kuzenlerim sahilden koşarak uzaklaştılar,`
+` ......malikâneye giden orman yoluna çekilirken kayboldular.`
+`Ve elbette, Onii-chan da aralarında görülebiliyordu.`
+`"......Kahretsii~n!!`
+` Dur, dur, Mariaaaa!!`
+` Seni çevik küçük velet!"`
+`"*giggle*! Uu-uu-uu!`
 ` *giggle*giggle*!"`
-`Maria onee‐chan, who I had loved, dashed away, and Onii‐chan chased after her.`
-`They were swallowed up by the forest.`
-`Following in pursuit, Mom and Dad were also swallowed up.`
-`The rest of my relatives were swallowed up, too...`
-`......Swallowed up, leaving only me behind...`
-`You idiot......`
-`How long are you going to joke around and play with a witch in a place like this......`
-`Come back quickly, ......Onii‐chan......!`
-`Don't leave me all alone...!`
-`And realize.`
-`Realize what a cruel and lonely world I end up isolated in...`
+`Sevdiğim Maria-onee-chan koştu, ve Onii-chan onun peşinden gitti.`
+`Orman tarafından yutuldular.`
+`Peşlerinden giderek, annem ve babam da yutuldu.`
+`Akrabalarımın geri kalanı da yutuldu...`
+`......Yutuldular, geride sadece beni bırakarak...`
+`Seni aptal......`
+`Böyle bir yerde bir cadıyla daha ne kadar şakalaşıp oynayacaksın......`
+`Çabuk dön, ......Onii-chan......!`
+`Beni yapayalnız bırakma...!`
+`Ve fark et.`
+`Nasıl zalim ve yalnız bir dünyada izole olduğumu fark et...`
