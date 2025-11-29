@@ -1,0 +1,1420 @@
+`"......{f:5:Beatrice}.`
+` Bir süredir sana sesleniyorum.`
+` Beni duymadın mı...?"`
+`"......Hmm.`
+` Öyle mi?`
+` Üzgünüm.`
+` Düşüncelere dalmışım.`
+` Beni affet."`
+`"Hava çok hoş.`
+` ...Anlıyorum, havanın kalbini nasıl çaldığını görebiliyorum.`
+` Siyah çayını burada mı içeceksin...?"`
+`"...............Ben...kimim?"`
+`".................................`
+` ......Şimdi siyah çay getireceğim.`
+` Bir süre burada bekle."`
+`"Siyah çayı unut.`
+` Benimle konuş."`
+`"......Pekâlâ."`
+`Kinzo, siyah çay getirme bahanesini kullanarak konuşmayı o an için kesmeye çalışmıştı.`
+` ...Ama bu girişimi çok barizdi.`
+`Bahçedeki sandalyeye oturdum ve Kinzo'ya da aynı şekilde oturmasını işaret ettim.`
+`{n}Kinzo yaşını abartarak ağır ağır oturdu.`
+`Bir süre sessizliğin tadını çıkararak oturduk...`
+`"......Ben kimim?`
+` Bugüne kadar kimse bana bu sorunun cevabını vermedi.`
+` ......Nedense herkes bakışlarını kaçırıyor ve benden kaçıyor."`
+`"........................"`
+`"......Seni uzun zamandır tanıyorum.`
+` Seni en iyi arkadaşım, hatta babam olarak görüyorum.`
+` ......İşte bu nedenle bana anlatmanı çok istiyorum.`
+` Biliyor olmalısın.`
+` ...Benim kim olduğumu."`
+`"..................`
+` ............Neden böyle bir şey için endişeleniyorsun?`
+` Sen {f:5:Beatrice}'sin.`
+` Bu köşkün efendisi, öyle değil mi?`
+` ......Daha ne bilmek istiyorsun?"`
+`"............Bilmiyorum."`
+`"Bu da ne?`
+` ......Neyi bilmek istediğini kendin bile bilmiyor musun?`
+` Bu çok hayret verici.`
+` Gençlik günlerimde, bazen kendimi çıkışı olmayan düşünceler labirentinin içinde oynarken bulurdum.`
+` Belki de endişelerinin sebebi budur..."`
+`Kinzo önemsiz bir meseleymiş gibi güldü.`
+` ...Ancak, bu davranışın beni daha fazla sorgulamadan vazgeçirmeye yönelik bir girişimden başka bir şey olmadığını hissetmekten kendimi alamadım.`
+`"...........................`
+` ...Hmph.`
+` ......Yani...sen bile bunu bana söylemeyeceksin."`
+`"Söyleyecek bir şey yok.`
+` Sen {f:5:Beatrice}'sin.`
+` Bu fazlasıyla yeterli değil mi?"`
+`"......Hayır, o değil.`
+` ............Benim bilmek istediğim şey adım değil.`
+` Benim...`
+`kim...`
+`olduğum."`
+`"......Kimim ben, neyim ben?`
+` ...Ne kadar zamandır buradayım, ...ve burada geçirdiğim günler daha ne kadar devam edecek?"`
+`"........................`
+` ...Gerçekten siyah çay getirmeliyim.`
+` Sence de bu güzel havaya yazık değil mi?"`
+`"................................."`
+`".........Bütün bunlar ne hakkında...?`
+` Bir bakıma, senin geçmişin gibi görünüyor, öyle mi?"`
+`"Görünüşe göre öyle.`
+` ...Bu kadar geriye gidebileceğimizi düşünmek..."`
+`"Kim olduğunu merak ediyordun...`
+` ...Görünüşe göre oldukça büyük endişelerin varmış."`
+`"......Bu tahmin edilebilir.`
+` O zamanlar kim olduğumu,`
+` ya da neden hayatta olduğumu anlayamıyordum."`
+`"Yani, ergenlik çağında,`
+` herkes en az bir kez hayatının ne anlama geldiğini merak ederek bu tür felsefi endişelere kapılır.`
+` Bu yalnızca senin de hayatında bir kez böyle büyüleyici bir dönem geçirdiğin anlamına gelmiyor mu?"`
+`".....................`
+` ...Ben doğduğumdan beri o köşkteydim.`
+` Ve sadece köşkün içinde yaşadım.`
+` Elbette bahçeye çıkabiliyordum ama köşkün etrafı çok yüksek bir çitle çevriliydi ve buradan çıkmam mümkün değildi,`
+` üstelik buradan çıkmamam gerektiği bana sert bir şekilde söyleniyordu."`
+`"......Köşkte ve bahçede özgürce dolaşabiliyordum,`
+` ama bunların dışına kendi isteğimle bir adım atma arzum asla kabul edilmedi."`
+`"...............Bununla ne demek istiyorsun?`
+` ...Kendini bildin bileli hep kafesteki bir kuş olduğunu mu söylemeye çalışıyorsun?"`
+`"......Ben her şeyin böyle olduğunu sanıyordum.`
+` Ne de olsa kendimi bildim bileli böyle yaşıyordum.`
+` Bunu sorgulamak aklıma bile gelmedi."`
+`"Sen............nesin böyle?"`
+`"İşte bu.`
+` Benim de bilmek istediğim buydu."`
+`"............Heh.`
+` Eminim "ben insan değildim, cadıydım" gibi bir şey söyleyeceksin, değil mi?"`
+`"Hayır, bu doğru değil.`
+` {i:Henüz} doğru değil.`
+` ......Ya da, {i:bir zamanlar} doğruydu mu demeliyim?`
+` ......Ben Kinzo tarafından yaratıldım, bir insan tarafından yaratılmış bir insan.`
+` ...Hayır, belki de etten yapılmış bir kafes demeliyim."`
+`"Bu da ne demek oluyor...?`
+` ...Bu kulağa garip gelmeye başladı."`
+`"......Muhtemelen buna inanmayacaksın.`
+` Önce dinle.`
+` .........Ben bin yıldır yaşayan büyük bir cadıydım.`
+` Ama bir gün Kinzo tarafından çağrıldım,`
+` ...ve onun gizli sanatları sayesinde sonsuza dek onun tutsağı hâline geldim."`
+`"............Bunu daha önce hiç duymamıştım.`
+` Ushiromiya ailesinden duyduğumuza göre, sen Büyükbaba tarafından çağrılmış,`
+` onunla şeytan sözleşmesi gibi bir şey yapmış ve ona altın vermişsin."`
+`"Evet.`
+` Bu doğru.`
+` ...Sonra da sözleşme sona erene kadar kendimi saklamam gerekiyordu.`
+` Ama, .........popüler bir kadın olmak zor.`
+` .........Kinzo beklenmedik bir şekilde bana aşık oldu."`
+`"...Büyükbabamın miyopluğu oldukça kötüleşmiş olmalı.`
+` Astigmatı da var, ihihi.`
+` Her şey bir yana, sana aşık olmak."`
+`".........Hmph.`
+` Açıkçası benim için son derece sinir bozucuydu."`
+`"...Ancak, {y:0:İnsan}{n:0:insan}ların gücü korkutucu bir şey.`
+` Korkunç bir güç sergiledi ve beni buraya hapsetti.`
+` ...Başımı sallayıp onaylayana kadar serbest kalamayacağımı söyledi.`
+` ...Ne kadar baskıcı bir adam."`
+`"Harika değil mi?`
+` Büyükbabamın okültizmle kafayı bozduğunu herkes bilir, ama...`
+`...Büyük Cadı {f:5:Beatrice}-sama'yı zincirleyecek güce sahip olduğunu kim bilebilirdi?"`
+`"......Heh, saçmalık.`
+` Böyle garip bir hikâyeye inanacağımı mı sanıyorsun?"`
+`"...Düşündüğüm gibi, inanmıyorsun."`
+`"İnandığım tek şey, ormanın ortasındaki bu gizli köşkte yaşadığın gerçeği.`
+` Sen Rokkenjima'daki 19. kişisin, değil mi?!"`
+`"......Kesinlikle.`
+` Tam da düşündüğün gibi, burası Rokkenjima ormanının derinliklerinde.`
+` Dış dünyadan bakıldığında görülemeyen gizli bir köşk.`
+` Adı da {ruby:Dokuz Kuşun Sığınağı:Kuwadorian}."`
+`"......Düşününce, konukevinin gerçek adının {ruby:Misafirhane:Toraian} olduğunu duymuştum.`
+` ...Anlıyorum, isimlendirme anlayışı birbirine benziyor.`
+` ......Yani, sen burada gizlice yaşayan Büyükbabamın aşkıydın.`
+` Öyle değil mi?!"`
+`"Aşkı demek doğru bir ifade şekli değil.`
+` ......Kinzo'nun karşılıksız aşkı demek daha doğru olur.`
+` Kısa süre önce bundan bahsetmiştim, değil mi?`
+` Bana kendi iradesiyle aşık oldu.`
+` Daha sonra bana kur yaptı fakat ben onu reddettim."`
+`"......Ardından, bu gizli köşke hapsedildim.`
+` .........Hayır, köşke hapsedildiğimi söylemek doğru olmaz.`
+` ......Bu bedene hapsedildiğimi söylemek daha doğru olur."`
+`"............En sonda ne dediğin hakkında hiçbir fikrim yok."`
+`"Sadece alay edecek ve dinlemeyeceksin, değil mi?`
+` Ne de olsa cadılara ve büyüye inanmadığını söylüyorsun.`
+` Eğer sana söylediklerimi dinleyecek kadar kulağın yoksa,`
+` bunları anlatmak aptallığın zirvesi olur."`
+`"...........................`
+` ......İnanıp inanmayacağıma kendim karar veririm.`
+` ...Zaten dinlemezsem hikâye de ilerlemeyecek.`
+` Anlat.`
+` ...Hadi şu geçmişini dinleyelim."`
+`"Pekâlâ.`
+` .........Kinzo bana kur yaptığında onu reddetmiştim ama o sırf bu yüzden umudunu yitirecek bir adam değildi.`
+` Ne pahasına olursa olsun rızamı almak istiyordu.`
+` Beni bu köşke kapattı ve kalbimi kazanmak için sonsuza değin çabaladı."`
+`"...O gerçekten baskıcı biri.`
+` Sanırım kimse dikkafalı erkeklerden hoşlanmıyor."`
+`".........*cackle*cackle*.`
+` Kurlarına karşılık verip vermediğimden ziyade,`
+` bir erkeğin benim için bu kadar çaresiz kalması...bir kadın olarak hiç de hoş değildi."`
+`"......Ancak, asla başımı sallayıp onaylamadım.`
+` Kısıtlamalarından kurtulabilmek için elimden geleni yaptım,`
+` ama bu bariyer oldukça sağlamdı ve onu yıkamadım."`
+`"......Ve sonra?"`
+`"Çeşitli biçimlerde karşı koymaya çalıştıktan sonra,`
+` nihayetinde Kinzo'nun bariyerinden kaçabilmek için etten bedenimi bir kenara atmam gerektiği sonucuna vardım.`
+` ......Fiziksel beden büyü açısından pek çok kısıtlama getiren bir kap gibidir."`
+`"Etten bedenini atmak mı......?`
+` O da ne?`
+` Beden dışına çıkmak gibi bir şey mi?"`
+`"Tabii, bu şekilde de düşünebilirsin.`
+` Ancak, ben bir ruh değilim.`
+` Bir cadı olsam da, başlangıçta etten bir insan bedeniyle doğdum.`
+` Dolayısıyla fiziksel bedenimi bir kenara atmak,`
+` benim için her ne kadar ölümle aynı anlama gelmese de, aynı ölçüde bir irade gerektiriyordu."`
+`"Yani başka bir deyişle,`
+` ......intihar etmedikçe serbest kalamayacağına karar verdiğini mi söylemek istiyorsun?"`
+`"İntihar değildi.`
+` Bu, etten bedenimi bir kenara atmaktan başka bir şey değildi.`
+` ......Elbette, ruhtan ibaret olmak tehlikeli bir durumdur.`
+` Ruh etten bedenini terk ettiğinde sürekli güneşin sert rüzgârlarına maruz kalır.`
+` Kendimi korumak ve rüzgârlar tarafından paramparça olmaktan kaçınmak benim için bile kolay değildi."`
+`"Mümkün olduğunca kaçınmak istediğim nihai bir uygulamaydı.`
+` Ancak Kinzo'nun bariyerini aşmanın başka bir yolu yoktu."`
+`"......*cackle*, ne de olsa ben özgür bir ruhum.`
+` Kinzo'nun ömrü bitene kadar bir kafeste tutulmaya tahammül edemezdim."`
+`Beato'nun anlatıp durduğu, etten bedenini bir kenara atma hikâyesini,`
+` intihardan başka bir şey olarak algılayamıyordum.`
+`Büyükbabam ısrarla ona kur yaptı ve o da bundan kurtulmak için,`
+` ......kendi ölümünü mü seçti...?`
+`"...............Yani intihar ettiğini mi söylüyorsun?`
+` Sen ne diyorsun?`
+` Şu bahçedeki sandalyede rahatça oturan sen değil misin?"`
+`"......Doğru.`
+` Bu Kinzo'nun bana verdiği yeni kafes."`
+`"............Kafes mi?`
+` Bu köşkü mü kastediyorsun?"`
+`"Hayır.`
+` Şuradaki bahçe sandalyesinde dinlenen bedenimi kastediyorum.`
+` .........Ruh hâline geldikten ve kaçmaya çalıştıktan sonra,`
+` o zaman dahi Kinzo'nun kaçmama izin vermeye niyeti yoktu."`
+`"...Evet evet, gerçekten de korkutucu bir insan.`
+` Normalde, tek taraflı arzular beslediğin kadının kendi canına kıydığını görmek, aşkı yüz yıllık bile olsa herkesin aklını başına getirmeye yeter.`
+` ......Sanırım onu büyücü yapan da tam olarak bu.`
+` ......*cackle*."`
+`"O anlaşılmaz cadı-kız konuşmalarıyla bilmece gibi konuşmaya çalışma.`
+` ...Kısacası, ne söylemeye çalışıyorsun?"`
+`"Kinzo, ruh olduktan sonra bile kaçmama izin vermedi.`
+` ......İnsan duyguları ürkütücü.`
+` Bu kadar güç gösterebilmesi..."`
+`"Bir ölünün ruhunu bağlamak...`
+`bunu uzmanlık alanı olarak seçen bir büyücü için bile kolayca ulaşılabilecek bir seviye değil.`
+` Bunu bildiğim için, Kinzo'nun korkutucu büyü gücü beni ilk kez o zaman şok etti."`
+`"............Ardından Kinzo ruhumu ele geçirdi ve beni geri getirdi.`
+` Ancak, ele geçirilmiş bir ruhu tutacak bir kafes ne demirden ne de kurşundan olamaz.`
+` ......Bunun tek bir istisnası var."`
+`"............Ne?`
+` Büyülü bir kafes falan olduğunu söylemeyeceksin, değil mi?"`
+`"Yanlış.`
+` Şuradaki etten beden, tıpkı seninki ve benimki gibi.`
+` ...Yalnızca etten ve kandan oluşan bir kafes bir ruhu bu dünyaya bağlayabilir.`
+` ......Kinzo ruhumu bir kez daha tıpkı benim gibi etten yapılmış bir kafesin içine kapattı."`
+`".....................`
+` ...Yani özetle, şöyle bir şey mi?`
+` Büyükbabam sana ısrarla kur yaptı, sen de bu durumdan nefret etmeye başladın ve intihara kalkıştın,`
+` ama sonunu getirecek kadar becerikli değildin, öyle mi?`
+` ...Kahretsin, böyle bir şeyi söylemek için gerçekten dolambaçlı bir yol seçmişsin."`
+`"Hayır, bu yanlış.`
+` Ruhum bir homunculus içine hapsedildi,`
+` ve ben bir deney tüpünden dünyaya geldim."`
+`"Hah?!`
+` Saçmalık...!`
+` Bu imkânsız ve bunu sen de biliyorsun!"`
+`"Kinzo hayat yaratma mucizesini bile başardı.`
+` Ve sırf ruhumu o kafese kapatmak için.`
+` ......Sadece kendi aşkı yüzünden böylesine büyülü bir güç sergilemesi...`
+` Son derece korkunç bir insan."`
+`"Aah, tamam, şimdi gerçekten gülünç bir noktaya geldi!`
+` Ne istersen anlat.`
+` Tek kelimesine bile inanmayacağım.`
+` Ne istersen onu yap."`
+`"...............mh.`
+` ...Bu çirkin tavır da neyin nesi?"`
+`"Heh,`
+` başlangıçta, belki gizli büyük bir ipucu olabilir düşüncesiyle biraz ilgi gösteriyordum,`
+` ama bu hikâye dinledikçe daha da tuhaflaşmaya başladı.`
+` Bunun cadıları reddetmekle ilgili bir oyun olması gerekiyordu,`
+` ama birdenbire bir cadı hikâyesini kabullenmeye zorlandığım hissine kapıldım."`
+`"Üzgünüm ama artık bunu dinlemek istemiyorum.`
+` Sen istediğin kadar kendi kendine saçmalamaya devam et.`
+` Ben burada kulağımın kirini falan temizliyor olacağım."`
+`".....................`
+` ......Hmph."`
+`Soğuk bir tavır sergilemeye başladığımda, Beato alışılmadık bir şekilde hevesini kaybetmiş gibi davranmaya başladı.`
+`Elbette yüzünde hâlâ utanmaz bir ifade vardı,`
+`ama anlaşılması gerçekten kolay olan bu ifadesinde,`
+` geçmişini ilginç bulmadığım için hissettiği yalnızlığı bir anlığına da olsa yakalayabildiğimi hissettim.`
+`......Nedense, bu hafif tepkisi onu acınacak bir duruma düşürdü,`
+` bu yüzden umursamaz tavrımı sürdürsem de, onu biraz neşelendirmeye karar verdim.`
+`Kahretsin, sinir bozucu bir cadı olmasına rağmen, kromozomları XX olduğu için ona karşı hâlâ zayıfım...`
+`"......Sana inanmak gibi bir niyetim yok ama,`
+` ............devam et.`
+` Kurabiye yerine senin hikâyeni dinleyeceğim."`
+`"Yani geçmişime kurabiye muamelesi yapıyorsun.`
+` ......Beni bu şekilde aşağıladıktan sonra, sana öylece anlatmamı mı bekliyorsun...?"`
+`Ben onunla dalga geçtikten sonra Beato biraz duygusal bir tepki verdi.`
+`Görünüşe göre, insanlarla dalga geçmek onun uzmanlık alanı olsa da, diğer insanların kendisiyle dalga geçmesi karşısında bocalıyordu.`
+`Tam o sırada, siyah çay bardağım birdenbire bir ses çıkararak beni şaşırttı.`
+`"......Leydimin ruhu ele geçirildi ve yeni bir hayat kafesinin içine alındı.`
+` Başka bir deyişle, Leydim bir kez daha insan olarak hayata gözlerini açtı."`
+`Ben farkına bile varmadan, iblis uşak fincanımı almış ve üzerine biraz daha siyah çay ilave etmeye başlamıştı.`
+`"Ronove.`
+` Bu kadar hikâye yeter.`
+` Bunun dinlenemeyecek kadar saçma olduğunu söylüyor.`
+` Artık ben de kendimi gülünç hissediyorum ve konuşmaya niyetim yok."`
+`"Yeni kurabiyeler şu anda pişiyor.`
+` O vakte kadar Leydimin geçmişini anlatmanın mükemmel bir alternatif olacağını düşünüyorum.`
+` Pu ku ku...!"`
+`"Ben, ...ben zaten kendim hakkında konuşmaktan bıktığımı söyledim!`
+` İkiniz de sevimsiz insanlarsınız.`
+` Ben gidiyorum!`
+` Ronove, servisin bittiği anda git.`
+` Battler ile gereksiz yere konuşmak yok."`
+`"Anlaşıldı.`
+` Çaba göstereceğim."`
+`Beato'nun kafa karıştırıcı kadınsı asabiliği onu ele geçirdi ve vücudunu altın kelebeklere dönüştürerek dağıldı ve ortadan kayboldu.`
+`Ondan sonra geriye sadece Ronove ve siyah çayın kokusu kalmıştı...`
+`"......Onu kızdırdığım için kendimi biraz kötü hissediyorum."`
+`"Öyle görünüyor ki bunun bilincindesiniz, dolayısıyla söylenecek fazla bir şey yok."`
+`"Dur bir saniye.`
+` Son darbeyi vuran sen değil miydin?"`
+`"Pu ku ku ku.`
+` Amanın, ne demek istiyorsunuz?`
+` Biraz şeker ve süt ister misiniz?"`
+`"...Sadece süt yeterli.`
+` ............Bir de biraz kurabiye istiyorum."`
+`".........Kurabiyelerin hazır olması biraz daha zaman alacak."`
+`"Alternatif başka bir şey var mı demiştin?"`
+`"......Kesinlikle.`
+` Eğer sessizce dinlerseniz, hikâyeye devam edeceğim."`
+`"Homunculus hakkında bir şeyler söyledi.`
+` ...Onun hakkında biraz bilgim var.`
+` Şu şey, değil mi?`
+` Simya ya da onun gibi bir şeyle yaratılmış bir insan mı?"`
+`"Evet.`
+` Leydimin ruhu bir homunculus'a hapsedildi ve bu dünyada bir bebek olarak yeniden hayat buldu.`
+` ......Ancak, bebek olduğu için,`
+` Kinzo ona aşkını ifade etmeye çalışsa bile faydasız olacaktı."`
+`"........................`
+` .........Sakın bana...`
+`......Büyükbabamın o bebeği büyüyüp aynı yaşa gelene kadar,`
+` bu gizli köşke kapattığını söyleme?!"`
+`"Evet.`
+` Demek istediğim de bu.`
+` Ancak ruhu aynı olsa da, bir insan ruhu içinde bulunduğu bedenden güçlü bir şekilde etkilenir.`
+` Leydim geçmişe dair tüm anılarını kaybetti ve çok normal bir insan kızı olarak büyüdü."`
+`"Ve sen de......bahçedeki sandalyede oturan Beato'nun bu olduğunu mu söylüyorsun?"`
+`"Evet.`
+` Bu doğru.`
+` Tamamen aynı şekilde büyütüldü.`
+` Ancak, bir cadı olarak kendi gücüne sahip değildi.`
+` ......Leydimin orada tamamen bir insan olduğunu vurgulamalıyım."`
+`"................................."`
+`Bahçedeki sandalyede oturmuş gökyüzüne bakan Beato aynı soruyu tekrar sordu.`
+`Kim olduğunu sordu.`
+`...Bu kelimelerin anlamı nihayet yerine oturmaya başlamıştı.`
+` Neden burada kilit altında yaşadığını anlayamıyordu.`
+`Büyükbabam {f:5:Beatrice}'in ruhunu ele geçirmiş, onu etten bir bedene hapsetmiş,`
+` ve sonra da onu gizli bir köşke kapatmıştı.`
+`Ancak doğduğundan beri burada yaşadığı için kim olduğunu,`
+` ya da neden burada kapana kısılmış bir şekilde yaşadığını bile anlayamıyordu...`
+`......B-...Bekle, bekle.`
+`{n}Böyle aptalca bir hikâyeyi kim ciddiye alır ki?`
+`Neden yorumlayışımı değiştirmiyorum?`
+`{n}...İşin aslı şöyle bir şey olamaz mı?`
+`Büyükbabam {f:5:Beatrice} ile tanıştı.`
+`{n}Daha sonra ona aşık oldu ve ona kur yaptı, ancak {f:5:Beatrice} onu reddetti.`
+`{n}Bunun üzerine sinirlendi ve onu bu gizli köşke kapattı.`
+`{f:5:Beatrice} kaçmaya çalıştı ama ne yaparsa yapsın başaramadı,`
+` ......ve en nihayetinde kendi ölümünü seçti.`
+`......Ve sonra, .........hmm.`
+`...Belki de tıpkı {f:5:Beatrice}'e benzeyen bir kız vardı, ...hayır, bir bebek.`
+`Ve Büyükbabam bu çocuğu özenle büyüttü.`
+`Ama belki de Büyükbabam bu çocuğu kendi kızı olarak görmüyordu.`
+`"Ruhumu bir kez daha etten yapılmış bir kafesin içine kapattı".`
+`Bu sözler muhtemelen...`
+`...bu çocuğu kendi çocuğu olarak değil, onun reenkarnasyonu olarak gördüğü anlamına geliyordu.`
+` Belki de bu anlama geliyordu.`
+`Bu şekilde yorumladığınızda, bu kadar tuhaf bir hikâye bile biraz mantıklı gelmeye başlıyor...`
+`...Hayır hayır hayır.`
+` Bu Beato'nun kafamı karıştırmak için uydurduğu bir bok olmalı.`
+`Sanki bunları kabul ederim de...!`
+`{n}Her şeyden önce, ...Kuwadorian mıydı?`
+`{n}Gizli bir köşkün gerçekten var olduğuna dair hiçbir kanıt yok.`
+`Bu, o anda uydurduğu bir şey olamaz mı?`
+`"`
+`{p:1:Rokkenjima ormanında Kuwadorian adında gizli bir köşk var}.`
+` Az önce bahsi geçen yer de orasıydı."`
+`".........Heh?`
+` K-...Kırmızı mı?!"`
+`Ronove, Kuwadorian'ın gerçekten var olduğunu söylemek için kırmızıyı kullandı.`
+`...Bu Beato'nun kullandığı kırmızıyla aynı anlama mı geliyordu?`
+`"Çok üstün bir iblis olmasam da, yine de bir iblisim.`
+` ...Lütfen bunu Leydimden bir sır olarak saklayın, olur mu?"`
+`"...T-......Tabii!"`
+`Ona tuzak kurmaya çalışacağımı bilen Beato, kırmızıyı kullanırken son derece temkinli davranmaya başlamıştı.`
+`Ronove'nin de bu kırmızıyı kullanabileceğini düşünmek...`
+`Tabii ki, bu kurnaz bir adamın kırmızısı.`
+` Bunu ne kadar doğru kabul edebilirim bilmiyorum,`
+` ama yine de belki buradan bir ipucu yakalayabilirim......`
+`"Yani Kuwadorian'ın bahçesinde oturan Beato ile Büyükbabamın yaptığı o konuşma gerçek miydi?"`
+`"Evet.`
+` Bu gerçek.`
+` Geçmişte,`
+` {p:1:ikili gerçekten de burada böyle bir konuşma yaptı}."`
+`"Ç-Çok teşekkürler.`
+` Biraz daha kırmızı istiyorum.`
+` Bir homunculus'tan dünyaya geldiğini söyledi,`
+` ama bu tür bilim dışı, büyülü bir şey gerçekten var mı?!"`
+`"Bu soruya cevap veremem.`
+` Zira bu bir pat'a neden olacaktır."`
+`"......Pat mı?`
+` O da ne?"`
+`"Bir satranç terimi olan bu terim, "sürekli şah" benzeri bir durumu,`
+` oyuna daha fazla devam etmenin imkânsız hâle geldiği bir durumu ifade eder.`
+` Bu, hamlelerin sonsuz tekrarının tam tersidir,`
+` ve tüm hamlelerin geçersiz kalarak bir tür kilitlenmeye yol açtığı bir durumu ifade eder."`
+`"Satrançta bu durum, tıpkı sürekli şah durumunda olduğu gibi, bir beraberliğe yol açar.`
+` ...Fakat, Leydim ile aranızdaki oyunda beraberlik söz konusu değil.`
+` Bu nedenle, bir pat'a yol açacak herhangi bir soruya kırmızıyla cevap veremem."`
+`".........Gerçekten anlayamadığım bir şey söyleyerek bilmece gibi konuşuyorsun,`
+` ama işin aslı, homunculus gibi büyülü bir şeyin var olduğunu kırmızıyla söyleyemeyeceğin için beni kandırmaya çalışıyorsun, değil mi?"`
+`"Eğer kırmızıyla "cadılar gerçektir" deseydim, ne yapardınız, Battler-sama?"`
+`"...............mh.`
+` ......İnanmak ya da inanmamak konusunda verdiğimiz büyük mücadele de bu, öyle değil mi?`
+` Bunu bana açıkça söyleseydin, daha fazla tartışacak bir şey olmazdı.`
+` Oyun biterdi."`
+`""Cadılar gerçektir" diye kırmızıyla belirtseydim, tartışabileceğiniz hiçbir şey kalmazdı.`
+` Ancak, Battler-sama, nedeni size hiçbir zaman açıkça belirtilmediği için, muhtemelen bunu kabul etmezdiniz.`
+` Fakat, bunu kırmızıyla söyledikten sonra tartışmaya yeriniz kalmayacak ve size herhangi bir kanıt sunulmayacaktı."`
+`"Bu durumda, Battler-sama,`
+` yenilgiyi kabul etmeyecek olsanız bile, karşıt bir argüman öne sürmenizin hiçbir yolu olmayacak ve bu bir çıkmaza dönüşecektir.`
+` Şah mat olmamış olsa bile, başka bir hamlenin yapılması mümkün olmazdı."`
+`"Battler-sama, bir sonraki hamlenizi yapamayacağınız için sıra asla Leydime gelmeyecek,`
+` ve oyun sonsuza dek bu noktada kalacaktır.`
+` Sonuç olarak, Leydim sizi teslim olmaya zorlayamaz.`
+` ......Bu bir kördüğüm durumu olurdu."`
+`"Bundan kaçınmak için,`
+` bu tür sorulara kırmızıyla cevap veremem."`
+`"......Yani, lafı dolandırmadan söylemek gerekirse, tartışmaya yer bırakmayan soruların yasak olduğunu mu söylemeye çalışıyorsun?`
+` Yani, bu sanırım mantıklı.`
+` Eğer bana kırmızıyla "cadılar gerçektir" denilseydi, en baştan vazgeçmek zorunda kalırdım."`
+`"Anladığınıza memnun oldum.`
+` Farklı bir formda soru sorduğunuz takdirde birlikte çalışabileceğimize inanıyorum."`
+`"......Geçiştirdiği tekrarlama talebine cevap verebilir misin?`
+` Bu adadaki insan sayısı ile ilgili olana."`
+`"Eğer Leydim bu tekrarlama isteğini reddettiyse, o zaman elbette cevaplayamam.`
+` Leydimin mobilyası olarak, fazla ileri gidemem."`
+`Ronove sadık bir hizmetkâr gibi davranmaya çalışarak abartılı bir jest yaptı.`
+` Bu adam çok utanmaz.`
+`"Cık.`
+` Tam da işe yarayabileceğini düşünürken."`
+`"......Bundan vazgeçip başka bir soru bulacağım.`
+` ...Ah, doğru.`
+` Önemli bir şeyi kontrol etmeyi unutuyordum.`
+` .........Bu Beato'nun anıları hakkında bir hikâye, değil mi?`
+` Bu ne zaman oldu?`
+` Şu anda gerçekleşiyor olamaz, değil mi?"`
+`"Haklısınız.`
+` {p:1:Burası 1967'nin dünyası}.`
+` Bu 19 yıl önceki dünya."`
+`"............Hmmmmm..."`
+`Hikâyeyi bir kez daha gözden geçirelim.`
+`{n}Acaba şöyle bir şey olamaz mı?`
+`Büyükbabamın {f:5:Beatrice} adında karşılıksız aşık olduğu biri vardı.`
+`{n}Ve onu bu gizli köşke hapsetti ve ona devamlı olarak kur yaptı.`
+`{n}Ama kadın inatçıydı ve bir türlü pes etmiyordu.`
+`En nihayetinde, buradan kaçamayacağı konusunda karamsarlığa kapıldı...`
+`ve muhtemelen intihar etti.`
+`......Ve sonra,`
+` ......ruhu bir homunculus'a kondu ve......`
+`Hayır, hayır, eğer bunu kabul edersem, bu cadıyı kabul etmekle aynı şey olur.`
+`Bu kısmı şu şekilde yorumlayabilirim.`
+`{n}Muhtemelen......öldüğünde arkasında bir kız çocuğu bıraktı.`
+`Ruhun yeni bir bedene yerleştirilmesinden...bahsedilmesi muhtemelen...`
+`Büyükbabamın o çocuğu {f:5:Beatrice}'in reenkarnasyonu olduğuna inanarak yetiştirdiği anlamına geliyordu...`
+`...Bu durumda, Beato en azından son 19 yıldır bu adada 19. kişi olarak var olmuş olmalı ve sonra...`
+`...şey......`
+`"......Kafam karışmaya başladı.`
+` ...Her hâlükarda, bunların hiçbiri tahminden öteye gidemiyor.`
+` Kırmızıyla ifade edilebilecek tek şey,`
+` 1967 yılında, Rokkenjima'daki gizli bir köşkte, {f:5:Beatrice}'in bir insan olarak var olduğu.`
+` Hepsi bu."`
+`"Tamamen doğru.`
+` {p:1:1967 yılında, Rokkenjima'daki gizli bir köşkte, {f:5:Beatrice}-sama bir insan olarak var oldu}."`
+`"Oh, teşekkürler.`
+` Bu gerçekten yardımcı oluyor."`
+`"Tebrik ederim.`
+` Bununla, 19. kişi olarak bilinen taşın varlığını açıklığa kavuşturdunuz.`
+` Battler-sama, tıpkı arzuladığınız gibi, 18 kişinin dışında suçlayabileceğiniz 19. bir kişi."`
+`"......Herhangi bir suçun sorumluluğunu üzerine yıkabileceğiniz kurbanlık bir koyun.`
+` Ve onun Leydim olması ne kadar ilginç.`
+` Pu ku ku ku."`
+`Ronove patavatsızca güldü.`
+`Nedense üslubu hoşuma gitmedi, bu yüzden onunla birlikte gülmek istemedim.`
+`"......Doğru.`
+` Rosa Teyze söylemişti.`
+` ......‘{f:5:Beatrice} öldü’ mü?`
+` "Onu ben öldürdüm" mü?`
+` Bunlar da ne demek oluyor...?"`
+`"Buna gelince, benim anlattıklarımı dinlemek yerine gerçek olayları görmeniz daha faydalı olabilir.`
+` Zamanı biraz daha ilerletelim."`
+`Ronove cebinden şık bir cep saati çıkardı ve kurmaya başladı.`
+`Kurduğu sırada, Ronove'nin arkasında altın kelebeklerin toplandığını ve birinin şeklini aldığını gördüm.`
+`...Beato muydu?!`
+` Hemen başka biri olduğunu fark ettim.`
+`Bu oydu.`
+` Bana işkence etmeyi her şeyden çok seven Yedi Kazığın en büyük kız kardeşi.`
+`......Eğer o seksi kalçayı gördüğüm için kendimi şanslı saymazsam, onların işkence oyunlarına eşlik edemezdim...`
+`"Ronove-sama.`
+` Demek hâlâ buradaydın.`
+` {f:5:Beatrice}-sama'dan acil bir çağrı var."`
+`"Amanın,`
+` ne tür bir acil iş olabilir acaba?`
+` ......Görünüşe göre sizinle biraz fazla uzun süre sohbet etmişim, Battler-sama.`
+` O hâlde, Battler-sama, izninizle.`
+` Lütfen Leydim ile olan oyununuzun tadını çıkarmaya devam edin."`
+`"Evet, evet.`
+` Elimden geldiğince tadını çıkaracağım.`
+` ...Çünkü sohbetler seninleyken Beato'yla olduğundan daha canlı.`
+` Ve kırmızıyı daha centilmence kullanıyorsun.`
+` İstediğin zaman tekrar konuşuruz."`
+`"............Battler-sama.`
+` Görünüşüme rağmen, ben Leydimin mobilyasıyım.`
+` ...Leydimin istemediği bir şeyi yapamam.`
+` Kırmızıyla söylediğim şeyler, normalde Leydimin ağzından çıkması gereken şeylerdi.`
+` ...O somurturken ben Leydimin yerine kırmızı gerçeği söylemekten başka bir şey yapmadım."`
+`"O hâlde gerçekten de surat mı asıyordu?`
+` Ihihihi!"`
+`"Pu ku ku ku."`
+`Beni ve Ronove'yi anlaşılmaz bir şekilde yakın gören Yedi Kazığın çıtırı hafifçe başını eğdi.`
+`"Ronove-sama.`
+` {f:5:Beatrice}-sama'yı bekletiyoruz.`
+` Acele edelim."`
+`"Evet, hemen geliyorum.`
+` Peki o zaman, Battler-sama, görüşmek üzere.`
+` ......Görünüşe göre nihayet iyi geçinmeye başladık.`
+` Düşündüğüm gibi, iyi arkadaş olabileceğimizi hissediyorum."`
+`"Beato'nun arkasından dedikodu yapan ortakları kastediyorsan, elbette."`
+`"Ronove-sama!"`
+`"Evet, evet.`
+` O zaman, izninizle."`
+`Belki de onun bana bu kadar dostça davranmasından hoşlanmamıştı ya da belki de gerçekten acele etmesi söylenmişti.`
+`Yedi Kazık güzeli Ronove'ye sertçe çıkıştı, Ronove de aptalca güldü ve sanki kaçıyormuş gibi ortadan kayboldu...`
+`"......Hmph.`
+` Araf'ın Yedi Kazığı'nın en büyük kız kardeşi olan ben nasıl olur da bu düzeyde bir iş için çağrılabilirim!`
+` ...{f:5:Beatrice}-sama böyle bir şey için çok fazla boş vakti olan küçük kız kardeşlerimden birine kolayca söyleyebilirdi. Tanrım...!"`
+`"Neden bu kadar huysuzsun, tatlım?`
+` Acıktıysan kurabiye falan ye.`
+` Sonuncuyu sana vereyim mi?`
+` Ihihi!"`
+`"......Hummmmm?`
+` Ne kadar düşüncelisin.`
+` Öyleyse, bir tane alayım mı?"`
+`Üzerinde son kalan kurabiyenin bulunduğu atıştırmalık tabağını hafifçe ona doğru ittim.`
+`"Teşekkürler"`
+`Cümlenin sonundaki noktanın yerine geçercesine keskin bir ses masayı delip geçti...`
+`Tırnaklarından üçü birden keskin bir şekilde uzamıştı...`
+`ve tabağı itmek için kullandığım elimin parmakları arasındaki boşluklara bir saç teli inceliğinde saplanmıştı.`
+`......Her şey bir anda olmuştu, ...bu yüzden bir süre tırnaklarının uzadığını bile fark etmemiştim.`
+`O keskin tırnakların uçları kırmızı manikürlü bıçaklar gibiydi.`
+`......Parmak uçlarımın arasındaki boşluklar karıncalandı.`
+`......O jilet gibi bıçaklar elimin arkasından ve parmaklarımdan kıl payı uzaklıkta masaya saplanmıştı...`
+`O üç bıçak yüzünden, sağ elimin dikkatsizce titremesine bile izin veremiyordum ve artık tek yapabildiğim şey soğuk ter damlalarının süzülmesine izin vermekti.`
+`"............Wooow.`
+` ...Güzelim, tırnaklarını kesmenin zamanı gelmedi mi?"`
+`"Lucifer.`
+` ......Bu benim soylu ismim.`
+` {f:5:Beatrice}-sama'ya hizmet eden onurlu mobilya ve Araf'ın Yedi Kazığı'nın en büyük kız kardeşi."`
+`".........Ben küçük ve rezil kız kardeşlerim gibi değilim.`
+` Eğer gereken saygıyı göstermezsen, pişman olursun."`
+`"...Nasıl pişman olurum?`
+` Hiçbir fikrim yok."`
+`".........Heheheheheh.`
+` Aptal çocuk.`
+` ...Seninle oynamamı gerçekten bu kadar çok mu istiyorsun?`
+` Beni gerçekten aklından çıkaramıyor musun?"`
+`"Kazığımı sana derin, derin saplayacağım ve oyulmaktan gerçekten zevk almanı sağlayacağım, anladın mı......?`
+` Hehehe{0}he{0}heh{0}heheh{0}he{0}hehehhh......!"`
+`".........Seni şerefsiz.`
+` Bir gün seni yere yatırıp aynı şeyi sana söyleyeceğim."`
+`"Oh, öyle mi?`
+` Bunu dört gözle bekleyeceğim o zaman?`
+` Ehhehe{0}heh{0}heheheh......`
+` ...Ahhahaha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hahaha...!!!"`
+`Rosa eninde sonunda sakinliğini yeniden kazandı.`
+`Erkekler onu daha hızlı konuşması için acele ettirmek istediler fakat Kyrie araya girdi.`
+`...Eğer az önce bahsettiği gibi bir şey gerçekten yaşandıysa, ......bu hatırlamak istemeyeceği berbat bir geçmişti.`
+`Elini göğsünün üzerine koyarak birkaç defa derin nefes alıp verdikten sonra, konuşmak için az çok cesaretini toplayabilmiş gibi görünüyordu...`
+`"......Acaba...o zamanlar kaç yaşındaydım...`
+` ...Muhtemelen...ortaokul, ya da... ...pek hatırlamıyorum.`
+` Her neyse, sanırım yaklaşık o yaşlardaydım..."`
+`"Bunun anlamı... Yaklaşık yirmi yıl öncesi mi?"`
+`"O zamanlar notlarım pek iyi değildi ve Annem bana hep kızardı.`
+` ......Kendi çapımda elimden gelenin en iyisini yapmaya çalışıyordum,`
+` ama Annemin beklentilerini bir türlü karşılayamıyordum..."`
+`"......Annem Rosa'ya karşı her zaman çok katıydı.`
+` O zamanlar ona sempati duyuyordum."`
+`"Hmm.`
+` Her zaman onun arkasından konuştuğun hâlde bunu söyleyebiliyorsun."`
+`"Şunu kes Eva.`
+` Yani?`
+` Rosa-san, {f:5:Beatrice} ile nerede tanıştın?!"`
+`"Hideyoshi-san, onu acele ettirmemelisin.`
+` ......Sorun yok, Rosa-san.`
+` Rahatça anlatabilirsin."`
+`".........Teşekkür ederim.`
+` ...Annem tarafından çok sert bir şekilde azarlandığım bir gündü."`
+`Öğretmenim bunu bir sır olarak tutacağına söz vermiş olsa da,`
+` ...görünüşe göre Anneme benim nasıl şikayette bulunduğumla ilgili her şeyi anlatmışlar.`
+`Annem beni korkunç bir şekilde azarladı ve Ushiromiya ailesinin yüz karası olduğumu söyledi.`
+`......Tabii ki elimden gelenin en iyisini yapıyordum.`
+`Ama Krauss nii-san'ın asaletine sahip değildim,`
+` Eva nee-san gibi mükemmel notlar alamıyordum,`
+` ve Rudolf nii-san gibi liderlik yeteneğim yoktu.`
+`...Hiçbir zaman göze çarpmadım, özel olarak başarılı olduğum bir şey yoktu,`
+` ve kendime neredeyse neden Ushiromiya ailesinde doğduğumu sormak istiyordum.`
+`Neden doğduğumu bilmiyordum.`
+`{n}...O gün ilk kez zihnimin karardığı bir deneyim yaşadım......`
+`Doğduğumdan beri ilk kez,`
+` ...sorunlarımla yüzleşmek ya da onlara boyun eğmenin yanı sıra,`
+` kaçmak gibi üçüncü bir seçeneğim olduğunu fark ettim.`
+`Her ne kadar kaçmak desem de Rokkenjima'yı terk edip başka bir yere gitmem mümkün değildi.`
+`Ama yine de malikâneden ve o anki hâlimden kaçmak istiyordum.`
+`......Bir bakıma evden kaçmak gibiydi, ya da belki de gönülsüz bir intihar...`
+`"......Ortadan kaybolmak istedim.`
+` Ya da belki de ortadan kaybolarak ailemi endişelendirmeye çalıştığım çocuksu bir direniş biçimiydi..."`
+`".........Çocukça bir düşünceyle eğer ormanın derinliklerine gidersem Ushiromiya evinden kurtulabileceğimi,`
+` ya da kaybolup onları endişelendirerek onlardan intikam alabileceğimi düşündüm."`
+`"Sonra da, ......sana girmemen söylenen ormana mı gittin?"`
+`"......Evet.`
+` Sahile ulaştıktan sonra deniz kıyısını takip ettim.`
+` ......Özel bir nedenim yoktu,`
+` ......ama adanın diğer tarafına geçersem, orada kimsenin bilmediği bir yer olabileceğini,`
+` ve sadece benim için gizli bir ev hâline gelebileceğini hissettim."`
+`"Sahilden başlayarak tüm çevreyi dolaşmak imkânsız olurdu.`
+` Bir yerden sonra kayalıklar başlıyor, değil mi?`
+` Oralardan geçmenin imkânı yok."`
+`"...Tabii ki.`
+` Bu yüzden gidebildiğim her yere gitmeye ve daha da derinlere gitmeye devam ettim.`
+` ......Hiçbir patikası bulunmayan korkunç bir ormandı ama o zamanlar bu benim için rahatlatıcıydı.`
+` ...Böylesine tehlikeli bir ormandan geçmeyi başarabilirsem, Ushiromiya ailesinden çok daha iyi bir şekilde kaçmış olacaktım,`
+` ...bu da kendimi iyi hissetmemi sağladı."`
+`".........Ne kadar utanç verici.`
+` Eğer notların yüzünden azarlandıysan, tek yapman gereken daha çok çalışmaktı."`
+`"Böyle konuşmamalısın.`
+` Bunun yerine Rosa'nın bir tasarımcı olarak yeteneği yok mu?"`
+`Bu tam anlamıyla Rosa'yı kolladığı şeklinde algılanabilir,`
+` ama herkes Rosa'nın şirketinin kâr etmediğini biliyordu.`
+`"Kesin şunu.`
+` Kinaye yapmanın sırası değil.`
+` ......Ve sonra da tesadüfen oraya mı vardın...?`
+` ...{f:5:Beatrice}'in...`
+`gizli köşküne."`
+`Rosa hafifçe başını salladı......`
+`"Yaklaşık ne kadar yürüdün?`
+` Bize bir harita üzerinde gösterebilir misin...?`
+` Natsuhi-san, bu adanın bir haritası var mı?"`
+`"Hayır, şu anda burada yok."`
+`"Bu imkânsız olurdu.`
+` Sadece rastgele yürüyordum.`
+` Bana bir harita gösterseniz bile bilemem.`
+` ......Ve o zamandan beri yirmi yıl geçti.`
+` Ormana girsem bile muhtemelen bir daha oraya ulaşamam..."`
+`".........Hmmmmmm..."`
+`Birkaç kişi çaresiz bir şekilde iç çekti.`
+`Acele ettikleri için,`
+` cadının kitabesiyle ilgili bir ipucunun, hatta belki de altının kendisinin o gizli köşkte saklı olabileceğini düşündükleri çok açıktı.`
+`"Rokkenjima'nın imara hazır hâle getirilen tek bölümü malikânenin etrafındaki alandır.`
+` ...Geri kalanı tamamen el değmemiş durumda ve adanın tamamını araştırmak muhtemelen çok fazla çalışma gerektirecektir."`
+`"Ama aslında gerçekten var olduğunu bilmek bile faydalı.`
+` Bunun için biraz para gerekebilir, ancak bir hava fotoğrafçılığı şirketinden araştırma yapmasını istersek,`
+` ya da bu köşkü inşa eden müteahhitlere o dönemde neler olduğunu sorarsak,`
+` muhtemelen onu bulmanın bir yolunu keşfedebiliriz."`
+`"Evet.`
+` ...Artık var olup olmadığına dair bir şüphe olmadığına göre bunu başarmanın başka yolları da olmalı."`
+`"......Mmhm.`
+` Muhtemelen bir an önce araştırılmaya değer."`
+`"Bu araştırmayı kardeşler olarak birlikte yapacağız.`
+` Nii-san, bunu tek başına yapmana izin vermeyeceğiz."`
+`Altının o gizli köşkte saklı olduğu kesin değildi,`
+` ama Krauss ve Eva arasındaki ateşli çatışmalar çoktan başlamış gibi görünüyordu.`
+`"Siz ikiniz, şimdilik şunu bırakın.`
+` ...Rosa, lütfen devam et."`
+`"..................Evet."`
+`Körü körüne, rastgele, koşmaya devam ettim ve ettim.`
+`Birdenbire sanki bir hayvanın izine rastlamışım gibi hissettim.`
+`Ne kadar yürüdüğüm hakkında hiçbir fikrim yoktu ve çok yorgundum,`
+` bu yüzden o sırada doğal olarak yürümek için en kolay yolu seçiyordum.`
+`Yürüdüğüm sırada birden, .........gözlerimin önünde çok ama çok uzun bir çit belirdi.`
+`Bu, gotik tarzda harika bir şekilde süslenmiş bir çitti.`
+`Bir an için, orijinal malikâneye dönmüş olabileceğimi düşünerek kendi etrafımda döndüm.`
+`Elbette ormana girmemizi engellemek için malikânenin etrafında çitler vardı.`
+` Ancak bu çit farklı bir şekilde dekore edilmişti, ......ve en önemlisi de çok yüksekti.`
+`Muhtemelen tam iki kat yüksekliğindeydi.`
+`Sarmaşıklarla kaplıydı ve gizemli, ciddi bir atmosfer yaratıyordu...`
+`O zamanlar, ......ormanın cadısı {f:5:Beatrice} efsanesine inanıyordum.`
+`Bana onun korkutucu olduğu söylenmişti,`
+` ama bazı hizmetkârlar, ona saygı duyarsanız zaman zaman size yardımcı olabileceğini söylerlerdi.`
+`......Hayatımın gidişatı konusunda güvenimi kaybetmeye başladığım için,`
+` kurtuluşumun tek yolunun onun yardımını almak olduğuna inandım.`
+`Bu yüzden böyle düşündüm.`
+` ......Bunun ormanın cadısı {f:5:Beatrice}'in köşkünün çitleri olduğuna inandım.`
+`Eğer {f:5:Beatrice} ile karşılaşırsam, beni kesinlikle kurtaracağını düşündüm.`
+`Bu yüzden içeri girmeyi deneyebileceğimi düşündüm.`
+`Ama çit çok ama çok yüksekti ve üstünden geçebileceğimi sanmıyordum.`
+`Ben de etrafından dolaşmaya karar verdim.`
+`{n}Böyle yaparsam sonunda bir kapıya ulaşacağımı düşündüm.`
+`Ama o kadar kolay değildi.`
+` Çitin uzunluğu yüksekliğine uyuyordu ve ne kadar ilerlersem ilerleyeyim bir köşeye ulaşamıyordum.`
+`Çok büyük bir alanı çevreliyor olabilirdi,`
+` ...ya da belki de çocuk bacaklarım ormanda yürümemi zorlaştırdığı için öyle hissettiriyordu.`
+`Her neyse, bir süre boyunca bir kapı bulamadığım için,`
+` sanki cadı beni reddetmiş gibi hissetmeye ve üzülmeye başladım...`
+`Bu şekilde ilerlerken, nihayetinde kökü çitleri yamultmuş büyük bir ağaca rastladım.`
+`Elbiselerim kirlenebilirdi ama sürünerek gizlice içeri girebilirim gibi görünüyordu...`
+`".........Ve gizli köşk orada mıydı?"`
+`"Bahsettiğimiz gizli köşk müydü, değil miydi emin değilim...`
+` Yine de, en azından, bizim bildiğimiz bir yer değildi."`
+`Çitleri aşar aşmaz bir bahçeye çıkmadım.`
+`{n}Sonrasında daha da sık bir ormandan geçerek devam etmek zorunda kaldım.`
+`Ve sonra......orman aniden bitiverdi.`
+` Ve orada beliren şey inanılmaz derecede...`
+`.........fantastik bir manzaraydı.`
+`Bizden başka kimsenin yaşamadığına inandığım Rokkenjima'nın,`
+` ...böylesine muhteşem bir köşkü sakladığını düşünmek...`
+`Güzel bir çiçek bahçesi köşkün ön tarafını kaplıyordu.`
+`{n}Bildiğimiz gül bahçesinden tamamen farklı bir tasarıma sahip bir çiçek bahçesiydi ve çok hoştu.`
+`Tabii ki, köşk de muhteşemdi.`
+`...Bizimkinden bir ya da iki kat daha küçüktü,`
+` ama çok zarif ve bir o kadar da sevimli bir köşktü.`
+`Ardından, ...............onu gördüm.`
+`{n}Onu, çiçek bahçesini görebilecek şekilde konumlandırılmış bir bahçe sandalyesinde oturmuş, şık bir elbise giyerken gördüm.`
+`Bu, daha sonra o portreden hatırlayacağımız altın işlemeli siyah elbiseydi.`
+`......Peri masalları ve müzikal sahneleri dışında böyle zarif bir elbise görmemiştim.`
+`...Bir insanın bunu normal kıyafeti olarak giyiyor olması... Bu başlı başına oldukça fantastik görünüyordu.`
+`O büyülü manzara gerçeklik duygumu kaybetmeme yetmişti.`
+`Eğer biri bana bunun bir rüya olduğunu söyleseydi,`
+` itaatkâr bir şekilde başımı sallayabilir ve yatağımda uyanmayı bekleyebilirdim...`
+`Yaşadığım şok nedeniyle kendimi saklamayı unuttuğum için sonunda beni fark etti.`
+`İlk başta ifadesi oldukça durgundu,`
+` ama beni fark ettiğinde gözleri kocaman açıldı.`
+`...Bu çok doğaldı—tanımadığı bir misafir aniden çıkagelmişti.`
+`Otomatik olarak başımı eğdim, onu selamlamam ve içeri izinsiz girdiğim için özür dilemem gerektiğini hissettim...`
+`"............Sen de kimsin?`
+` Yeni bir bahçıvan mı?"`
+`Bana söylediği ilk sözler bunlardı.`
+`{n}...Bu beni biraz sakinleştirdi.`
+`{n}Çünkü onunla konuşulabileceğini anladım.`
+`Çünkü o peri masalındaki korkunç cadı gibi, sadece onunla göz göze gelmekle bir kurbağaya dönüşmemiştim.`
+`"......Ben,`
+` ......ben üzgünüm.`
+` ...Bahçeye izin almadan girmemeliydim..."`
+`"........................`
+` ......Sen de kimsin?`
+` Adını söyle."`
+`"Ben, ...ben Ushiromiya Rosa."`
+`"......Ushiromiya.`
+` .....................Hoh.`
+` ...Demek Kinzo'nun ailesinden birisin."`
+`"Heh?`
+` Ah, ...evet!`
+` Ben Kinzo'nun kızıyım.`
+` İ-İyi öğlenler...!"`
+`Sadece biraz şaşırmıştım.`
+`{n}...Ne de olsa Babam herkes tarafından korkulan büyük bir adamdı.`
+`Ve o, ona saygı ifadeleri kullanmadan hitap etmişti.`
+`{n}Bu yüzden hızla korkutucu olmaya başladı.`
+`...Sonuçta,`
+` korkutucu Babamdan bu şekilde bahsedebildiğine göre, inanılmaz güce sahip bir cadı olmalıydı.`
+`Bana merakla baktıktan sonra yanına gelmem için işaret etti.`
+`Korkmuş olsam da itaat ettim.`
+`{n}......Sonuçta, gerçekten bir kurbağaya dönüştürülebileceğimi düşünmüştüm.`
+`...Ve ben yaklaştıkça bu korku daha da şiddetlendi.`
+`Sonuçta, ...daha önce birkaç kez söyledim ama,`
+` ............bu kadın ve elbisesi, çiçek bahçesi ve köşk,`
+` ......tüm bu uyum o kadar fantastik ve güzellik doluydu ki gerçeklikten kopmuş gibi görünüyordu.`
+`Gerçekten bir cadı olsaydı bile bu beni kesinlikle şaşırtmazdı...`
+`Ve ben gerçekten şanslıydım.`
+`{n}Beni bir kurbağaya dönüştürmedi.`
+`Ben orada tuhaf bir şekilde kıpırdamadan dururken, eliyle boş bir sandalyeyi işaret etti ve oturmamı istedi.`
+`"Otur.`
+` Bu bahçeyi ilk kez ziyaret edenleri ağırlamak ve onlarla konuşmak benim tek zevkim.`
+` .........Bununla birlikte, zevk alabileceğim başka bir şey de yok."`
+`Bunu söylerken, bir an için mutsuz bir gülümseme takındı.`
+`Garip bir gerginlik ve heyecan karışımıyla dolu olduğum için, ona aniden kabaca bir soru sordum.`
+`"...Şey,`
+` ............sen ormanın cadısı,`
+` ...{f:5:Beatrice} misin......?"`
+`"Kesinlikle.`
+` Ben {f:5:Beatrice}'im."`
+`"Düşündüğüm gibi.`
+` {f:5:Beatrice} gerçekten varmış..."`
+`"...Tıpkı portredeki gibi mi görünüyordu?"`
+`"......Evet.`
+` Tam olarak portredeki gibi."`
+`"Yani o sadece...`
+`...Babamın hayalindeki bir cadı değildi..."`
+`"Peki onunla ne hakkında konuştunuz?"`
+`"...Çay ikram ederken bana kendimle ilgili çeşitli sorular sordu.`
+` ......İlk olarak, ormandan geçip gelmeme şaşırdı.`
+` Görünüşe göre çitlerin dışında birçok tehlikeli kurdun yaşadığına inanıyordu."`
+`"...Bu nedenle ona ormanın içinden geçerek buraya ulaştığımı söylediğimde çok şaşırdı.`
+` Kurtlardan kaçmayı nasıl başardığımı sordu—onlara bisküvi verdim de gitmeme izin mi verdiler?`
+` Yoksa kendimi büyülü bir pelerinle mi gizledim, ya da...`
+` Sanırım bu tür şeyler."`
+`"Wahahaha.`
+` ...Bu kesinlikle bir cadıya benziyor.`
+` Ne ilginç bir insan."`
+`"Hayatım, sessiz ol.`
+` ............Bu uzun zaman önceydi,`
+` ama Babam bizi ormanda kurtların yaşadığını, bu yüzden oraya yaklaşmamamız gerektiğini söyleyerek korkutmamış mıydı?"`
+`"Evet, öyle bir zaman vardı.`
+` Çok saçma.`
+` Japon kurtlarının soyu uzun zaman önce tükenmiş olsa bile.`
+` Ne çocukça bir numara."`
+`"Ben hatırlamıyorum...?`
+` Babam bize gerçekten böyle bir şey söyledi mi...?`
+` Ormanın cadısı değil miydi?`
+` Kurtlar hakkında bir şey duyduğumu hiç hatırlamıyorum."`
+`"Sen hâlâ ilkokuldaydın.`
+` Hatırlamıyor musun?"`
+`"Hatta gidip kurtları sevmek istediğini bile söyledin.`
+` Babam da bu yüzden hemen kurt hikâyesinden vazgeçti ve onu cadı hikâyesiyle değiştirdi.`
+` Ne bariz yalanlar ama, ahahahahaha."`
+`"Hahahaha.`
+` Rudolf, o zamanlar cadı hikâyesi senin üzerinde kurtlardan çok daha büyük bir etki yaratmıştı.`
+` Çok iyi hatırlıyorum.`
+` Sırtıma yapıştığın o geceleri hatırlamıyor musun?"`
+`"...*giggle*.`
+` Rudolf-san'ın bile böyle sevimli bir dönemi varmış demek."`
+`"Kapa çeneni.`
+` Sadece bir çocuktum."`
+`"......Her neyse.`
+` Eğer {f:5:Beatrice}'i oraya kapatan kişi Babamsa, aynı kurt hikâyesini kullanması da gayet mantıklı.`
+` Ona göre, Rokkenjima'nın uçsuz bucaksız ormanı aşılmaması gereken bir duvardı,`
+` ve Ushiromiya ailesi ile metresinin köşkü gibi iki zıt dünyayı birbirinden ayırıyordu."`
+`"Çitin yüksekliğini düşünecek olursanız, Babamın bahçesiyle birlikte tüm araziyi dev bir hapishaneye çevirdiğini görürsünüz.`
+` ......Tıpkı iki ayrı dünyasını birbirinden ayıran bir ülke sınırı gibi."`
+`"...Kurtları bir kenara bırakın, o sırada bölgede başıboş köpekler var mıydı?`
+` Onlardan korunmak için bir çit olabilir."`
+`"Rokkenjima'da kurt ya da başıboş köpek yok.`
+` Tıpkı Nii-san ve Kyrie-san'ın söylediği gibi,`
+` o çitler muhtemelen bizimle {f:5:Beatrice} arasında bir sınırdı."`
+`"Ancak, kurtlarla ilgili hikâyeye masumca inanmışsa, bu oldukça...safça.`
+` Bu benim hayal gücümdeki cadıya hiç benzemiyor."`
+`"......Evet.`
+` Bunu ben de hissettim.`
+` ...Tıpkı benim kafamdaki cadı imajı gibi çok görkemliydi,`
+` ...ama bir şekilde çok çocuksuydu ve...`
+`...nasıl desem, fazla mı dürüsttü?`
+` ......Bana dünya hakkında hiçbir şey bilmediği izlenimini vermişti."`
+`"Bunu tarif etmem gerekirse, ...sanki bir masal diyarından gelmiş gibiydi.`
+` ......Gerçekten gizemli bir insandı."`
+`"......Ondan sonra ne oldu?`
+` ...Babam hakkında hiç konuştunuz mu?"`
+`"Evet.`
+` Birkaç günde bir, bazen önceden kararlaştırılmış bir günde, bazen de aniden,`
+` Babamın gelişigüzel ortaya çıktığını ve birlikte çay içtiklerini ya da yürüyüşe çıktıklarını söyledi.`
+` Ve tesadüfe bakın ki, ziyaret ettiğim gün yalnız başınaydı."`
+`"Anlıyorum.`
+` Gerçekten bir metres o zaman.`
+` ...Amanın.`
+` Onun ne kadar genç olduğunu bilmiyorum ama.... hiç fena değil Baba."`
+`"......Bunun uygunsuz bir ilişki olmadığına olan inancım tam."`
+`"Tanrım, sen bir aptalsın. Bir kadınla bir erkeğin buluşmasının {i:biraz} şehvet içermemesine imkân yok.`
+` Sonra ne oldu?`
+` Ondan sonra ne konuştunuz?"`
+`".........Kendimi tanıttıktan sonra ona kendini sordum."`
+`"...Sorduğumda ise, ortam hızla iç karartıcı bir hâl aldı.`
+` ......Nasıl desem, çok durgun ve yalnız görünüyordu.`
+` ...Yüzünde onu ilk kez gördüğüm ifadenin aynısı vardı."`
+`"Yani, çünkü onun gizli metresiydi.`
+` Eğer istediği gibi etrafta dolaşsaydı, Annem onu yakalayabilirdi.`
+` ......Eminim durum neredeyse ev hapsi gibidir."`
+`"Güzel kıyafetleri, güzel bir köşkü ve bahçesi olmasına rağmen kendini çok kısıtlanmış hissetmiş olmalı.`
+` Zorlanmasına şaşırmamak gerek.`
+` .........Ya sonra?"`
+`"Kesinlikle bir şey için endişeleniyordu.`
+` ......Bunun sadece onunla konuşarak çözebileceğim bir şey olmadığı izlenimine kapıldığımı,`
+` ve bu konuda çok üzgün hissettiğimi hatırlıyorum."`
+`".........Benim orada olduğumu bile unutmuş gibiydi.`
+` ...Bakışlarını uzaklara çevirdi ve uzun, çok uzun bir süre sessiz kaldı."`
+`"...Yanlış bir şey söylemiş olmalıyım diye düşündüm,`
+` ......ama özür dileyebileceğim bir atmosfer yok gibiydi...`
+` ......Bu nedenle ben de uzun, çok uzun bir süre sessiz kaldım, ta ki o benim orada olduğumu tekrar hatırlayana kadar..."`
+`Hatırladığında, ......birdenbire mırıldandı.`
+`".........Çitlerin ötesinde gerçekten hiç kurt yok mu?"`
+`"...Hmm?`
+` E-Evet.`
+` Kurtları hayvanat bahçesinde bile görmedim."`
+`"Bu "hayvanat bahçesi" de ne?"`
+`"Ah, ...her türden hayvanı barındırdıkları bir yer.`
+` Filler, zürafalar ve pandalar gibi nadir hayvanlarla dolu."`
+`"..............................`
+` ...Hayvanat bahçesinde hiç kurt yok mu?`
+` O zaman, şey, ...o kadar da korkutucu olmayabilir."`
+`"Kurtlar olsaydı bile, tüm hayvanlar kafeslere konuluyor, bu nedenle güvenli.`
+` Bu sayede onlara güvenle bakabilir ve onlar hakkında bilgi edinebilirsin."`
+`Ormanın cadısı, nedense kurtlardan korkuyor ve onları sevmiyordu.`
+`Oldukça komik göründüğünü hatırlıyorum.`
+`"..................`
+` ...Bunun benden ne farkı var?"`
+`"............Heh?"`
+`Hayvanat bahçelerinden bile haberi yoktu.`
+`Hayvanat bahçelerinin ne kadar eğlenceli olabileceğini anlattım,`
+` ama onun gibi hiç hayvanat bahçesine gitmemiş birine bunu anlatmak çok zordu...`
+`Aksine, ben ona anlattıkça yüz ifadesi giderek daha da iç karartıcı bir hâl aldı.`
+`...Aradaki farkı göremiyordu.`
+`Etrafı yüksek çitlerle çevrili bu köşk, bir bakışta ona tamamen konforlu bir yaşam sunuyormuş gibi görünse de,`
+` kafeslere kapatılmış hayvanlardan ne farkı olduğunu anlayamıyordu...`
+`"Ben kimim?`
+` ......Herkes bana {f:5:Beatrice} diyor.`
+` ...Ve gerçekten de dediğin gibi bu büyük bir cadının adı gibi görünüyor."`
+`"......Ama o ben değilim.`
+` Ben büyü kullanamam.`
+` ......Ben sadece o cadının ruhunu bedenimde taşıyorum."`
+`"..................?"`
+`Onda kesinlikle gizemli bir şeyler vardı.`
+` Bu yalnızca dünyayla bir şekilde uyumsuz olmasından ibaret değildi,`
+` aynı zamanda büyü denen şeyin gerçekten var olduğuna inanıyor gibiydi.`
+`Sanırım çeşitli tuhaf şeylerden bahsetmişti ama detayları hatırlamıyorum.`
+`Tek düşündüğüm...`
+` ......onun acınacak bir insan olduğuydu.`
+`Farkında bile olmadan tutsağı olduğu bu köşkten kendi iradesiyle ayrılamıyordu.`
+`......Ve dış dünya hakkında hiçbir şey bilmiyor, kim olduğunu bile anlamıyordu.`
+`......Muhtemelen acınacak hâlde olduğunu kendisi de az çok anlıyordu.`
+`Ama hiçbir şey bilmediği için bunun mutsuzluk demek olduğunu fark edememiş gibi görünüyordu.`
+`Nee-san, uzun zaman önce sana kafesteki bir kuş için üzüldüğümü söylediğimde bana şöyle dediğini hatırlıyorum.`
+`"Sadece kafesin içini bilen bir kuş, dışarıyı özleyemez".`
+`Ama o bir kuş değildi.`
+`{n}O, sonuçta bir insandı.`
+`Kafesin dışına hiç çıkmamış olsa bile, kafesin tüm dünya olmadığını anlıyordu.`
+`Bu yüzden,`
+` .........ben de ona teklif ettim.`
+`"Çitlerin dışına çıkmayı...`
+`...denemek ister misin?"`
+`".........G-Gerçekten hiç kurt yok mu?"`
+`"Yok.`
+` Kesinlikle güvende olacaksın."`
+`"..............................`
+` ......Çıkmak istiyorum.`
+` Ama kapı hep kapalı."`
+`"İçeri girdiğim bir yer var.`
+` Arasından geçebileceğin bir delik var."`
+`"......Oradan geçersek, dış dünyaya mı çıkacağız?"`
+`"Evet."`
+`"........................Kurtlar gerçekten yok mu?"`
+`"*giggle*.`
+` Evet, hiç yok."`
+`".............................."`
+`Onu sadece kısa bir gezintiye çıkarmayı planlamıştım,`
+` ...ama o sanki bir şeyi ciddi ciddi düşünüyormuş gibi omzunun üzerinden köşke bakmaya devam etti.`
+`Sonra kendini neye hazırladığını öğrendim.`
+`"...............Ben...bu yerden bıktım.`
+` ......Dışarı...çıkmak istiyorum.`
+` Ve kim olduğumu...bu dünyada neler olduğunu,`
+` ...ve hangi amaçla doğduğumu bilmek istiyorum."`
+`O zamana kadar yaşantısının nasıl olduğunu bilmiyordum.`
+`Muhtemelen kolayca ifade edemediği bir şeydi.`
+`Eğer acı verici olsaydı, sadece kaçmak istediğini söylerdi.`
+`{n}Eğer hoş olsaydı, sadece kalacağını söylemesi gerekirdi.`
+`Bir şeye benzetecek olursak,`
+` belki de bir kış günü yanan şöminenin havayı gittikçe yoğunlaştırıp baş ağrısı yapmasına benziyordu...?`
+`Her ne kadar her şeyi bu şekilde sürdürmemen gerektiğini bilsen de, yine de pencereyi açıp soğuk rüzgârın pençesine düşebilmek için cesarete ihtiyacın var...`
+`Sonsuza kadar orada kalamayacağını anlamaya başlamıştı.`
+`Bir gün dışarı çıkması gerektiğini anlamaya başlamıştı.`
+`Ama dış dünya hakkında hiçbir şey bilmediği için,`
+` dışarıya ilk adımı atmak akıl almaz bir cesaret gerektirmiş olmalıydı...`
+`Ve o da bunu göz önünde bulundurmuş ve kararını vermişti.`
+`Hayatında ilk defa dışarı çıkma konusundaki kararlılığını kelimelere dökmüştü.`
+`...Bir an tereddüt ettim.`
+`{n}Onun burada yaşamasına Babam karar vermişti.`
+`{n}Sanki Babamın kafesindeki çok sevdiği bir kuş gibiydi.`
+`Eğer onun kaçmasına izin verseydim,`
+` ......Babamdan sert bir azar işitmez miydim...?`
+`"Görmek istiyorum."`
+`".........Hm?`
+` Neyi?"`
+`"Bir hayvanat bahçesi...görmek istiyorum."`
+`".....................ah."`
+`Sonunda bana çok masum bir gülümseme gösterdiğinde biraz şaşırdım.`
+`Bu belki de...`
+`kafesinden dışarı çıkmaya yeni yeni hazır olmasından kaynaklanan bir içsel huzurdu.`
+`O kasvetli yüzünden gelebileceğini hayal dahi edemeyeceğim yumuşak bir gülümseme...`
+`"......Seninle konuştuğumda, bilmediğim şeyler duymaya devam ediyorum.`
+` ...Ne okul denen şeyi ne de hayvanat bahçelerini biliyorum.`
+` Sinema salonlarını bilmiyorum.`
+` Lunaparkları bilmiyorum."`
+`".........Ve sanırım, tüm kalbimle, bunları bilmek istiyorum.`
+` ...Beni onları görmeye götürür müsün?"`
+`"Ha? ......O-Olur."`
+`...Bunu nasıl yapacağım ve Babamdan nasıl saklayacağım konusunda tedirgindim,`
+` ...ama yüzü çok mutlu görünüyordu, bu nedenle başımı sallayarak ona uydum.`
+`Ancak görünen o ki, belirsiz ifadelerimin ardındaki gerçek duygular ona ulaşmamıştı.`
+`Eğer buradan ayrılırsak onu gerçekten o yerlere götüreceğime inanmış gibiydi.`
+`O, saf ve içten biriydi.`
+` ......Muhtemelen hiç kimse tarafından kandırılmamıştı.`
+` Hayır, ......belki de şüphe etmeyi hiç öğrenemediğini söylemek daha doğru olurdu.`
+`Yüzü biraz ışıltılı ama yine de acınasıydı.`
+`{n}...Onun bu mütevazı dileğini bir şekilde yerine getirmek istedim.`
+`"Ben...{f:5:Beatrice}'ten bıktım artık.`
+` Ben kim olduğumu bilmek istiyorum.`
+` {f:5:Beatrice} olarak değil, yeni bir insan olarak başlamak istiyorum."`
+`"Bu yüzden beni buradan götürmeni istiyorum.`
+` .........Artık çaya ihtiyacım yok.`
+` Bu elbiseye ihtiyacım yok.`
+` Kinzo ile bir daha görüşmeyeceğim.`
+` ......Lütfen, beni buradan götür.`
+` Rosa."`
+`Fakat, bu sorumluluk benim gibi bir çocuğun tam olarak kaldıramayacağı bir sorumluluktu.`
+`Ama onun ciddi bakışları,`
+` ...ve sanki üzerinden şeytani bir ruh kalkmış gibi duran parlak gülümsemesi,`
+` ......içimde küçük bir cesaretin yükselmeye başladığını hissetmeme neden oldu.`
+`Bu kesinlikle başımı çok büyük belaya sokacak bir şeydi.`
+`{n}......Ama kesinlikle yapılacak en doğru şeydi.`
+`Nasıl sonuçlanacağını bilmiyorum, ama......`
+` ......onu dışarı çıkaracağım.`
+`Elbette ne Babamdan ne de Annemden yardım isteyemeyeceğim.`
+`.........Onii-sama ya da Onee-sama ile konuşmalı mıyım?`
+`{n}Hayır, peki ya o güvenilir Genji-san, ya da...`
+`doğru ya, başım sıkıştığında her zaman konuşabildiğim Kumasawa-san peki?`
+`Eminim bir şeyler yapabilirler.`
+`Her neyse, şimdilik onu buradan götüreceğim.`
+`{n}Çünkü burası artık onun bulunmak istediği bir yer değil.`
+`......Ve böylece, onu çitlerdeki boşluğa götürdüm ve dışarı çıkardım.`
+`Çok gergindi, etrafta kurt olmadığından emin olmak için etrafı kontrol ediyordu,`
+` ama korkusu geçtikten sonra,`
+` bu yoğun ormanda dolaşırken bile bir şekilde eğleniyor gibiydi.`
+`Ne zaman bir şey bulsa bana soruyordu.`
+`{n}Ve hepsi gerçekten önemsiz, basit şeylerdi.`
+`......Bu çiçek ne?`
+` Şu yaprak ne?`
+` Bu ses?`
+` Bu koku?`
+`Gerçekten de...o çitlerin içi onun tüm dünyası gibiydi.`
+`Yani, dünyadan {i:dışarı} adım atmış olan onun için bu.........`
+`......Anlarsınız, çok enteresandı.`
+`Başlangıçta, onu ilk gördüğümde, onun bir cadı köşkünde istirahat eden bir cadının kusursuz bir reenkarnasyonu olduğunu düşünmüştüm.`
+`Ama şimdi durum farklıydı.`
+` Ya da aslında, tam tersiydi.`
+`......Sınırlı olduğuna inandığı bir dünyanın dışına çıkmıştı ve ilk kez dünyanın sonsuz olduğunu fark etmenin sevinciyle doluydu.`
+`Yani gördüğü her şey yeniydi.`
+`{n}......Adeta bir peri masalının içine fırlatılmış gibiydi.`
+`Eğer o Alice gibiyse, ben de kendimi elinde saat tutan tavşan gibi hissediyordum......`
+`Ona göre, bu muhtemelen heyecan dolu, gerçekten eğlenceli bir yürüyüştü.`
+` ...Ama bana gelince, gerçek şu ki, tamamen şaşkınlık içindeydim.`
+`......Ne de olsa buraya rastgele yürüyerek gelmiştim.`
+`{n}Yani malikâneye giden yolu bilmemin imkânı yoktu.`
+`Ormanda hiç ışık yoktu ve yanımda el feneri de getirmemiştim.`
+`{n}Biz bu hâldeyken havanın kararmasının çok korkunç bir şey olacağını fark ettim ve sabrımı yitirmeye başladım.`
+`O çok masumdu,`
+` ve belli ki ormanın içinde geceyle yüzleşmenin ne kadar korkutucu olacağını hiç kavrayamıyordu.`
+`Ama onu dışarı çıkaran bendim.`
+`{n}...Bir şekilde sorumluluk almalı ve bu durumu çözmeliydim.`
+`Ben de şöyle düşündüm.`
+` ......Şimdilik sadece denize doğru gitmeliyiz.`
+`{n}Daha sonra sahili takip edersek, eninde sonunda malikâneye varabiliriz.`
+`Ancak bu düşündüğümden çok daha büyük bir sorundu.`
+`{n}...Ne de olsa elimde bir harita ya da pusula yoktu.`
+`Balta girmemiş bir ormanda düz bir doğrultuda ilerleyebilmenin imkânı yoktu ve yön duygumu hemen kaybetmiştim.`
+`Hangi patikadan geldiğime dair zaten hiçbir fikrim yoktu ve tümüyle kaybolmuştum...`
+`Bu gidişle nereye yürüdüğümü bile anlayamadan gece çökecekti.`
+`Ama şikayet etme lüksüm yoktu.`
+`Çünkü arkamdan gelen o kadın çok masumdu ve çok eğleniyordu.`
+` ...Bu nedenle, hiç değilse gülümsemesinin hatrına,`
+` ona bu ormandan çıkması için kesinlikle rehberlik etmeliydim.`
+`Ona endişeli bir yüz ifadesi göstermemek için dişlerimi sıkarak,`
+` patikası olmayan ormanda ilerlemeye devam ettim.`
+`Ve çeşitli sıkıntılar yaşamamıza rağmen, denize ulaşacak kadar şanslıydık...`
+`O sırada hâlâ adanın neresinde olduğuma dair en ufak bir fikrim bile yoktu,`
+` ama şimdilik biraz rahatlamıştım ve bu yönde ilerlersem kesinlikle malikâneye dönebileceğimi fark etmiştim.`
+`Tabii her ne kadar denize ulaştığımızı söylesem de kayalık bir tepenin üzerindeydik.`
+` Sahil çok aşağılarımızdaydı.`
+`Ormanda bu kadar uzun süre dolaşmaktan yorulmuştum,`
+` bu nedenle kayalık bir sahil olsa da açık bir alanda yürümenin muhtemelen çok daha kolay olacağını düşündüm.`
+`Bu sebeple bir yol bulup kayalıklardan aşağı inmeyi planladım.`
+`{n}...Oldukça tehlikeli görünüyordu ve başka bir yolu olup olmadığını merak ediyordum.`
+`Ancak, {f:5:Beatrice} hiç tereddüt etmeden planımı kabul etti.`
+`......Muhtemelen benden yaşça büyük olmasına rağmen,`
+` ...neredeyse benim anne bir kuş olduğuma inanan bir tür civcivmiş gibi bana itaat ediyordu.`
+`Kayalıklardan aşağıya doğru inebileceğim bir yer olup olmadığını aramaya başladım.`
+` ...Ardından uçurumun bir yamaca dönüştüğü bir yer keşfettim.`
+`.......Biraz tehlikeli görünüyordu,`
+` ama sürünüyormuş gibi iki elimi ve iki bacağımı kullanarak aşağı inersem muhtemelen sorun olmayacağını düşündüm.`
+`"......Hadi şuradan aşağı inelim.`
+` Dikkatli olmazsak tehlikeli olabilir,`
+` ama şimdilik sahile inip sahil boyunca yürürsek sanırım daha fazla kaybolmaktan kurtulabiliriz."`
+`"Mmhm.`
+` Eğer yapacağın buysa, ben de geleceğim.`
+` Kaybolmak bile benim için eğlenceli.`
+` Çok mutluyum."`
+`.........Gerçekten hiç tehlike duygusu yoktu.`
+`{n}Sıkıntısız bir hayat yaşadığına muhtemelen hiç şüphe yoktu.`
+`Gece çöktüğünde havanın kararacağını bilse de,`
+` bir ormanın içinin ışık olmadan ne kadar tehlikeli olabileceğini hayal bile edemiyordu.`
+`Dahası, kayalıktan düşmesinin ne kadar tehlikeli olabileceğini de kavrayamıyor gibiydi.`
+`Onu dikkatli olması konusunda defalarca uyardım.`
+`Aşağı ineceğimiz yeri dikkatle inceledim.`
+`{n}...Burası......oldukça yüksek görünüyordu.`
+`{n}Sanırım yaklaşık on metre kadar olabilirdi.`
+`Eğer aşağıdan yukarıya doğru baksaydınız, muhtemelen malikâneden daha kısa görünürdü.`
+` Ama tepeden bakınca, Tokyo Kulesi'ndeki gözlem odasından aşağı bakıyormuşsunuz gibi hissediyordunuz.`
+`Ama {f:5:Beatrice} hâlâ tamamen korkusuz görünüyordu.`
+` ...Sanki ona yüksek yerlerin tehlikeli olduğu hiç öğretilmemiş gibiydi.`
+`......Hayır, belki de gerçekten bir cadı olduğuna,`
+` ve uçabildiğine inanıyordu, yani tehlikeli bir durum yoktu.`
+`"Lütfen dikkatli ol.`
+` ...Oldukça...yüksek."`
+`"Mmhm.`
+` Dikkatli olacağım.`
+` Aşağı inersek okyanusa ulaşabiliriz gibi görünüyor.`
+` Orada bir akvaryum var mı?"`
+`"Hayır, bu adada akvaryum yok.`
+` Ama denizde bir sürü balık olduğunu düşünüyorum."`
+`"Anladım.`
+` Demek balık var.`
+` Bahsettiğin gibi, ...şey, balinalar, yunuslar ve penguenler var mı?"`
+`"Hayır, onları görmek için bir akvaryuma gitmen gerekir.`
+` ......Ve bir akvaryuma gitmek için de bu adadan ayrılman gerekir."`
+`"Öyle mi?`
+` ......Ama dört gözle bekliyorum.`
+` Balinalar ne tür balıklar?"`
+`"Şey, ...onlar gerçekten büyük balıklar ve...ha, memeli miydiler?`
+` Ve deniz suyu püskürtüyorlar."`
+`"Hoh.`
+` Peki ya yunuslar?"`
+`"Şey, onlar gerçekten akıllı balıklar ve...{0}heh...{0}onlar da memeli, değil mi?`
+` Gerçekten akıllılar ve onlara bazı numaralar falan öğretilebiliyor."`
+`"Hohhoh.`
+` Peki ya penguenler?"`
+`"Şey, ...heh, onlar kuş muydu...?"`
+`"Neler oluyor?`
+` Akvaryumlarda balıklar olduğunu söylememiş miydin?"`
+`"Şey, uhhh...`
+` Yani, şey, sadece balıklar yok, okyanusta yaşayan her türden şeyle dolu."`
+`"Hohhoh.`
+` Bunu gerçekten dört gözle bekliyorum!`
+` .........nn—"`
+`{a:c:`
+`Wa, hyaa.}`
+`Kimilerine göre...komik,`
+` ...telaşlı ve kısık bir ses çıkardı,`
+` ...hayır, muhtemelen bir çığlıktı, sanırım.`
+`Aniden böyle bir ses çıkardı.`
+`......Bedeni kayalıktan ayrıldı ve yavaşça aşağı düştü.`
+`Hemen ona şunu söylemeyi düşündüm.`
+`{n}"Dikkatli olman için seni kaç defa uyardım!"`
+`......Bu bir çocuğun düşüncesiydi.`
+` Bir çocuk kötü bir şey olduğunda nasıl hemen sinirlenir ve bunun kendi hatası olmadığını göstermek için bir bahane bulmaya çalışırsa öyleydi.`
+`Elbette, ben de sesli şekilde söyledim.`
+`{n}İyi misin?`
+` Seni kaç kez uyardım......`
+`"...............Yani,`
+` ...o uçurumdan düştükten sonra,`
+` ...ne oldu?"`
+`"..........................."`
+`"......Ona ne oldu?`
+` ...Rosa."`
+`Rosa sessizliğe gömüldü.`
+` ...Bakışları ayaklarına kaydı, ...sanki zeminin altından iğrenç bir anıyı görüyormuş gibiydi...`
+`"O...öldü, değil mi......?"`
+`Eva'nın zalim sözleri Rosa'nın en çok kaçınmak istediği sözlerdi.`
+`Ve bu sözlere maruz kaldığında, ......çaresizlik içinde bağırdı.`
+`"Evet, öldü!!`
+` Taşlık bir sahildi, çok sayıda keskin ve tehlikeli kaya açıktaydı!`
+` Gözleri hâlâ açıktı ve inanılmaz miktarda kan dışarı akmaya devam ediyordu, ...kırmızı bir halı gibi görünene dek hızla yayıldı...!"`
+`"Onunla konuştum, onu salladım!!`
+` Ama o cevap vermiyordu, gözünü bile kırpmıyordu, ......hayır, göz kapaklarını bile kapatmıyordu!!"`
+`"Bu benim hatamdı!`
+` O bir elbise giyiyordu, hatırlıyor musunuz?!`
+` Kıyafetinin içinde hareket etmenin ne kadar zor olduğunu bilmeme rağmen, uçurumdan aşağı inmemiz gerektiğini söyledim!!`
+` O inanılmaz derecede masumdu, bu yüzden söylediklerimden hiç şüphe duymadan bana itaat etti...!!"`
+`"......Daha ne kadar ölü kalmayı planlıyorsun?`
+` Artık gözlerini aç.`
+` Gerçekten, ben yokken kendi başına bir et yığınına dönüşüyorsun."`
+`"Sadece şu seksi hatun arkadaşınla flörtleşiyordum.`
+` ......Daha da önemlisi, tüm bunlar da ne?"`
+`"Mmm.`
+` Gördüğün gibi.`
+` ......Ayağım kaydı, düştüm,`
+` {i:ve öldüm}."`
+`"Ne dedin...`
+` .........19. kişi olarak ortaya çıkmana rağmen,`
+` ......öldüğünü mü söylüyorsun......?"`
+`"Benimle kafa bulma, bu olamaz...!`
+` Rosa Teyze bir çocuktu ve panikliyordu.`
+` Doktor falan yoktu.`
+` Muhtemelen senin öldüğünü düşünerek bir hata etti ve sen muhtemelen, şey, ......görünürde ölü gibi duruyordun ama aslında hayattaydın.`
+` Değil mi?!"`
+`Bu olamaz.`
+` Yaşadığı ortada.`
+`{n}Aksi takdirde, burada karşımda olamazdı, değil mi...?!`
+`...Çocuk yaştaki Rosa Teyze ağlayarak {f:5:Beatrice}'in bedenini sallıyordu.`
+`O yüze ben de baktım,`
+` ...............ama gözleri hâlâ açıktı ve gerçekten de ölüydü.`
+`...Görünürde ölü olması gibi bir şeyle geçiştirmek istedim,`
+` ......ama hangi açıdan bakarsam bakayım, hiç de sahte görünmüyordu, ...gerçekten de ölmüş gibi görünüyordu...`
+`{f:5:Beatrice} o yükseklikteki bir kayalıktan baş aşağı düşmüş,`
+` ......ve kafası o keskin kayaların sivri ucuna çarpmıştı.`
+`............Bu yükseklikten,`
+` ......o kayaların üzerine düşersen,`
+` ......ölürsün, değil mi......`
+`Ama ben bunu kabul edemem...`
+`Ne kadar ölü görünürse görünsün, ......yaşıyor olmalı...!`
+` Ve sonra da bu lanet olası sinir bozucu cadıya dönüştü!`
+` Bu şekilde, tüm taşlar yerine oturuyor.`
+`Bunca zamandır Büyükbabam tarafından gizli bir köşkte hapsedilmişti.`
+`Ve sonra intikamını almak için planlar yaptı,`
+` ......ve bir dizi korkunç cinayet işledi!`
+`Rosa Teyze muhtemelen yanılıp onun öldüğünü düşündü.`
+` Ama o aslında yaşıyordu ve Rosa Teyze gider gitmez mucizevi bir şekilde yeniden nefes almaya başladı.`
+`......Ve sonra bir şekilde bugüne kadar hayatta kaldı ve intikam sahnesinin perdesini açtı.`
+`Aksi takdirde, gerçekler birbirine uymuyor!!`
+`"......Beni bu kadar kolay kandırmana izin vermeyeceğim.`
+` Kırmızıyla tekrarlayabilir misin?!`
+` Onun kesinlikle öldüğünü!!`
+` Yaşıyor olmalı, değil mi?!`
+` Bu çok açık!!"`
+`"{i:Bu} sana nasıl {i:hayatta} gibi görünüyor?`
+` {p:1:O kesinlikle öldü}!"`
+`".................................mgghhhh..."`
+`19. kişinin Büyükbaba'nın metresi, yani insan {f:5:Beatrice} olduğuna dair teorim çöktü.`
+`...Defansif pozisyonumdan karşı atağa geçmeyi başardığımı sanmıştım ama......`
+`"......O hâlde, ......sen de kimsin?`
+` Sen az önce öldün, tam şu anda!`
+` Sakın bana kendini büyüyle dirilttiğini falan söyleme!!"`
+`"*cackle*cackle*.`
+` Sanırım bunu zaten açıklamıştım."`
+`"......Orada yatan ben, kuşkusuz ruhumu taşıyor,`
+` ama o beden, beni fiziksel dünyaya bağlayan etten bir kafesten başka bir şey değildi.`
+` Ve bu etten kafes böylece kırıldı.`
+` ......Bunun ne anlama geldiğini anlıyor musun?"`
+`"...............Artık hiçbir fikrim yok.`
+` ......Cadı-kız numaralarınla eğlenmeye devam et.`
+` Kurabiye yemek yerine dinleyeceğim!`
+` Bu da ne... Bu boş.`
+` Hey, biraz daha siyah çay alabilir miyim?"`
+`"*cackle*cackle*!`
+` Ronove.`
+` Misafirimiz siyah çay istiyor."`
+`Beato ellerini çırptığında Ronove ortaya çıktı.`
+`......Uşaklar kesinlikle kullanışlı.`
+`"Doldurayım mı?`
+` Tabii ki.`
+` Ne kadar doldurayım?"`
+`"Yani, yeterince atıştırmalığım var.`
+` Yarım yeterli olur."`
+`"Öyle olsa bile, ağzına kadar doldurmak İngiliz geleneğidir."`
+`Boğazımı ıslatacak kadar doldurması yeterli olsa da, ağzına kadar doldurdu.`
+`Sırtımı Beato'ya döndüm ve sessizce yudumladım...`
+`"Bekle... Gözlerini aç...!!`
+` {f:5:Beatrice}...!!"`
+`Rosa beni salladı,`
+` ............hayır, bir zamanlar ben olan cesedi salladı.`
+`Kısa bir mesafe öteden onu izledim.`
+`Ah, ...yani oradan düştüm ve öldüm.........`
+`Bir süre için, doğru olanın bu olduğuna inandım.`
+` ...Rosa'nın cesedimin yanında uzun bir süre geçirdiğini gördüm, sonra uzaklaşırken onu izledim.`
+`......Nihayetinde, o cesetten bambaşka bir birey olduğumu fark ettim...`
+`".....................Doğru.`
+` Ben......benim.`
+` ...Yani, sonunda Kinzo'nun kısıtlamalarından kaçabildim..."`
+`Zamanla hafızamın geri geldiğini fark ettim...`
+`{n}Bin yıldır yaşayan bir Sonsuz Cadı olduğum gerçeği.`
+`Ve sonra Kinzo tarafından çağrıldığımı ve uzun bir süre boyunca onun tarafından hapsedildiğimi hatırladım...`
+`Etten bir kafese hapsedilmişken, bir cadı olduğuma dair hafızamı tamamen kaybetmiştim.`
+`Ancak Rosa sayesinde, eğer öyle denebilirse...`
+`Kazayla ama talihli ölümüm sayesinde sonunda kendimi bir araya getirebilmiştim......`
+`"......Rosa.`
+` Muhtemelen ölümüme sebep olduğun için pişmanlık hissediyorsundur.`
+` Ama sana teşekkür etmeliyim.`
+` *cackle*cackle*...!"`
+`Rosa artık ortalarda görünmüyordu.`
+` Doktor çağırmaya mı gitmişti, yoksa korkutucu bir hâl alan bu sahneden kaçmış mıydı?`
+`...Bunun artık bir önemi yok.`
+`{n}O ruhsuz bedenin artık hiçbir değeri yok.`
+`Her şey bir yana, ......şu an ne kadar da zayıfım.`
+`{n}Bu görkemli öğle güneşi bile artık bana acı veriyor.`
+`İnsan formumu yok ettim.`
+`{n}Sonra onu çeşitli altın kelebeklere dönüştürdüm.`
+`......Evet, büyü gücüm şu anki kadar zayıfken, bu formda olmak daha kolay.`
+`Ve güneşin ışığından biraz da olsa kaçmak için rüzgâra atlayıp kayalığın üzerinden hafifçe süzüldüm.`
+`Ormanda hava muhtemelen biraz daha serin olacaktır.`
+`Her neyse, iyileşmek ve orijinal gücümü yeniden kazanmak için biraz zamana ihtiyacım var.`
+`......Kinzo'ya bütün yaptıklarını nasıl geri ödeteceğimi düşünüyordum.`
+`Havada tek başıma dans ederken, sahile bir kez daha baktım.`
+`Kayalık sahilde bir zamanlar sahip olduğum, ......ve eninde sonunda geri kazanacağım figür yatıyordu.`
+`Bir kenara attığım o fiziksel bedenin formunu yeniden kazanmak,`
+` ...muhtemelen yüz, iki yüz günden fazla sürecektir.`
+`...Bin gün ya da belki daha da fazla süre bile gerektirebilir.`
+`Ancak, ben Sonsuz Cadı'yım.`
+`{n}Bin yıldır yaşayan Altın Cadı.`
+`{n}Sayılabilir herhangi bir sayıda gün beklemek bir sorun teşkil etmiyor.`
+`*cackle*cackle*. Oh, Kinzo.`
+`{n}Şu anda burada olmadığın için pişman olabilirsin.`
+`{n}Artık beni yakalayamayacaksın.`
+`{n}...*cackle*cackle*!`
+`".........Ve sonra da altın kelebeklere dönüşerek ormanda saklandın ve büyü gücünün geri gelmesini mi bekledin? Bunu mu demek istiyorsun?"`
+`"Evet, doğru.`
+` Bu formu seni aşağılamak için kullanıyorum ama normalde altın kelebekler olarak formumu sürdürmek benim için büyü açısından daha kolay."`
+`"Kendini zorlama ve kolay formunu kullan.`
+` Sinir bozucu kahkahalarını duymasam da olur."`
+`"*cackle*cackle*.`
+` Kelebeklere dönüşüp ormana karıştığımda Kinzo'nun beni bulabilmesi artık mümkün değildi.`
+` ......Ancak Kinzo hiç bir şey yapmadan öylece duracak değildi.`
+` Yine de beni hemen yakalayabilmek için bir plan yapamazdı."`
+`"Böylece, ilk olarak benim bu adadan ayrılmamı,`
+` ve gücümü yeniden kazanmamı engellemek için harekete geçti."`
+`".........Ah, ah. Tek söyleyebileceğim Kinzo'nun azminin hayal gücüne meydan okuduğu.`
+` ...Böyle biri tarafından seviliyor olmak oldukça zor.`
+` *cackle*cackle*!"`
+`"Kelebeklere dönüştükten sonra gitmeni engellemenin bir yolu mu?`
+` Ne yani, tüm ormanın etrafına böcek ağı mı ördü?"`
+`"Aynen öyle.`
+` Büyü ile buna eşdeğer bir şey yaptı.`
+` .........Biliyor musun?`
+` Limanın önündeki denizde, üzerinde küçük bir Doğu büyüsü tapınağı olan bir resif bulunur."`
+`"......Ah, şu.`
+` Gerçi bu yıl gitmişti.`
+` Uzun zaman önce dağcı bir münzevi tarafından inşa edilmiş küçük bir tapınaktı, değil mi?"`
+`"Rokkenjima en başından beri çarpıklıkla sarmalanmış bir ada olmuştur.`
+` Büyülü güce sahip varlıkları ve diğer bağlantılı şeyleri cezbediyordu.`
+` ......Leydimin de onlardan biri olduğunu tahmin ediyorum.`
+` Biraz daha çaya ne dersiniz?"`
+`"*cackle*cackle*, lütfen.`
+` ......İnsanlara zarar verdiler ve muhtemelen arkalarında birkaç ürkütücü efsane bıraktılar."`
+`"Bu küçük tapınak çok eski zamanlarda onlardan haberdar olan Doğulu bir büyücü tarafından inşa edilmiş.`
+` Uzun zaman geçti ve bu güç kayboldu.`
+` Kinzo onu onararak bu adanın bariyerini yeniledi ve beni bir kez daha bu adaya bağladı."`
+`"......Doğu büyüsü senin gibi Batılı bir cadı üzerinde işe yarıyor mu?"`
+`"Normalde, etkisi zayıf olurdu.`
+` Ancak, beni buraya mühürleme amacı için, bir bakıma oldukça elverişli olabilir."`
+`"Batı büyüsü olsaydı, biraz bilgi sahibi olurdum.`
+` Herhangi bir bariyer için alabileceğim bazı önlemler olurdu.`
+` Ama Doğu büyüsü benim uzmanlık alanımın dışında.`
+` Sanki içmeye çalıştığım çorba için bana kaşık yerine yemek çubukları verilmiş gibiydi."`
+`"Doğu büyüsü tarafından güçlü bir şekilde kontrol edilen bir alanda, Batı büyüsü gücünün büyük bir kısmını kaybeder.`
+` Normal şartlar altında bile gücünü yeniden kazanması muhtemelen bin gün alabilirdi,`
+` ama artık çok çok daha uzun zaman alacaktı."`
+`"......Yani gücünü yeniden kazanmanın yirmi yılını aldığını ve şimdi hepimizin açıkça görebileceği şekilde yeniden dirildiğini mi söylüyorsun?"`
+`"O yıllar korkunç geçen uzun yıllardı...`
+` Altın kelebekler formunda birçok gün geçirdim, Kinzo'nun malikânesini buldum ve her gün onu izledim.`
+` O günler boyunca, ondan nasıl intikam alacağımı düşünmek dışında hiçbir şekilde zevk alamadan yaşadım."`
+`"......Benim için şans olan şey, bu yirmi yıl boyunca,`
+` Kinzo'nun beni bulmak ve yakalamak için her büyüyü denemesi ve hepsinde başarısız olmasıydı."`
+`"Bir insanın meydana getirebileceği mucizelerin bir sınırı vardır.`
+` Beni bu kadar uzun süre esir tutabilmesi bile onun boyunu çok aşan bir mucizeydi.`
+` Bu şekilde defalarca kez yakalanmam söz konusu olamazdı."`
+`".........Büyükbabam bir önceki oyunda bir şey söylemişti.`
+` "Mucizeler olasılıklara dayanır" gibi bir şeydi."`
+`"Mmhm.`
+` Kinzo beni tekrar yakalamak için gizli bir sanat ararken, sonunda bunu başardı.`
+` ...............Ardından, nihayet beni tekrar canlandırmak için on üç kurban sunmayı içeren ritüeli çözdü."`
+`"On üç......kurban..."`
+`"Bu cadının kitabesi.`
+` Bu bir kurban şiiri.`
+` ......İlk alacakaranlıkta altı kişi.`
+` İkinci alacakaranlıkta iki kişi.`
+` Ve sonra dördüncüden sekizinci alacakaranlığa kadar beş kişi daha.`
+` Toplam on üç kişinin kurbanlar olarak sunulacağı yasak bir ritüel...`
+` Bu kurbanlar rastgele seçiliyordu ve ritüeli düzenleyen Kinzo'nun kendisi de bir istisna değildi."`
+`"Şerefsiz...`
+` Bu adada meydana gelen korkunç cinayetlerin hepsinin garip bir ritüelin parçası olduğunu mu söylüyorsun?!!"`
+`Böyle bir ihtimalin olabileceğini aklımdan geçiriyordum...`
+`Ama bunun gerçek olduğunu bir cadıdan ve bir iblisten duyup "Oh, öyle mi?" diyerek kabul edemem!`
+`"Rokkenjima'da on sekiz kişi var.`
+` On üç kişi kurban edilir; sadece beş kişi hayatta kalır.`
+` Böylece dirilmiş olurum."`
+`"......Yani, Kinzo'nun benimle yeniden bir araya gelebilme ihtimali yaklaşık üçte bir civarında.`
+` Kalan ömrünün son demlerinde,`
+` benimle yeniden bir araya gelmeyi dileyerek kendi hayatını bu olasılıklar üstüne bahse girdi."`
+`".........Yani onun tüm ailemizi bu boktan ritüel uğruna mı bir araya getirdiğini söylüyorsun?!`
+` Benimle kafa bulma!!`
+` Böyle şeyler söylemeye kalkma!!"`
+`"Her şey en başından sözleşmemizde belirtilmişti.`
+` Kinzo'nun yaşamı sona erdiğinde,`
+` ona ödünç verdiğim tüm altını ve Kinzo'nun yarattığı tüm serveti teslim alacaktım."`
+`"......Kinzo bana kâbus gibi bir çile yaşatmış olsa da,`
+` şimdi geriye dönüp baktığımda, geçen bin yıl içinde bile sıradışı bir dönem olduğunu söyleyebilirim.`
+` Ne de olsa bir cadının en doğal düşmanı can sıkıntısıdır.`
+` Bana onlarca yıl boyunca bundan kaçma şansı sunan Kinzo'ya,`
+` evet, bunun için ona borçlu olduğumu söyleyebilirsin."`
+`"Kinzo'nun oyununa katılmaya karar verdim.`
+` Ve ilk olarak, Kinzo bana Ushiromiya Aile Reisi Yüzüğü'nü iade etti.`
+` Gördüğün üzere bu ev benim altınımla hayat buldu."`
+`".........Ardından keyfime göre on üç kişiyi kurban olarak seçiyorum.`
+` Ve bunlar olurken, siz insanlar tam bir karmaşaya sürükleniyor,`
+` bana karşı çıkmaya çalışırken bana her türlü insan etkileşimini gösteriyor ve beni çok eğlendiriyorsunuz.`
+` Kinzo'nun bu oyununu gerçekten seviyorum!`
+` *cackle*cackle*."`
+`"Aaaaaaaaaahh!!`
+` Bu tür bir büyü hikâyesine kesinlikle inanmayacağım!`
+` ......O zaman sen de kimsin?!`
+` Bir uçurumdan düştün ve öldün!`
+` Ruhun dışarı çıktı, kelebeğe dönüştü ve ormana mı gitti?`
+` Bunların hepsi saçmalık!!"`
+`"Ama sen buradasın!`
+` Kimsin sen?!!`
+` Sen 19. kişi değil misin?!"`
+`"Bu doğru, ben kesinlikle 19. kişiyim.`
+` *cackle*cackle*cackle*!`
+` Ama bu iyi değil, değil mi...?`
+` Hiç de iyi değil!!"`
+`"`
+`{p:1:Bu Rokkenjima'da 18'den fazla insan yok}!"`
+`"Ne, ...............Ne dediiiiin......`
+` Yani......18+X'in, X'inin var olmadığını mı söylüyorsun?!`
+` Aldığım taşın...yani {0}{nobreak:X}'in...{0}var olmadığını mı söylüyorsun?!"`
+`"Pu ku ku ku...`
+` Bu anlama geliyor.`
+` Başınız sağ olsun.`
+` ...Ancak, Leydim, gerçekten hızlı hareket ediyorsunuz.`
+` Sonunda her şeyi tersine çevirmeden önce biraz daha debelenmesine izin verirsiniz diye düşünmüştüm.`
+` Peki o zaman, Battler-sama, biraz daha çay alır mıydınız?"`
+`"İ-İstemez, kahretsin!!`
+` İnanmıyorum!`
+` Suçlu 18 kişiden biri olamaz!"`
+`"O zaman nesin sen, neden buradasın?`
+` Eğer 19. kişi yoksa, o zaman kılık değiştirmiş 18 kişiden biri olduğunu mu söylüyorsun?!"`
+`"*cackle*cackle*!`
+` Her ne kadar kullanmak konusunda isteksiz olsan da,`
+` senin için 18 kişinin birinden şüphe etmek, tıpkı rok atmak gibi son bir kaçış yolu işlevi görebilir."`
+`".........Ancak benim için işin zor kısmı daha yeni başlıyor.`
+` Eğer dürüstlüğü bir kenara bırakmayı seçersen,`
+` 18 kişinin arasından suçluyu özgürce arayabilirsin!`
+` Seni mat etmek ve beni kabul etmeye zorlamak için,`
+` bu 18 taşın arasından bir yol bulmak,`
+` .........gerçekten zor olacak."`
+`"Sanki bunu yapardım da!!`
+` 18 kişinin hiçbirinden şüphe etmeyeceğim!`
+` Şüphe etmek istemiyorum!!`
+` Gerçekten yine burada köşeye mi sıkıştım...?!`
+` Kahretsin, kahretsin kahretsin!!"`
+`"Görünüşe göre seninle üç raunt süren oyunum nihayet sona eriyor, değil mi?`
+` Artık kaçacak bir yerin kalmadı.`
+` *cackle*cackle*!`
+` O çok sevdiğin 18 kişinin hiçbirinden şüphe duymak istemiyorsun, değil mi? Bu yükü senden almamı istemiyor musun?`
+` Buna rağmen neden beni inkâr ediyorsun?"`
+`"Açılışın bir kitap gibi, oyun ortasının bir büyücü gibi,`
+` ve oyun sonunun bir makine gibi oynanması gerektiğini söylerler.`
+` Bundan böyle seni köşeye sıkıştıracağım.`
+` Yavaşça, dikkatlice, ...emin şekilde.`
+` Ya da öte yandan, tarzına daha çok uygun olacak şekilde hepinizi tek seferde sıkıştırsam daha mı iyi olur?"`
+`"Bu sana uyar, öyle yapalım.`
+` Hangi saldırı yöntemleriyle baş edemeyeceğini zaten çok iyi biliyorum!`
+` *cackle*cackle*cackle* hihihi{0}hi{0}hi{0}hi{0}hi{0}hihihi!!"`

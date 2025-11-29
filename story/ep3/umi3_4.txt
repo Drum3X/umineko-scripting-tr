@@ -1,0 +1,871 @@
+`"...Anlıyorum...`
+` Yani adada bir cadı değil de {f:5:Beatrice} adında bir metres vardı..."`
+`"......Yani 18'den fazla insan olabilir!`
+` Bu da, eğer 18 kişinin hepsi için imkânsızsa, suçun büyü içermek zorunda olduğunu öne süren düşünce tarzını yenebileceğim anlamına geliyor.`
+` ......İşte bu büyük bir bilgi."`
+`"İzninizle.`
+` Battler-sama, biraz siyah çay ve kurabiye ister misiniz?"`
+`Kendine Ronove diyen Beato'nun uşağı bir anda ortaya çıktı.`
+`Elindeki gümüş tepsinin üzerinde, nefis görünümlü, dumanı tüten siyah çay ve kurabiyelerle dolu bir tabak vardı.`
+`...Bu adamın gülümsemesini hiç sevmedim.`
+`{n}Nedense, bir misafiri sıcak bir şekilde karşılamak için kullanılan bir gülümsemeye benzemiyor.`
+`{n}Sanki benimle alay ediyor gibi hissediyorum.`
+`...Beni gerçekten aptal mı sanıyor,`
+` yoksa sadece bir şaka falan mı bilmiyorum ama bu beni gerçekten rahatsız ediyor.`
+`"......İstemiyorum.`
+` Şu an meşgulüm.`
+` Beni yalnız bırak."`
+`"Amanın.`
+` Kurabiyeler bu kadar lezzetli olmuşken bu çok yazık oldu.`
+` O kadar muhteşem piştiler ki, onları basit bir {y:0:İnsan}{n:0:insan}a vererek ziyan ediyor olmam utanç verici, gerçekten harika kurabiyeler."`
+`"Canım isterse biraz yerim.`
+` Şuraya bir yere koy ve git buradan."`
+`"Böylesi uygun mu?`
+` O halde öyle yapacağım.`
+` Soğuyup bayatladıklarında yiyebilir ve daha sonra taze pişmişken yemediğiniz için dilediğiniz kadar pişman olabilirsiniz."`
+`".........Gerçekten sinir bozucusun.`
+` ...Yani, kulağımın dibinde o ürpertici kıkırdamayı yapıp duran Beato'dan çok daha iyisin."`
+`"Oh, evet, evet, bu oldukça doğru.`
+` Leydinin kahkahalarının oldukça yakışıksız olduğu zamanlar oluyor.`
+` Her duyduğumda, asil rütbemi düşünüyor,`
+` ve neden böyle bir kişinin efendim olması gerektiğini anlamakta zorlanıyorum.`
+` Pu ku ku ku..."`
+`"......Sen çok tuhafsın.`
+` Madem hoşuna gitmiyor, o zaman onun için çalışmasan olmaz mı?"`
+`"Bunlara rağmen hizmet etmeye devam etmek bir mobilyanın neşesidir.`
+` Böyle bir duruş sergilenmeden mobilya olarak hizmet edilemez."`
+`"......Bunu bir kenara bırakalım.`
+` Oyun nasıl ilerliyor?`
+` Az önce, bazı iyi bilgiler bulduğunuzu söylediğinizi ve bundan oldukça memnun olduğunuzu duyduğumu sanıyorum.`
+` Şimdi, sığ aklınızın ne düşündüğünü merak ediyorum."`
+`Ronove benimle alay edip kıkırdarken,`
+` az önce söylediklerimi harfiyen uyguladı ve siyah çay ile kurabiyeleri yakınlarda gelişigüzel bir yere koydu.`
+`"......Sanırım bunun nedeni 19. kişinin varlığına olan inancınızın artmış olması?`
+` Fikrinizi duymama izin verme nezaketini gösterir misiniz?"`
+`"..................`
+` ......Evet, elbette.`
+` Zaten Beato'nun önünde tekrar söyleyeceğim.`
+` Saklamaya gerek yok."`
+`"......Tamam.`
+` Görünüşe göre bu adada bir yerlerde gizli bir köşk varmış ve Büyükbabamın metresi orada yaşıyormuş.`
+` Bu durumda, 18 kişi mi yoksa 19 kişi mi olduğu konusunda bana acı çektiren bu soru, kolayca çözülebilir."`
+`"Battler-sama, cadıları inkâr etmenize rağmen,`
+` ...18 kişi arasında bir suçlu aramayı reddederek çifte standart sergiliyor ve kendinizi çıkmaza sürüklüyorsunuz."`
+`"...Cadıyı inkâr etmenin en kolay yolu 18 kişinin birinden şüphe etmek olurdu.`
+` ......Bu 18 kişiden her birinin mazereti olması o kadar kolay değil.`
+` Her zaman en az bir kişinin zayıf bir mazereti olur.`
+` ......Bu kişiyi bir kurban olarak kullansaydım muhtemelen cadıyı sonsuza dek inkâr etmeye devam edebilirdim."`
+`"Ancak, bunu yapmayı kesinlikle reddediyorum!!`
+` Evet, bu hiç iyi değil, hiç de iyi değil!`
+` Bu 18 kişinin her biri benim ya ailemden biri, ya akrabam ya da kuzenim!`
+` Ve bazen ciddi bazen de komik olan güvenilir hizmetkârlar.`
+` Hiçbirini kurban olarak kullanmayacağım!!"`
+`"Önceden kararlılığım sarsılmıştı.`
+` Beato beni kalbimin zayıf noktasından böyle vurdu."`
+`"......Kendi zaaflarını fark etmek ve kabullenebilmek.`
+` Bu çoğu zaman başarılması mümkün olan bir şey değildir.`
+` Battler-sama, 19. kişi hakkındaki bu teoriyi bir mızrak şeklinde kullanıyorsunuz.`
+` ...Yoksa, kalkan mı demeliydim?"`
+`"Her halükarda, şimdiye kadarki oyunlarda ne kadar hazırlıksız olduğunuz gerçeğinin aksine,`
+` şimdi nasıl savaşacağınıza dair bir yöne sahip olmanızın...dramatik bir sıçrama olduğunu söylemek mümkün.`
+` Bu sayede, sevdiğiniz ve güvendiğiniz 18 kişinin hiçbirinden şüphe etmenize gerek kalmadan,`
+` kolayca 19. kişiden şüphelenebilir ve suçlunun bir insan olduğuna dair teorinizin peşinden gidebilirsiniz."`
+`"Aynen öyle.`
+` İlk oyunda, Kanon-kun'un kazan dairesinde öldürüldüğü zamanki gibi,`
+` ...ve diğer birçok yerde de,`
+` 19. kişinin var olması durumunda, çekinmeden kullanabileceğim sayısız numara var."`
+`İlk oyunda, Kanon-kun kazan dairesinde öldürülmüştü.`
+`Kendisiyle birlikte kazan dairesine inen Kumasawa-san tarafından saldırıya uğradığı,`
+` ya da daha önce ölmüş gibi görünen birinin aslında numara yaptığı,`
+` ve Kanon-kun'u kazan dairesinde pusuya düşürdüğü düşünülebilir.`
+` Her iki durumda da, bu beni 18 kişinin birinden şüphelenmeye zorlayan bir hamleydi.`
+`Ancak, basitçe 19. kişinin var olduğunu öne sürerek,`
+` kazan dairesindeki cinayet için 18 kişinin herhangi birinden şüphelenmeye gerek kalmıyor.`
+`"Kısacası!`
+` "18 kişiden herhangi biri için olanaksız = Suçlu bir cadı"...`
+` denklemi, artık inkâr edebileceğim bir denklem."`
+`Bu argümanı kullanarak, örneğin bu oyunda bir kez daha gündeme gelen,`
+` "Maria'ya mektubu kim verdi?",`
+` sorusunu ele alabilir ve basit bir açıklama elde edebiliriz.`
+` 18 kişinin de mazereti olsa bile,`
+` 19. bir kişinin onun yanına geldiğini ve mektubu ona verdiğini söyleyerek her şeyi kolayca açıklayabilirim.`
+`".........Hmm, hmm.`
+` Bunun oldukça iyi bir hamle olduğunu düşünüyorum.`
+` Buna nasıl karşılık verirdim?"`
+`"......Battler-sama, durumu kavrayışınıza rağmen hâlâ pek çok zayıf nokta var.`
+` Muhtemelen "18 kişi saldırısı" etkili bir hamle olacaktır.`
+` Savunmanızın ne kadar sağlam olduğunu ölçmek için bu açıdan bir kez daha saldırmak faydalı olabilir."`
+`"Peki bunu nasıl yapacaksın,`
+` iblis uşak...?!"`
+`"......Battler-sama, bahsettiğiniz bu 19. kişiyi temsil eden taşa baskı yapmanın uygun olacağına inanıyorum.`
+` Battler-sama, siz bu 19. kişiyle hiç karşılaştınız mı?`
+` Bu 19. kişinin var olduğuna dair sizden bir kanıt rica edebilir miyim?"`
+`"Çok safsın.`
+` Elbette, bu hamleyi deneyeceğini biliyordum...!"`
+`"Amanın.`
+` Lütfen karşılık verin."`
+`"Cadılar ve iblisler...`
+` Sizin için bundan daha uygun bir hamle olamaz.`
+` ......Ve bu—"`
+`""Şeytan'ın İspatı"!"`
+`Biz insanlar bir konuda suçlandığımızda, her zaman kanıt gösterilmesini isteyerek karşı saldırıya geçeriz.`
+` Çünkü bu insanların yaptığı bir hamledir.`
+`Ama ben bir cadıyla savaşıyorum.`
+`{n}İnsan olmayan biriyle savaştayım!`
+`Ve yalnızca bir cadıya karşı oynanan bir oyunda kullanılabilecek bazı hamleler vardır.`
+`{n}Ucuz hamleler!`
+`Ve "Şeytan'ın İspatı" da işte bu.`
+`{n}Dolayısıyla, kanıt gerekli değildir!`
+`Rokkenjima'da Ushiromiya ailesinin malikânesinden ayrı gizli bir köşk bulunduğunu,`
+` ve orada {f:5:Beatrice} adında bir kadının yaşadığını varsayalım.`
+`Bu varsayımı kanıtlamak için bu köşkü bulmalı ve {f:5:Beatrice}'i görmeliyiz.`
+`İnsan dünyasında buna somut delil denir.`
+`Fakat "Şeytan'ın İspatı" ilkesini takip edersek, var olduğuna dair hiçbir kanıt olmasa bile, var olmadığını kanıtlayamazsınız.`
+`Çünkü bir şeyin var olmadığını kanıtlamak imkânsızdır.`
+`......Doğru, daha önce bana çok sıkıntı çektiren bu "Şeytan'ın İspatı" ilkesini nihayet kendi avantajıma göre kullanmayı başardım.`
+`Onlar sürekli "Şeytan'ın İspatı" ilkesini kullanarak beni cadının varlığını kabul etmem için zorluyorlardı.`
+`Bunun nedeni, Beato'nun cadıların var olduğu yönündeki iddialarına karşılık olarak,`
+` benim fiziksel olarak "cadıların var olmadığı" yönünde herhangi bir kanıt sunamamış olmamdı.`
+`İşte bu yüzden cadıların var olduğu saçmalığına maruz kaldım ve bu nedenle karşı saldırıya geçemedim.`
+`Ve işte bu yüzden satranç tahtasını hemen şimdi ters çevireceğim!`
+`Eğer cadıların var olmadığını kanıtlayamıyorsam,`
+` bu durumda 19. kişinin var olduğunu öne sürdüğümde bunun da aksi kanıtlanamaz.`
+`Başka bir deyişle, bu esrarengiz metres kendini gizlemekte usta olduğu için, ne kadar aranırsa aransın onu bulamamak son derece doğal olurdu.`
+`Yani, "19. kişi etrafta bulunamadı = 19. kişi yok" diyemezsiniz.`
+`Bu sebeple 19. kişinin varlığını inkâr etmek mümkün değildir.`
+`{n}Beato, varlığının inkâr edilmesini imkânsız hale getirmek için "Şeytan'ın İspatı"nı kullandı,`
+` ama bu sefer bu benim silahım oldu.`
+`Bu argümanla paçayı kurtarabilirsek, o zaman 19. kişiyi bir kenara bırakın,`
+` tüm ada bilmediğimiz insanlarla dolu olabilir,`
+` ve saklanan kişi sayısı 10 ya da 100 olsa bile, yine de var olmadıklarını kanıtlayamaz.`
+`Son oyunda ve ondan öncekinde, karşımıza çıkan cinayet sahneleri arasında son derece karmaşık olan ve kurgulanması çok çaba gerektirmiş olması gereken birkaç tane vardı.`
+`Tek bir suçlunun bunların hepsini kurgulamış olabileceğini hayal etmek çok zor.`
+`Ancak, sadece 19. kişi değil de 10 ya da 100 kişi bir yere saklanmış olsaydı, bu hiç de sorun olmazdı.`
+`Hepsi işi bölüşürse, her işi kısa sürede halledebilirler.`
+`Doğal olarak, böyle büyük bir grubun fark edilmeden malikânenin içinde ve etrafında gizlice dolaşıp dolaşamayacağı konusunda bazı şüpheler olacaktır,`
+` ancak bunların hepsi "Şeytan'ın İspatı" ile çözüme kavuşur.`
+`Çünkü malikânenin içinde 100 kişiyi görmemek ya da fark etmemek onların orada olmadığını kanıtlamaz.`
+`Bunu kendim söylüyor olsam da, bu o kadar aptalca bir argüman ki kusasım geliyor!`
+` Ancak, bir cadıya karşı kullanmak için mükemmel bir hamle olmasını sağlayan da bu kadar pis bir hamle oluşu.`
+`Yani, burada sadece tahmin yürütüyoruz,`
+` ...ama gölgelerde saklanan keçi maskeli yaklaşık 100 şüpheli adamın olduğu düşüncesi......`
+` Böyle bir şey gülünç olmaktan da öte, neredeyse hamamböcekleri gibiler.`
+`Eğer bir tane gördüyseniz, gölgelerde saklanan yüzlercesi var demektir.`
+`"......Aslında, bunun korkunç derecede çarpıtılmış saçma bir argüman olduğunu düşünüyorum.`
+` Eğer rakibim bir insan olsaydı, eminim bana aklımı kaçırmışım gibi kızardı."`
+`"......Ama benim rakibim bir cadı.`
+` Ve sonuçta, bu tür bir rekabetin içindeyiz, öyle değil mi?`
+` Her türlü akıl almaz argümanı kullanarak bunu insan yollarıyla açıklayacağım ve cadıyı inkâr edeceğim!!"`
+`"......Her neyse, bu hamleyle birlikte bana yakın olan 18 kişinin hiçbirinden bir daha şüphe duymak zorunda kalmayacağım.`
+` Geçen sefer yaşadığım yenilgiyi bir daha asla tekrarlamayacağım...!!"`
+`"......Anlıyorum.`
+` Geçen seferki yenilginizden ders çıkarmışsınız.`
+` Bu iyi bir şey.`
+` Üçüncü oyunda bu denli kurnaz olmanız hiç de şaşırtıcı değil."`
+`".........Önce savunmanızı güçlendiriyorsunuz.`
+` Bu gerçekten de sağlam bir ilk adım.`
+` Oldukça muhteşem bir hareket olduğunu düşünüyorum."`
+`"Pekâlâ, 19. kişinin olduğunu varsaysak bile,`
+` geriye master anahtar sayısı gibi ne kadar insan ilave edersem edeyim aşamayacağım birkaç numara kalıyor.`
+` ...Yine de, ilk adım olarak şimdilik fena değil."`
+`"Battler-sama, bu 19. kişi olarak bilinen önemli taş, sizin kozunuz.`
+` ......Kanıt isteme hamleme karşılık olarak, "Şeytan'ın İspatı" kullanarak karşılık verdiniz.`
+` ......İyi bir karşılık."`
+`"Leydim yokken kendi başıma hamle yapmam için hiçbir gerekçem olmamasına rağmen,`
+` .........bunun benim de biraz ilgimi çekmeye başladığını fark ettim.`
+` ...Leydim adına bir hamle daha yapmama izin verir miydiniz?"`
+`"......Devam et.`
+` Cadı ya da iblis olmanız umrumda değil, hepinizi yeneceğim!"`
+`""Şeytan'ın İspatı" adında sunduğunuz bu hamle...`
+` Bu biz iblislerin bir özelliğidir, ancak kullanabileceğimiz çeşitli başka hamleler de vardır.`
+` ......"Hempel'in Kuzgunu" adında bir hamle biliyor musunuz?"`
+`"Hempel'in Kuzgunu mu...??`
+` Sen neyden bahsediyorsun?"`
+`"...*cackle*cackle*.`
+` Ah‐ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}ha{0}hah‐ha{0}ha{0}ha{0}hah‐hah‐ha...!"`
+`Tam o anda, ...aah, her duyduğumda sinirlerimi hoplatan o kahkaha etrafta yankılanmaya başladı.`
+`Oda göz kamaştıran altın kelebeklerle doldu ve bu fırtınanın merkezinde Altın Cadı belirdi.`
+`"Bu Leydim değil mi?`
+` Günaydın."`
+`"Ben ortalıkta yokken ilginç bir şeyler yapabileceğini düşünmüştüm."`
+`"......‘Hempel'in Kuzgunu’, demek.`
+` Ne kadar eğlenceli ve nostaljik bir hamle.`
+` Bunu Battler'a göstereceğim gün geldi.`
+` "Şeytan'ın İspatı"na karşı kullanılabilecek tipik bir hamle."`
+`"......Ronove, bu hamleyi yapacağım.`
+` Eğlenceme engel olma."`
+`"Nihayet ortaya çıktın, seni geveze cadı.`
+` Görüyorum ki hâlâ o rezil kahkahayı atıyorsun.`
+` ......Bu adam az önce arkandan konuşup gülüşünün ne kadar nezaketsiz olduğunu söylüyordu.`
+` Değil mi?"`
+`"Ne kadar kaba.`
+` Bu doğru mu?"`
+`"Kesinlikle değil.`
+` Leydim için yalnızca en içten saygı dolu sözler söyleyebilirim;`
+` böyle dedikoduları neden yapayım ki?"`
+`"...Bunu böyle pişkince söyleyebildiğine inanamıyorum.`
+` Pek iyi anlaşamayacağız gibi görünüyor..."`
+`"*cackle*cackle*cackle*.`
+` Peki, sorun değil.`
+` Konuşmamıza geri dönelim.`
+` "Hempel'in Kuzgunu", karşıt argüman kullanarak gerçek ispatı göstermek için kullanılır."`
+`"......Temelde, şöyle bir hamledir:`
+` Kuzgunların siyah olduğunu kanıtlamak için ne yapman gerekir?"`
+`"Ha?`
+` Neyden bahsediyorsun??`
+` Kuzgunların siyah olduğunu kanıtlamak...`
+` ...Kuzgunları yakalayıp siyah olup olmadıklarını kontrol etmek yetmez mi?"`
+`"Bu doğru.`
+` Kısaca, "kuzgun = siyah" ifadesini kanıtlaman gerekir.`
+` Peki, "siyah olmayan kuşlar = kuzgun değildir" ifadesini kanıtlayacak olursan da aynı sonuca ulaşacağını düşünüyor musun?"`
+`"Dünyanın dört bir yanına gidip kuzgun olmayan tüm kuşları inceler ve hiçbirinin siyah olmadığını kanıtlarsan,`
+` o zaman sonuç olarak, "öyleyse siyah olan kuşlar kuzgundur" iddiasında bulunabilirsin.`
+` Buna karşıt argüman denir.`
+` ...Bu senin için zor mu?"`
+`"Evet, gerçekten.`
+` ...Ne dediğiniz hakkında hiçbir fikrim yok."`
+`"Battler-sama.`
+` Peki ya bu örneğe ne dersiniz?`
+` İki kutunuz olduğunu ve bunlardan birinin içinde kurabiye olan bir ödül olduğunu varsayalım.`
+` Tabii ki diğeri yanlış olan ve içi boş."`
+`Örneğin, diyelim ki burada iki kutumuz var,`
+` birinin içinde kurabiye var ve kazandığın anlamına geliyor...diğeri ise boş ve kaybettiğin anlamına geliyor.`
+`Bu durumda, "içinde kurabiye var = kazandın",`
+` ve aynı zamanda, "kaybettin = içinde kurabiye yok" anlamına gelir.`
+`Böyle bir bağlantı söz konusu olduğunda, ikincisine karşıt argüman denilir...`
+`Şayet "A varsa B de vardır" ifadesi doğruysa, "B yoksa A da yoktur" ifadesi de doğrudur.`
+`"...Bu apaçık ortada.`
+` Eğer seçtiğin yanlış olansa, otomatik olarak diğerinin kazanan olduğunu bilirsin."`
+`"...Başka bir deyişle, kutuyu rastgele seçersen, ister doğru ister yanlış olsun,`
+` ilk hamleden sonra hangi kutuda kurabiye olduğunu çözebilirsin."`
+`"Doğru.`
+` Eğer kurabiye açtığın kutudaysa, o zaman "Şeytan'ın İspatı" yerine getirilmiş demektir.`
+` Doğrudan "bu kutu doğru olan = bu kutunun içinde kurabiye var" şeklinde kanıtlayabilirsin."`
+`"Ancak, açtığın kutu boşsa, o zaman bunun tersi olan "Hempel'in Kuzgunu" sağlanır.`
+` Çünkü o zaman, "bu kutunun içinde kurabiye yok = bu kutu doğru olan değil" geçerli olur."`
+`"Bu da, ikiden fazla kutu olmadığı varsayımını kabul ettiğimiz sürece,`
+` karşıt argüman, diğer kutunun otomatik olarak doğru olan olduğunu ortaya koyar."`
+`"......Pekâlâ, sanırım mantığınızı anlamaya başlıyorum.`
+` Sadece bir zehir bir zehri durdurabilir ve sadece çarpık bir mantık çarpık bir mantığa karşı koyabilir."`
+`"...O zaman ne?`
+` Bu benim "bu adada gizlenmiş bir 19. kişinin olduğuna şüphe yok,`
+` dolayısıyla 18 kişinin hepsinin mazereti olsa bile,`
+` bu cadıların olduğunu anlamına gelmez" iddiamı nasıl geçersiz kılıyor......?"`
+`"Pekâlâ.`
+` Sana hamlemi anlatacağım.`
+` Öncelikle, "suçlu 18 kişiden biri değil = suçlu 19. kişi" iddiasını kullanıyorsun."`
+`"*cackle*cackle*!`
+` ...Yani karşıt argümanı kullanırsak, ortaya şöyle bir sonuç çıkar.`
+` Kısaca, "suçlu 19. kişi değil = suçlu 18 kişiden biri"!"`
+`"Haaah?!`
+` Bu da ne demek oluyor?!"`
+`"Tek yaptığım senin hamleni tersine çevirmekti.`
+` Anlaması bu kadar zor olmamalı.`
+` Ronove, açıkla.`
+` Daha önce kullandığın kutudaki kurabiye benzetmesi Battler'ın anlamasını kolaylaştıracak gibi görünüyor."`
+`"O halde küstahlığımı bağışlayın.`
+` Az önceki örneğimi kullanarak bir kez daha açıklamama izin verin."`
+`Birinin içinde kurabiye olan,`
+` iki kutuyla ilgili hikâyeyi bir kez daha tekrarlayayım.`
+`Bu durumda kutulardan biri "18 kişiyi", diğer kutu ise "19. kişiyi" temsil etmektedir.`
+`Yani kurabiye "suçluyu" temsil ediyor.`
+`Battler-sama, 18 kişiyi temsil eden kutuyu açtığınızı varsayalım.`
+`{n}Kurabiye orada olmadığı için,`
+` ters açıdan "bu nedenle kurabiyenin 19. kişi kutusunda" olduğunu kanıtlamış oldunuz.`
+`Bu durumda, işleri daha da tersine çevirirsek, şunu da söyleyebiliriz.`
+`Yani, ilk olarak 19. kişi kutusunun boş olduğu görülseydi,`
+` bu sefer de "kurabiyenin 18 kişi kutusunda olduğu" kanıtlanmış olacaktı.`
+`Battler-sama, 18 kişinin herhangi birinden şüphe duymamak için oynadığınız bu hamle,`
+` aslında "18 kişi saldırısını" başlatmak için size karşı kullanıldı...!"`
+`"......Hah,`
+` ......ne dedin........."`
+`"*cackle*cackle*cackle*cackle*!`
+` Şayet önce ben gider ve 19. kişi kutusunun içinin boş olduğunu kanıtlarsam,`
+` otomatik olarak,`
+` kurabiyenin 18 kişi kutusunda olduğunu kabul etmek zorunda kalacaksın.`
+` Tek yaptığın bunu tersinden söylemek, anlıyor musun?"`
+`"Yani, ......kendime çok güvendiğim bu hamle, ......aslında iki ucu keskin bir kılıç mıydı?"`
+`"Doğru.`
+` Tüm olanları 19. kişi ile açıklama hamlesi, eğer engellenirse,`
+` bazı şeyleri ancak 18 kişiyi kullanarak açıklayabileceğini kabul etmek zorunda kalma riskini taşır."`
+`Anlıyorum.`
+` "Hempel'in Kuzgunu".`
+`{n}......Yani bu bir karşı saldırı tekniği mi?!`
+`...Bekle, eğer gerçekten biraz düşünecek olursam, bu karşı saldırı tekniği ona kıyasla benim için çok daha dezavantajlı.`
+`Sorun bunu bir kurabiye gibi düşünmekte.`
+`{n}Kutulardan sadece birinin içinde bomba olan bir "game over" kutusu olduğunu hayal edersem, bunu daha iyi anlamaya başlayabilirim.`
+`Ve eğer bunu iki kutu olarak değil de,`
+` her kişi için bir tane olmak üzere 18 ve 19. kişi için bir tane daha olmak üzere toplam 19 kutu olarak düşünürsem,`
+` anlamak daha da kolaylaşıyor.`
+`Her şeyden önce, insan suçlu teorisinin dayanaklarından biri, bombanın kesinlikle o kutulardan birinde olacağıydı.`
+`Bombayı 18 kutudan herhangi birine yerleştirmek istemediğim için "Şeytan'ın İspatı"nı kullanarak 19'uncu kutuyu yarattım,`
+` ve böylece bombayı oraya atabildim.`
+` ......Buraya kadar tamam.`
+`Ama Beato bu şekilde karşılık vermişti:`
+`Eğer 19. kutunun içi boş çıksaydı,`
+` bu otomatik olarak bombanın diğer 18 kutudan birine yerleştirildiği anlamına gelirdi.`
+`Eğer 18 kutunun her birinin içeriğini inceleyebilseydim,`
+` ve bombanın bu kutuların hiçbirinde olmadığını gösterebilseydim,`
+` 18 kişinin masum olduğunu rahatlıkla gösterebilirdim.`
+`Eğer bu mümkün olsaydı, kendime güveniyor olurdum!`
+`Ancak, gerçekte, bu imkânsıza en yakın şey.`
+`Bu tayfunda polis buraya gelmez.`
+`{n}Ne soruşturma, ne de otopsi, hiçbir şey olamaz.`
+`{n}Kısacası, kesin bir şey gösteremiyorum!`
+`Benim için 18 kişinin her birinin sunduğu mazeretlere inanmaktan başka bir kanıt bulmak imkânsız.`
+`Bu da onların masumiyetini bizzat kanıtlamam ve bunu mükemmel bir şekilde yapmam gerektiği anlamına geliyor.`
+`Birinin yanında sürekli kalmak, onu bir saniye bile gözümün önünden ayırmamak gibi.`
+`Bunu yaparsam, muhtemelen o kişinin masum olduğundan,`
+` ve bombanın o kutuda olmadığından emin olabilirim.`
+`...Ancak, gerçekte böyle bir şey mümkün değil!`
+`{n}Başka bir deyişle, sadece bir kutunun içeriğini kontrol etmek için bile inanılmaz bir çaba sarf etmem gerekiyor.`
+`Ve 18 kutu var!`
+` Yani, 18'ini de zincire vurup gözetim altında tutmadığım sürece,`
+` tamamının boş kutulara sahip olduğunu kanıtlamam imkânsız.`
+`Ancak Beato'nun bombanın diğer 18 kutudan birinde olduğunu kanıtlamak için sadece bir kutuyu,`
+` 19. kutuyu açması ve boş olduğunu göstermesi gerekiyor.`
+` (Üstelik 18 kutunun {i:hangisinde} bomba olduğunu göstermesine de gerek yok!)`
+`Kendi amatör teorimi savunmak için Beato'nun kendi teorisi için yaptığından 18 kat daha fazla çalışmam gerekiyor......`
+`"Tıpkı "Şeytan'ın İspatı"ndan bildiğin gibi,`
+` bu dünyada bir şeyi çürütmenin muazzam miktarda çaba gerektirdiği ve pratikte imkânsız olduğu pek çok durum mevcut."`
+`"Ancak "Hempel'in Kuzgunu" bu problemi tersine çeviriyor ve bir şeyleri kolayca kanıtlamayı mümkün kılıyor!"`
+`""Hempel'in Kuzgunu" kullanılarak, akıl almaz çeşitli argümanların kanıtlanması mümkün hale gelebilmekte."`
+`"......Örneğin, "Benim dışımdaki tüm insanlar aptaldır" önermesinde bulunduğumu varsayalım.`
+` Normal şartlarda bunu kanıtlayabilmek için kendim dışındaki tüm insanları incelemem ve tümünün aptal olduğunu ispat etmem gerekirdi."`
+`"...Ancak, milyarlarca insanı incelemek gerçekten imkânsız olurdu.`
+` Bu, 18 kutunun tamamını açmak için ihtiyaç duyacağınız çabanın aynısı olacaktır."`
+`"*cackle*cackle*!`
+` Fakat, "Hempel'in Kuzgunu" kullanıldığında, bu önermenin karşıt argümanı şu şekilde olacaktır."`
+`"Senin tabirinle, satranç tahtasını "Ben hariç tüm insanlar = aptal" iddiası etrafında çevirirsen,`
+` "aptal olmayan = ben" iddiasını kanıtlamaktan fazlasını yapman gerekmez.`
+` ......Ve sence bu ne anlama geliyor?"`
+`"*cackle*cackle*!`
+` "Bilge olduğum" gerçeğini öğrendiğim anda,`
+` insan ırkındaki milyarlarca insanın her birinin aptal olduğunu bir anda kanıtlayabileceğim.`
+` Bir saniyeden daha kısa bir sürede, tüm insan ırkının benden daha aptal olduğunu kanıtlayabilirim!!"`
+`"Dünyanın en güçlü ve en hızlı QED'si.`
+` İşte bu...`
+`"Hempel'in Kuzgunu"!"`
+`"N-.........Ne kadar saçma bir argüman.........!!!"`
+`"Bu çok, çok kullanışlı bir hamle.`
+` İblisler kadar tanrılar da bunu kullanır.`
+` "Kutsanmış = Tanrı'nın kulu" ifadesini öne sürdüğünüzde,`
+` bunun karşıtı "Tanrı'nın kulu olmayan bir insan = kutsanmamış" olacaktır."`
+`"Dolayısıyla, tanrılar kullarının ilahi korumayla kutsandıklarını kanıtlamak için,`
+` yalnızca bu korumadan yoksun olan insanların başına uğursuzluk getirmeleri gerekir."`
+`".........Böylelikle,`
+` kendilerine inanmayanların başına uğursuzluk indirerek kutsallıklarını kanıtlamış olurlar."`
+`"İnsanlara mutluluk bahşetmek için muazzam bedeller gerekir.`
+` ...Ancak, insanları felakete sürüklemek için gereken bedel çok daha düşüktür."`
+`"*cackle*cackle*cackle*cackle*cackle*.`
+` Yani tanrılar "Hempel'in Kuzgunu"nu kullanarak inananlara en düşük bedelle ilahi korumanın mutluluğunu yaşatabilirler."`
+`"İ-......İblis.`
+` Bu bir iblisin argümanı...`
+` ...Bu saçmalık...!!!"`
+`"Görünüşe göre konunun dışına çıktık.`
+` Tekrardan konuya dönelim."`
+`"Karşı saldırı hamlemi açıklamayı bitirdim.`
+` ......Senin "Suçlu 19. bir kişidir; bu nedenle 18 kişi masumdur ve cadı diye bir şey yoktur" argümanına karşılığım:`
+` "Bu durumda, eğer suçlunun 19. bir kişi olmadığını kanıtlayabilirsem,`
+` suçlunun ya 18 kişiden biri ya da bir cadı olduğu konusunda hemfikir olacak mıyız?".`
+` Cevabını bekliyorum."`
+`Bir süre öylece kalakaldım, ağzımı kapatmayı unutmuş, şok olmuş bir hâlde...`
+`Tam da onların en sevdiği hareketi onlara karşı kullanarak kendi sırtımı sağlama aldığımı düşünürken,`
+` karşı saldırıda hayal bile edemeyeceğim bu pervasız argümanla karşılaşmıştım...!`
+`Bu gerçekten de...imkânsız mıydı...?!`
+`Sadece 18 kişinin yaşadığı bir adada cadıyı inkâr etmeye devam etmek,`
+` ve yine de o 18 kişinin masum olduğuna inanmak...`
+` .........Bu sadece bir hayal miydi?!`
+` Gerçeklerden mi kaçmaya çalışıyordum?!`
+`Henüz değil...`
+` ......Bu mücadeleden henüz vazgeçme.`
+`"Bilmem kimin Kuzgun'u" kimin umrunda?`
+`{n}Sadece bazı garip ıvır zıvırları dile getirerek bilmece gibi konuşmaya çalışıyorlar...`
+`"Şeytan'ın İspatı"nı kullanmıştım.`
+`{n}Bir şeyi kullandıktan sonra ondan şüphe duyma.`
+`{n}İleriye fırlattığın mızrağa inan.`
+`Ve daha da fazla güç uygulayıp......iyice sapla......!`
+`"......Oyun hâlâ açılış aşamasında.`
+` Şimdiden bu kadar uzun süre düşünmeye niyetli misin?"`
+`"........................`
+` Ah,`
+` ......bir saniye,`
+` Emin olmak istiyorum."`
+`"Evet, anlaşılmasını kolaylaştırmak için "19. kişi" ifadesini kullandım,`
+` ancak "Şeytan'ın İspatı"nı kullanarak kişi sayısını 18'in üzerine çıkarabilirsem,`
+` o zaman 10 kişi mi, 100 kişi mi veya belirsiz sayıda ne kadar kişi olduğunu bilmemizin hiçbir yolu kalmaz."`
+`"{i:Her zaman sandığından bir fazla}.`
+` ...Anladın mı?"`
+`Benim çarpık mantığıma daha da çarpık bir şeyle karşılık vermişti.`
+`{n}Yani buna karşı koyabilecek tek şey daha da çılgınca bir çarpık mantık olacaktı...!`
+`"Hmm, anlıyorum.`
+` .........Bir şekilde 19. kişi için bir mazeret bulsam bile,`
+` ben bunu yapar yapmaz, sen de 20. bir kişi uyduracak ve suçlunun o olduğunu iddia edeceksin.`
+` Bunu sonsuza kadar tekrarlayarak, sonsuza kadar onların mazeretlerini aramaya devam etmemi sağlayacaksın."`
+`"......Anlıyorum, anlıyorum, *cackle*cackle*!`
+` Tıpkı bir iblis kralın çekirge salgını başlatması gibi.`
+` Kinzo'nun torunundan daha azını beklemezdim.`
+` Görünüşe göre ruh çağırma konusunda doğuştan bir yeteneğin var."`
+`"......Kısaca!`
+` İlk 18'in dışında varolan "X" için sürekli olarak bir mazeret kanıtlamak imkânsızdır!`
+` ......Bunu nasıl buldun, Beato...?!`
+` Artık çarpık mantıkla savaştığımızı bildiğime göre, kaybetmeyeceğim!"`
+`"*cackle*cackle*cackle*cackle*cackle*cackle*cackle*!!`
+` Ne kadar aptalca...`
+` Benim kim olduğumu sanıyorsun?`
+` Ben Sonsuz Cadı'yım!`
+` Sonsuzlukta bana meydan okuman çok gülünç.`
+` Sonsuzluk üzerinde kontrol sahibi olmam, aynı zamanda sonsuzluğu öldürebileceğim anlamına da geliyor."`
+`"......Ben 19. kişiyi ortadan kaldırdığımda, 20. kişiyi,`
+` 20. kişiyi kaldırdığımda, 21. kişiyi,`
+` 21. kişiyi ve 22. kişiyi kaldırdığımda,`
+` 23., 34., 64358223579673204. kişiyi ortaya atacaksın,`
+` Benimle sonsuza dek uğraşabileceğini mi sanıyorsun?!"`
+`""Sonsuz gerileme"ye gülüyorum,`
+` {i:sonsuzluk} beni etkilemez!!"`
+`"Hoh, peki o zaman, benim "sonsuzluğumu" nasıl öldüreceksin? Sadece dene ve bana göster!!"`
+`"`
+`{p:1:Kırmızıyla gerçeği söyleme gücüne sahibim}!!!"`
+`".....................!!`
+` .........İşte geliyor............"`
+`"Kırmızıyla konuştuğumda, kesinlikle hiçbir yanılsama içermez.`
+` Eğer bir kez kırmızıyla bu adada 100'den fazla insan olmadığını söylersem,`
+` artık 101. kişiyi yaratma iznin olmayacak."`
+`"*cackle*cackle*!`
+` Hadi, Battlerrr.`
+` Bu sefer kırmızıyla hangi gerçeği söyleyeyim?`
+` Seni öldürmek ve umutsuzluğa sürüklemek için nereye saldırmalıyım?`
+` *cackle*cackle*cackle*!`
+` Hadi, bana her zamanki korkmuş yüzünü göster......"`
+`".............................."`
+`"..................Ne?"`
+`"......Ihihihihi."`
+`"...Neden...gülüyorsun...?"`
+`O anda gülerken yüzümde ne tür ürkütücü bir ifade olduğunu merak ediyorum.`
+`{n}Bu kırmızı renk kesinlikle korkutucu.`
+` ...Ne zaman ortaya atılsa, umutsuzluğun derinliklerine sürükleniyorum.`
+`Ama......çoktan fark etmiştim.`
+`{n}...Kırmızıdan anlamsız yere korkmaya gerek yoktu.`
+`".........Gizli silahını yine ortaya çıkardın.`
+` Yani...?`
+` Büyük {f:5:Beatrice}-sama bu kez kırmızıyla ne ve nasıl konuşacak?"`
+`"......Hoh.`
+` Bununla ne demek istiyorsun?`
+` Birdenbire çok rahatlamış görünüyorsun..."`
+`"Üzgünüm ama ben de senin o kan kırmızısı kıymetli kılıcı çıkarmanı bekliyordum.`
+` ......Şimdi, bakalım bu sefer kırmızı ile ne ilan edeceksin?"`
+`""Suçlu 18 kişiden biri" demeyeceksin, değil mi?`
+` Dikkatli ol, çünkü bu senin için kendini yok etmek olur.`
+` Bu, kendi cadı teorini bizzat kendinin çöpe atması gibi olur.`
+` Tam bir teslimiyet."`
+`Bu doğru.`
+` Kırmızı her zaman Beato'nun avantajına olmayabilir.`
+` Aksine, eğer yanlış bir şekilde kullanırsa, kendi ölümüne neden olabilecek kadar tehlikeli.`
+` Eğer dikkatsizce kullanır ve sonunda kendini inkâr edecek bir şey söylerse, bu tamamen kendi kendini yok etmekle aynı şey olur.`
+`"Tabii ki,`
+` eğer bana 18 kişiden birinin suçlu olduğunu kırmızıyla söyleseydin, bu benim için üzücü ve kabullenmesi zor bir durum olurdu.`
+` ......Suçlu gerçekte kim olursa olsun, bu bana kesinlikle zorlu duygular yaşatırdı..."`
+`"Ama ondan önce, bu senin yenilgin anlamına gelir!`
+` Kırmızıyla suçlunun bir insan olduğunu söylemek, teslimiyet ilan etmekle eşdeğerdir!!`
+` Eğer benimle aynı anda ölmeyi göze alacak kadar kötü bir darbe vurmak istiyorsan, bence bu oldukça ilginç bir hareket.`
+` Ancak, bu savaş benim zaferimle sonuçlanacak!!"`
+`{f:5:Beatrice}'in kırmızısı gerçekten de onun gizli silahı, kıymetli kılıcıydı.`
+` Kırmızıyla söylediği şeyler gerçek olarak yerini alır ve hiçbir kanıt ya da karşı argüman onları değiştiremezdi.`
+`Şimdiye kadar birçok kez beni parçalara ayırmış, kalbimin dayandığı tüm destekleri ikiye bölmüştü.`
+`Ancak eğer onu dikkatsizce kullanırsa, o zaman gerçek hakkında küçük bir bilgi de bulabilirdim.`
+`...Önceki oyunda, özellikle kilisenin kilitli oda numarası sırasında, bundan yararlanmış,`
+` ve bir keresinde onu neredeyse tamamen köşeye sıkıştırmıştım.`
+`Ama aynı zamanda oldukça kurnazdı.`
+` Yaşadıklarından ders çıkarmış ve o zamandan beri kırmızının zamanlamasında ihtiyatlı davranmaya başlamıştı...`
+`Bu gergin hissiyat neredeyse tam anlamıyla gerçek kılıçlarla yapılan bir savaş gibiydi.`
+`...Bu bir yüksek zeka savaşıydı.`
+`{n}......Hayır, zeka değil.`
+`{n}Bu gerçekten çarpık bir mantıktı.`
+`Bu dünyanın en çılgın ve en berbat çarpık mantık savaşıydı...!!`
+`"Hadi, şimdi sıra sende.`
+` ......Doğru.`
+` Şu "Hempel'in Kuzgunu"nu kullanabilmek için,`
+` öncelikle, 18 kişiden başka kaç insan olduğunu kırmızıyla doğrulaman gerekecek."`
+`"Ve bundan sonra, o gruptaki hiçbir insanın suçlu olmadığını kırmızıyla belirtirsen,`
+` ......bu doğru, bu benim için ölümcül bir yara olabilir."`
+`".........O çok korktuğun kırmızıdan artık bir nebze bile korkmamana şaşırdım...`
+` Oldukça sağlamsın."`
+`"Çıkarmayı dene.`
+` Şu kıymetli kılıç kozunu.`
+` ......Tek bir mükemmel vuruşla belki bu sefer beni alt edebilirsin, kim bilir...?"`
+`"......*cackle*cackle*cackle*.`
+` ...İlginç.`
+` Başka türlüsünü istemezdim..."`
+`Onu sinir et.`
+` Onu kışkırt.`
+`{n}Kırmızıyla konuşmasını sağlamak için onu köşeye sıkıştır...`
+`Elbette onun kırmızısı her zaman benim yegane umutlarımı kesip attı.`
+` Ama......bundan korkma.`
+`Yalanlar ve illüzyonlarla dolu bu adada güvenebileceğim tek şey...`
+`onun kırmızıyla konuştuğu bilgidir.`
+`Cehennem uçurumunu geçmenin tek yolu bu.`
+` Sadece tek bir ip.`
+`Onun acımasız kan kırmızısı kılıcı hayatta kalmamın tek yolu.`
+`...Bu sadece bir ipin üzerinde yürümek değil, kelimenin tam anlamıyla bir bıçağın ucunda yürümek gibi...`
+`Elbette korkuyorum.`
+` Onun karşıt argümanına göre, benim zafer koşulum—yani cadının inkârı—suçlunun bir insan olduğu anlamına geliyordu.`
+`Ama suçluyu 18 kişinin içinde aramak istemedim.`
+`...Bu nedenle, cadıyı ve 18'i aynı anda inkâr etmek zorunda kaldığım için zayıf bir noktaya tutundum.`
+` Son seferinde bunu anlayamadığım için beni oradan vurmuş ve beni paramparça edip bozguna uğratmıştı.`
+`......Ama sorun değil.`
+`{n}Bırak bana vursun.`
+` Bırak saldırsın.`
+` Sorun değil...`
+`Eski bir kılıç dövüşü filminde biri söylemişti.`
+`{n}"İyi bir kalenin tek ve sadece tek bir zayıf noktası vardır".`
+`Düşman orada toplanırdı.`
+` Oraya çekileceklerdi.`
+`{n}Ve asıl savaşın gerçekleştiği yer orası olacaktı.`
+`...Ben zayıf noktalarımı anladığım,`
+` ve o da bu zayıf noktalara saldırmak istediği sürece,`
+` ......sanki onu oraya saldırması için kışkırtıyordum...`
+`Düşmanınla arandaki mesafeyi dikkatlice değerlendir, ...ve adım adım geri çekil.`
+` Önce kılıçlarını çekmelerini sağla.`
+`O kırmızıyı ne kadar pervasızca savurursa, benim de karşılık verme şansım o kadar artar.`
+`Kırmızıdan korkma.`
+`{n}Baskıyı sürdür ki kırmızı ile reddetmek zorunda kalsın......!`
+`Ne kadar ezici bir şekilde kırmızıyla konuşursa konuşsun,`
+` ......evet, o kırmızının kendisi onun yaralarından fışkıran taze kanla aynı.`
+`"Hadi ama.`
+` ...Sorun ne?`
+` ......Öncelikle neden bana bu adada toplam kaç kişi olduğunu kırmızıyla söylemiyorsun?`
+` Söylemezsen senin kuzgunun beni parçalayamaz......!"`
+`".....................Hmph.`
+` ...Hem bu kadar çaresiz hem de bu kadar zor olman ne kadar şaşırtıcı.`
+` ...Hangi çağda olursa olsun, hayatını ortaya koyan biri hafife alınamaz."`
+`"......Kinzo'nun torunu olman şaşırtıcı değil.`
+` Ne kadar köşeye sıkışırsan bir o kadar da,`
+` ............cesur olursun!"`
+`"...Ihihihi..."`
+`Ronove boğazını temizledi.`
+`"Bir çıkmaza girilmiş gibi görünüyor.`
+` O kadar uğraşıp yaptığım siyah çay soğuyor,`
+` Leydim."`
+`".........kh."`
+`Müttefiki olması gereken Ronove, onun bir sonraki hamlesini sinsice aceleye getiriyordu.`
+`Beato gülümseyerek karşılık verdi, muhtemelen hâlâ sakin olduğunu göstermek istiyordu, ......ama alnında oluşan teri gizleyemedi.`
+`Artık değersiz rakibine ters ters bakabilmesini sağlayan o rahatlığı tamamen kaybetmişti.`
+`Elbette, muhtemelen böyle bir şey yüzünden gerçekten tamamen köşeye sıkışmamıştı.`
+` ...O sadece...temkinli davranıyordu.`
+`Şimdiye kadar deneyimsizdim.`
+`{n}Nasıl dövüşüleceğini iyi kavrayamamıştım ve bir rakip olarak güçsüzdüm.`
+`Ancak üçüncü oyuna geldiğimizde artık giderek ustalaşmaya başladığımı fark etti,`
+` ve daha temkinli davranmaya, her hamleyi dikkatle düşünmeye başladı......`
+`Elbette, sorun değil {f:5:Beatrice}.`
+`{n}Ve seni beklettiğim için özür dilerim.`
+`{n}Şimdi mutlu musun...?`
+`"......Şimdi işler ilginçleşmeye başlıyor, değil mi......?`
+` Hihihihi!"`
+`"*cackle*cackle*cackle*!`
+` ...Battleeeeerrrrr......"`
+`"Bu hiçbir yere gitmiyor...`
+` O zaman, hemen konuya girip her zamanki gibi mi devam etmeliyim?"`
+`"......Hoh.`
+` Her zamanki mi dedin?`
+` ...O hâlde elbette.`
+` Eğer bunu duymazsam, sanırım başladığımız hissine kapılamayacağım..."`
+`İlk hamle benimdi......`
+`"İşte geliyor, Beato."`
+`"Tekrarla.`
+` ......‘Bu adada yalnızca 18 kişi var’."`
+`"....................."`
+`"...Bunu kırmızıyla söylediğini duyarsam, 18 kişinin birinden şüphe etmekten başka çarem kalmayacak.`
+` ......Bu artık bir 19. bir kişinin işi olamayacağı için, tüm kapılar bana kapanacaktır."`
+`".........Ama ben suçlunun kesinlikle 18 kişiden biri olmadığına inanıyorum!`
+` Böylesine vahşi cinayetleri bu 18 kişiden herhangi birinin işlemesine imkân yok...!!"`
+`"....................."`
+`"Yeniden söylüyorum.`
+` Tekrarla!`
+` "Bu adada yalnızca 18 kişi var"."`
+`"..............................`
+` .........Reddediyorum.`
+` Nedenini söylemeyeceğim."`
+`Peh...!`
+` Benim için olabilecek en kötü kırmızıdan kurtulmuştum.`
+`Eğer bunu tekrarlasaydı,`
+` cadıyı kabul etmek ya da 18 kişinin birinden şüphelenmek gibi iki kötü seçenekle karşı karşıya kalacaktım,`
+` tıpkı geçen seferki gibi...`
+`Ama Beato benim nihai ve en büyük zayıflığımı kırmızıyla beyan etmemişti.`
+`Saldırmaması için hiçbir neden olmamasına ve ağzının suyu akması gereken bir zayıflık olmasına rağmen bunu tekrarlamayı reddetmişti.`
+`Bir kale ve şaha çatal atmak kadar iyi olabilecek bu hamleyi kullanarak beni kırmızıyla kesmemişti...!`
+`......Bu benim avantajım için büyük bir işaretti.`
+`Bu doğru.`
+` Suçlu 18 kişiden biri değil.`
+`{n}Kimseden şüphe etmeyeceğim...!`
+`Ve suçlu bir cadı da olmadığına göre,`
+` .........bu adada 19. bir kişinin var olduğu anlamına geliyor.`
+`Ve o da sensin.`
+`Büyükbabamın otuz yıllık metresi olarak uzun,`
+` çok uzun zamandır ormandaki saklı bir köşkte gizlice yaşayan bir kişi.`
+`{i:İnsan} {f:5:Beatrice}.........!!`
+`"Bu doğru.`
+` Sen cadı ya da onun gibi bir şey değilsin.`
+` ......Sen sadece onlarca yıldır...bu adada saklanarak yaşayan bir insansın...!"`
+`".........*cackle*cackle*.`
+` *cackle*cackle*cackle*...`
+` ...Az önce bana, bin yılı aşkın bir süredir yaşayan Sonsuz Cadı'ya sıradan bir insan mı dedin?`
+` ......*cackle*cackle*cackle*cackle*cackle*cackle*!"`
+`Bir süre boyunca {f:5:Beatrice} tatsız bir şekilde, böbürlenerek ya da belki de kindarca gülmeye devam etti.`
+`"...Hazır mısın? Devam ediyorum.`
+` ...Yeniden, tekrarlamanı istiyorum."`
+`"‘Bu adada en az 19 kişi var’!"`
+`".............................."`
+`{f:5:Beatrice} bir kez daha sessizliğe gömüldü.`
+`Bu adadaki insan sayısını doğrulamanın...`
+`kendisine büyük bir dezavantaj sağlayabileceği hissi,`
+` muhtemelen onu son derece temkinli yapıyordu.`
+`Kırmızı çoktan benim karşı saldırım için bir dayanak noktası haline gelmişti.`
+` Bunu göz önünde bulundurduğumda, kırmızı cadı için bir risk haline gelmişti.`
+`Ama bunu tekrarlayamazsa, "Hempel'in Kuzgunu" işe yaramayacaktı.`
+`Kullandığım "Şeytan'ın İspatı"nı çürütebilmesi için öncelikle,`
+` 18 kişinin dışındaki insanların varlığının ve sayısının...`
+`kırmızıyla doğrulanması gerekiyordu.`
+`Bu doğru.`
+` Kırmızıyı kullanmadığı sürece 19. kişinin varlığını engelleyemezdi.`
+`{i:Beato'yu sıkıştırmıştım}, ona kırmızıyla konuşmaktan başka seçenek bırakmamıştım...!`
+`Gerçekten de...`
+`.........cadının oyununda,`
+` ......savaşmanın bir yolu vardı!`
+`"Reddetmende bir sakınca yok.`
+` ...Eğer bunu kırmızıyla söyleyemiyorsan, o zaman bu, adadaki toplam insan sayısının 18+X olacağı anlamına geliyor."`
+`"......Bu X, ilk hamlede sahip olmama izin vermek için oldukça büyük bir taş, öyle değil mi?`
+` Sonuçta, bundan sonra, "18 kişiden herhangi biri için imkânsız" temeli olan tüm numaralar...`
+`18 kişinin dışında kalan bir X kişisiyle açıklanabilir hale gelecek.`
+` ......Herkesin bir mazereti olduğu için kapalı olduğunu söylediğin odaların hepsini bu devasa taş kırıp açabilir...!"`
+`Bu tıpkı...`
+`satrançta ufak bir boşluk olduğu sürece düşman kuvvetleri arasından ince bir hat çizebilen bir fil gibiydi.`
+` Sadece aynı renkteki kareler üzerinde etkilidir, ancak tahtayı kontrol etmede büyük bir etkisi vardır.`
+`"..............................`
+` ..................kh."`
+`Görünüşe göre Beato da içinde bulunduğu durumu oldukça iyi anlamıştı.`
+`Böylesine önemli bir taşı öylece bırakamazdı, özellikle de oyunun başlangıcına bu kadar yakınken...`
+`Kıymetli kırmızı kılıcını çıkarırsa, o taşı almak o kadar da zor olmazdı.`
+`......Ama Beato bunu beklediğimin tamamen farkındaydı.`
+` Dikkatsizce söyleyeceği kırmızı bir gerçeğin kendi boynunu keseceğinden korkuyordu...!`
+`Çünkü, ...her şeyden önce, bir cadının kendisi kırmızıyla {i:inkâr} edilmesi gereken bir şeydi.`
+`İnan.`
+` Şüphe etme!`
+` Cadı diye bir şey yok!`
+`{n}Böyle bir şey bu dünyada var olamaz.`
+`Onlar sadece gerçekliğin çatlaklarında var olabilirler.`
+`...Onlar bu çatlaklarda kıvrılmış, kendilerini gerçeğin acımasız rüzgârlarından çılgınca korumaya çalışan kırılgan varlıklardır,`
+` ve ancak yalanlar ve fantezilerle hayatta kalarak bir serap misali zar zor var olabilirler.`
+`Başka bir deyişle, yalnızca cadıların kullanabildiği kırmızı, kendilerini inkâr etme riskini aldıkları gerçekliğin bizzat kendisidir.`
+`......Kırmızı kelimelerini ne kadar çok kullanırlarsa...`
+`içinde dayanabilecekleri gerçeklikteki o çatlağı yavaş yavaş yitirmeye başlarlar.`
+`İşte bu nedenle, kırmızılar nedeniyle,`
+` ......gerçekliğin belirsiz bilgilere ya da diğer bir deyişle fanteziye dayanan o çatlağını dikkatsizce yitirmek istemiyorlar.`
+`Çünkü yavaş yavaş kendilerini köşeye sıkıştıracaklarını biliyorlar.`
+`Elbette bunu asla kabul etmez.`
+`Çünkü, eğer kabul etseydi,`
+` bu dünyada var olamayacak bir şey, sanal bir sayı olduğunu kabul etmekle aynı şey olurdu.`
+`Korkma.`
+` Güçlü kal...!`
+`{n}Bunu içten içe ve herkesten daha iyi biliyor.`
+`Kıymetli kırmızı kılıcını büyük bir kararlılığı olmadan kolay kolay kullanılamaz...!`
+`"...Sorun ne?`
+` Tekrar söylüyorum.`
+` ......Tekrarla!"`
+`"‘Bu adada en az 19 kişi var’!"`
+`"........................`
+` ......Hmh.`
+` ...Reddediyorum."`
+`Uzun, çok uzun bir süre düşündükten sonra,`
+` ......derin bir nefes vererek, sessizce reddetti.`
+`......Kullanacağını düşünmüştüm.`
+`Ama Beato, oyunun başlangıç kısmında galibiyetine neden olacak olsa da kırmızıyla konuşmayı reddetti.`
+`"Reddettin, değil mi......?`
+` Bu da şu andan itibaren,`
+` 18 kişinin dışında istediğim kadar kurgusal X karakteri yaratabileceğim anlamına geliyor..."`
+`"Nasıl istersen öyle yap.`
+` ...Tekrarlama isteğini reddettim.`
+` Şimdilik bu kadarı yeterli değil mi?`
+` ......Reddetmemin sebebi...`
+`......`
+` ...Hayır, bunu şimdilik paylaşmayacağım.`
+` Her halükarda yakında öğreneceksin."`
+`"...Ihihi.`
+` Gördüğüm kadarıyla hâlâ sert davranıyorsun..."`
+`"......Kasıtlı olarak kullanmadığım kırmızı, başlı başına uygun bir kullanım.`
+` Onun benim kıymetli kırmızı kılıcım olduğunu söylemiştin.`
+` Hoş bir benzetme.`
+` Ben de kullanacağım.`
+` ......Kıymetli bir kılıç, kınında olduğu zaman en iyi halindedir.`
+` Aslında, kınında olduğu için bazen daha da fazla korku uyandırabilir."`
+`"Bu doğru.`
+` ...Mücadele ederken, kırmızıyla her şeyi tersine çevirebileceğini her zaman aklımda bulundurmak zorundayım.`
+` Bu oldukça ciddi bir baskı."`
+`"......Ayrıca tekrarlamayı reddederek işleri oldukça zorlaştırdığın zamanlar da oluyor.`
+` ...O anlarda, tahminim doğru olduğu için mi tekrar edemediğini,`
+` yoksa beni yanlış yönlendirerek istediğimi düşünmeme mi izin verdiğini anlayamıyorum."`
+`"...Bu anlamda, evet, anlıyorum.`
+` Kınında, kıymetli bir kılıç."`
+`"............Bunun ne önemi var?`
+` Madem seni uçurumdan aşağı iteceğim, bari önce biraz daha yukarı tırmanmana izin vereyim.`
+` ...Daha yeni başladık.`
+` Daha çok şey var..."`
+`"Bu seferki mücadeleden çekiliyorum.`
+` ...Git ve şimdilik zayıf zaferinin sarhoşluğu yaşa.`
+` ......Yalnızca şimdilik."`
+`Bu acı yorum aslında oyunun açılış savaşının sonunu işaret ediyor gibi görünüyordu.`
+` Yine de gardımı hiç düşüremedim.`
+`...Ronove'nin alkış sesiyle kendime gelene kadar gerginliğimi üzerimden atamadım...`
+`"......Olağanüstü, Battler-sama.`
+` Sanırım bu oyunun en azından açılışının sizin avantajınıza olacak şekilde başladığını söyleyebiliriz?"`
+`"Kim bilir...`
+` Bu taş ondan kendi ellerimle kopardığım bir şey miydi,`
+` yoksa onu almam için beni o mu yönlendirdi, hâlâ bilmiyorum."`
+`"......Sonuçta, seni tanıdığımdan...`
+`muhtemelen bir tuzağa düşürüldüğümü biliyorsun ve bu alkış da senin benimle açıkça alay etmenden kaynaklanıyor, değil mi...?"`
+`"Bunu nasıl düşünebilirsiniz?`
+` Leydiye bir kez olsun darbe vurabilmenizi sağlayan yeteneğinizi masumca kutluyorum, ancak bunun sadece bir başlangıç olduğunu kabul ediyorum.`
+` ...Ne de olsa Leydim çabuk kibirlenebilen bir kişi.`
+` Bunun gibi küçük bir uyarının arada bir iyi bir ilaç olduğuna inanıyorum."`
+`"...Senin bu uşağın çok kötü bir ağıza sahip..."`
+`"Değil mi?`
+` Bazen beni bile öfkelendiriyor."`
+`"Amanın, ne kadar da kabayım."`
+`"Peki o zaman, Leydim, Battler-sama.`
+` Biraz daha siyah çaya ne dersiniz?`
+` Oyun henüz yeni başladı.`
+` Lütfen bu oyunu süsleyebilecek çay ve hamur işlerini bana bırakın.`
+` Lütfen oyunu ilerletmekten çekinmeyin."`
+`"İlerleteceğim.`
+` Hadi devam edelim.`
+` Şimdi gerçekten başlıyor."`
+`"............Hmph.`
+` Pekâlâ.`
+` Saati ilerletelim.`
+` Ronove, siyah çay lütfen."`
+`"Elbette.`
+` Kurabiyeye ne dersiniz?"`
+`"Gerek yok.`
+` Mutlu olması için Beelzebub'a ver.`
+` ............Şimdilik sessiz ol."`
+`Cadı, iblis uşağın çay doldururken çıkardığı sesi dinlerken gözlerini hafifçe kapadı ve sessizliğe gömüldü.`
+`......Bir süre derin düşüncelere daldı, ama sonunda gözlerinde kurnaz bir parıltı belirdi.`
+`"Pekâlâ.`
+` ............İlk hamlede neden kırmızıyla konuşmayı reddettiğimi şimdi açıklamama ne dersin?"`
+`"......Ne...?`
+` Göster bakalım.`
+` Neyin var göster bana."`
+`"*cackle*cackle*...`
+` Gerçekten de kaçırmak istemeyeceğin kadar büyük bir taş."`
+`"......Aceleci olabilirim ama hamlemi yapmama izin ver.`
+` Kırmızı kullanmayacağım ama buradan itibaren benim adıma Rosa açıklama yapacak.`
+` Dinle."`
+`"Elbette, ben de aynı fikirdeyim.`
+` Sen de, değil mi Rosa?`
+` ...............Rosa?"`
+`"Huh, ah, üzgünüm...`
+` B-Ben de.`
+` Katılıyorum."`
+`".........Neyin var, Rosa-san.`
+` ...Bir süredir gerçekten çok sessizsin.`
+` Kendini hasta mı hissediyorsun...?"`
+`Rosa hiçbir zaman kardeşlerin kavgalarına gönüllü olarak karışan biri olmamıştı.`
+`...Ancak yine de motivasyonu yokmuş gibi görünüyordu,`
+` ve bu geceki konferans sırasında neredeyse hiçbir şey söylememişti.`
+`Tüm bu süre boyunca başını öne eğmiş ve başka bir şey düşünüyor gibi görünüyordu...`
+`"Bir süredir dalıp gitmiş gibisin.`
+` Mirası bu şekilde koruyabileceğini mi sanıyorsun?`
+` Sen aynı zamanda çocuğunun annesisin, bu nedenle kendine çeki düzen ver."`
+`"Ö-Özür dilerim......"`
+`"Bu sabah oldukça erken uyandın diye tahmin ediyorum.`
+` Eğer kendini hasta hissediyorsan, aşırıya kaçmamalısın."`
+`"......Misafir odalarındaki yataklar hazırlandı.`
+` Biraz dinlenmeye ne dersin?`
+` Sana rehberlik edeceğim."`
+`"Hayır, ...ben iyiyim.`
+` Teşekkürler."`
+`"...Sorun ne?`
+` Endişe ettiğin bir şey mi var?"`
+`".........Hayır, pek sayılmaz........."`
+`"Emin misin...?`
+` Sanki aklın bunca zamandır başka bir yerdeymiş gibi hissettiriyor.`
+` ...Acaba bunun konuştuğumuz şeyle bir ilgisi var mı...?"`
+`Bu sözler üzerine herkes gözlerini Rosa'ya çevirdi.`
+`Sanki cevap verir gibi, Rosa omuzlarını silkti.`
+`Görünüşe göre Kyrie'nin tahmini yanlış değildi.`
+`{n}...Rosa da inkâr etmedi...`
+`"..................Hayır, şey...`
+` ................................."`
+`Söylemek üzere olduğu şeyi yutkundu ve tekrar sessizliğe gömüldü.`
+`Artık diğer kardeşler de onun tavırlarında her zamankinden farklı bir şeyler olduğunu fark etmeye başlamışlardı...`
+`"Ne oldu?`
+` ...Bir süredir garip davranıyorsun.`
+` Aklında bir şey mi var...?"`
+`"Hepimiz birlik olmaya yemin ettik, değil mi?`
+` Şimdi tek başına endişelenerek düşmanca davranma.`
+` Hadi konuşalım."`
+`"......Rosa.`
+` Anlat bize."`
+`Erkeklerin birbiri ardına sıkıştırdığı Rosa kararını verdi ve endişeli bir şekilde ağzını açmaya başladı...`
+`Sanki...`
+`istemeden ciddi bir duruma yol açan küçük bir şakayı itiraf etmeye çalışıyormuş gibi...`
+`bir hali vardı, odadaki atmosfer böyleydi.`
+`"Hayır, şey......`
+` ......B-{f:5:Beatrice} denen Babamın bu metresi,`
+` ......o gerçekten, şey,`
+` .........hâlâ hayatta mı diye, merak ediyordum..."`
+`"Ha?`
+` Hayatta olduğu çok açık.`
+` Bize mektup gönderiyor, daha ne istiyorsun?"`
+`"Sağlığının yerinde olup olmadığı ise farklı bir hikâye.`
+` O portredeki güzel kadın artık yaşlanmış olmalı."`
+`"Sağlığının yerinde olduğunu düşünürdüm.`
+` Para söz konusu olduğunda kurnaz olan insanlar kaç yaşında olurlarsa olsunlar sağlıklıdırlar!`
+` Şeytani planlar en iyi gençleştirici etken bile olabilir.`
+` Wahahaha."`
+`"......Hayatta...`
+`......olamaz."`
+`"Heh?`
+` ......Demin ne dedin?"`
+`"{f:5:Beatrice}...`
+`...öldü...`
+` .........Onu,`
+` ...ben öldürdüm...!"`
+`"N-......Ne dedin......?!"`
+`"...N-...Ne demek istiyorsun, Rosa...?!"`
+`"A-Ama onu öldüren ben değildim—`
+` ......Ama, ama onu öyle bir yere götüren bendim!`
+` ...Onu gerçekten ben öldürdüm...`
+` Kendimi bunun bir rüya olduğuna inandırmaya çalıştım!!"`
+`"......Ama......gerçekte rüya değildi!`
+` Yani bu......{f:5:Beatrice}'in hayaletinden gelen bir mektup!!`
+` Uwaaaaaaaaaaaaaaa!!"`
+`O kadar ani olmuştu ki herkes ne diyeceğini şaşırmıştı.`
+` Rosa durmaksızın konuşmaya devam etti, saçları savrulurken başını tutuyordu...`
+`"Lütfen, sakin ol...!`
+` Rosa-san...!"`
+`"N-Neler olduğuna dair hiçbir fikrim yok...!`
+` Çoktan öldü mü?`
+` Ne demek istiyorsun...?!"`
+`"......Bence bunun iki anlamı var.`
+` Birincisi, ...gerçek anlamı.`
+` ...Ve ikincisi, daha önceki tahminimizin doğru olduğunu kanıtlıyor."`
+`"Yani......`
+` .........Rosa, ......{f:5:Beatrice} ile karşılaştın mı?"`
+`"B-Ben Rosa'nın bundan bahsettiğini hiç duymadım.`
+` ...Rosa, ne zamandı?`
+` {f:5:Beatrice} ile ne zaman karşılaşmış olabilirsin?!"`
+`"Uzun zaman önce!`
+` Uzun, uzun, uzun zaman önce!`
+` Adaya yeni taşınmıştık ve ben çok gençtim!!`
+` Benim hatam değildi, onu {i:ben} öldürmedim...!!`
+` Uuuuuuuuughhhuuu!!"`
+`"...Sakin ol!`
+` Kimse seni bir şey için suçlamıyor, tamam mı?`
+` Önce biraz su iç.`
+` Tamam mı?`
+` Natsuhi-san, sürahi lütfen."`
+`"E-Evet.`
+` .........İşte buyur, Rosa-san.`
+` Lütfen, sakin ol......"`
+`".........................................."`
+`Rosa düzensiz nefes alış verişleri arasında sakinliğini yeniden kazanana kadar, ......kimse tek kelime edemedi...`
