@@ -85,7 +85,7 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
 </details>
 
 * <details>
-  <summary>Episode 3 ✍️</summary>
+  <summary>Episode 3 ✅</summary>
 
    * Story
       * [Chapter 0 (Prologue)](../../tree/master/story/ep3/tr/umi3_op.txt) ✅
@@ -108,7 +108,7 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
       * [Chapter 17](../../tree/master/story/ep3/tr/umi3_17.txt) ✅
       * [Chapter 18](../../tree/master/story/ep3/tr/umi3_18.txt) ✅
       * [Chapter 19 (Tea Party)](../../tree/master/story/ep3/tr/umi3_19.txt) ✅
-      * [Chapter 20 (Hidden Tea Party)](../../tree/master/story/ep3/tr/umi3_20.txt) ❌
+      * [Chapter 20 (Hidden Tea Party)](../../tree/master/story/ep3/tr/umi3_20.txt) ✅
          * [Song: activepain](../../../umineko-scripting-tr-files/tree/master/files/video/sub/83_tr.ass) ✅
    * Other
       * [Tips Titles](../../blob/master/script/tr/menu.txt#L20-L26) ✅
@@ -121,7 +121,7 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
 </details>
 
 * <details>
-  <summary>Episode 4 ❌</summary>
+  <summary>Episode 4 ✍️</summary>
 
    * Story
       * [Chapter 0 (Prologue)](../../tree/master/story/ep4/tr/umi4_op.txt) ❌
