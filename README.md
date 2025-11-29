@@ -124,9 +124,9 @@ Detaylı kuruluma [buradan](https://witch-love.com/umineko/installation) ulaşab
   <summary>Episode 4 ✍️</summary>
 
    * Story
-      * [Chapter 0 (Prologue)](../../tree/master/story/ep4/tr/umi4_op.txt) ❌
-      * [Chapter 1](../../tree/master/story/ep4/tr/umi4_1.txt) ❌
-      * [Chapter 2](../../tree/master/story/ep4/tr/umi4_2.txt) ❌
+      * [Chapter 0 (Prologue)](../../tree/master/story/ep4/tr/umi4_op.txt) ✅
+      * [Chapter 1](../../tree/master/story/ep4/tr/umi4_1.txt) ✅
+      * [Chapter 2](../../tree/master/story/ep4/tr/umi4_2.txt) ✍️
       * [Chapter 3](../../tree/master/story/ep4/tr/umi4_3.txt) ❌
       * [Chapter 4](../../tree/master/story/ep4/tr/umi4_4.txt) ❌
       * [Chapter 5](../../tree/master/story/ep4/tr/umi4_5.txt) ❌
